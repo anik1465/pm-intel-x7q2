@@ -113,6 +113,9 @@
   .mover .chg { font-family: var(--mono); font-weight: 700; font-size: 16px; }
   .mover .sub { display: flex; gap: 12px; font-family: var(--mono); font-size: 11px;
     color: var(--faint); margin-top: 2px; }
+  .spark { width: 100%; height: 26px; display: block; margin-top: 7px; }
+  .spark-wrap { display: flex; align-items: center; gap: 8px; }
+  .spark-wrap .lbl5 { font-family: var(--mono); font-size: 9px; color: var(--faint); }
   .mover .bar { height: 4px; border-radius: 2px; background: var(--panel2); margin: 9px 0 10px; overflow: hidden; }
   .mover .bar i { display: block; height: 100%; border-radius: 2px; transition: width .6s ease; }
   .mover.up .bar i { background: linear-gradient(90deg, rgba(46,189,133,.4), var(--up)); }
@@ -239,6 +242,19 @@
   const num = (c) => { const m = String(c || "").replace(/[+%,]/g, ""); const v = parseFloat(m); return isNaN(v) ? 0 : v; };
   const arrow = (c) => cls(c) === "up" ? "▲" : cls(c) === "down" ? "▼" : "•";
 
+  /* 5-day sparkline (inline SVG, oldest→newest closes) */
+  function sparkline(m) {
+    const s = (Array.isArray(m.spark) ? m.spark : []).filter(v => typeof v === "number" && isFinite(v));
+    if (s.length < 2) return "";
+    const w = 120, h = 26, min = Math.min(...s), max = Math.max(...s), rng = (max - min) || 1;
+    const pts = s.map((v, i) => (i / (s.length - 1) * w).toFixed(1) + "," + (h - 2 - (v - min) / rng * (h - 4)).toFixed(1)).join(" ");
+    const col = s[s.length - 1] >= s[0] ? "var(--up)" : "var(--down)";
+    return `<div class="spark-wrap"><svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">` +
+      `<polygon points="0,${h} ${pts} ${w},${h}" fill="${col}" opacity="0.10" stroke="none"/>` +
+      `<polyline points="${pts}" fill="none" stroke="${col}" stroke-width="1.6" vector-effect="non-scaling-stroke"/>` +
+      `</svg><span class="lbl5">5D</span></div>`;
+  }
+
   /* ---------- market status + countdown (PT) ---------- */
   function ptNow() {
     const now = new Date();
@@ -299,6 +315,7 @@
       `<div class="mover ${m._d}" style="animation-delay:${i * 30}ms" onclick="this.classList.toggle('open')">` +
       `<div class="top"><span class="tkr">${esc(m.ticker)}</span><span class="chg ${m._d}">${arrow(m.chg)} ${esc(m.chg)}</span></div>` +
       `<div class="sub"><span>PX ${esc(m.price || "—")}</span><span>VOL ${esc(m.volume || "—")}</span><span class="hint">${m.catalyst ? "tap for catalyst" : ""}</span></div>` +
+      sparkline(m) +
       `<div class="bar"><i style="width:${Math.round(m._n / maxN * 100)}%"></i></div>` +
       (m.catalyst ? `<div class="catalyst">${esc(m.catalyst)}${m.url ? ` <a href="${esc(m.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">[${esc(m.source || "src")}]</a>` : ""}</div>` : "") +
       `</div>`).join("");

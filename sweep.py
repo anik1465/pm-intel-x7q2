@@ -12,6 +12,7 @@ Never fabricates: every item comes from a fetched page; gaps go to notes.
 import json
 import re
 import sys
+import time
 import html as _html
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
@@ -48,6 +49,27 @@ def pt_now():
 
 
 # ---------------------------------------------------------------- movers
+def fetch_spark(ticker, days=5):
+    """Last N daily closes (oldest→newest) from stockanalysis history page."""
+    try:
+        url = f"https://stockanalysis.com/stocks/{ticker.lower()}/history/"
+        soup = BeautifulSoup(get(url, timeout=15).text, "html.parser")
+        table = soup.find("table")
+        if not table:
+            return []
+        closes = []
+        for tr in table.find_all("tr")[1:days + 1]:
+            tds = [td.get_text(strip=True) for td in tr.find_all("td")]
+            if len(tds) >= 5:
+                try:
+                    closes.append(float(tds[4].replace(",", "").replace("$", "")))
+                except ValueError:
+                    pass
+        return closes[::-1]
+    except Exception:
+        return []
+
+
 def fetch_movers():
     """stockanalysis.com premarket movers; falls back to regular-session lists."""
     urls = [
@@ -90,6 +112,9 @@ def fetch_movers():
                 if len(movers) >= 12:
                     break
             if movers:
+                for m in movers:
+                    m["spark"] = fetch_spark(m["ticker"])
+                    time.sleep(0.3)
                 if label != "premarket":
                     notes.append(f"Premarket table unavailable; movers reflect {label}.")
                 return movers
