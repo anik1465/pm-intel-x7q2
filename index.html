@@ -6,11 +6,11 @@
 <title>Pre-Market Intel</title>
 <style>
   :root {
-    --bg: #0a0e14;
-    --panel: #11161f;
-    --panel2: #161d29;
-    --border: #1f2836;
-    --text: #d7dee9;
+    --bg: #070b11;
+    --panel: #10161f;
+    --panel2: #151e2b;
+    --border: #1e2938;
+    --text: #dbe4f0;
     --dim: #7d8ba0;
     --faint: #4a586e;
     --up: #2ebd85;
@@ -21,196 +21,350 @@
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    background: var(--bg);
+    background: radial-gradient(1200px 500px at 70% -100px, rgba(76,154,255,.07), transparent 60%),
+                radial-gradient(900px 400px at 10% -80px, rgba(240,185,11,.05), transparent 60%),
+                var(--bg);
     color: var(--text);
     font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
-    min-height: 100vh;
+    font-size: 14px; line-height: 1.5; min-height: 100vh;
   }
-  .wrap { max-width: 1180px; margin: 0 auto; padding: 20px 24px 60px; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 18px 24px 60px; }
 
-  /* header */
+  /* ---------- hero ---------- */
   header {
-    display: flex; align-items: baseline; justify-content: space-between;
-    flex-wrap: wrap; gap: 8px;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 12px; padding: 16px 0 14px;
     border-bottom: 1px solid var(--border);
-    padding: 14px 0 12px;
-    position: sticky; top: 0; background: var(--bg); z-index: 10;
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(7,11,17,.88); backdrop-filter: blur(10px);
   }
   .brand { font-family: var(--mono); font-weight: 700; font-size: 18px; letter-spacing: 1px; }
   .brand .live { color: var(--accent); }
-  .brand .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--up); margin-right: 8px; animation: pulse 2s infinite; }
-  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
-  .meta { font-family: var(--mono); font-size: 12px; color: var(--dim); text-align: right; }
-  .meta b { color: var(--text); font-weight: 600; }
+  .brand .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    background: var(--up); margin-right: 8px; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .hero-right { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .status-pill {
+    font-family: var(--mono); font-size: 11px; font-weight: 700; letter-spacing: 1px;
+    padding: 6px 14px; border-radius: 20px; border: 1px solid;
+  }
+  .status-pill.pre  { color: var(--accent); border-color: rgba(240,185,11,.5); background: rgba(240,185,11,.08); }
+  .status-pill.open { color: var(--up);  border-color: rgba(46,189,133,.5);  background: rgba(46,189,133,.08); }
+  .status-pill.closed { color: var(--dim); border-color: var(--border); background: var(--panel); }
+  .countdown { font-family: var(--mono); font-size: 13px; color: var(--dim); }
+  .countdown b { color: var(--text); font-size: 15px; }
+  .meta { font-family: var(--mono); font-size: 11px; color: var(--faint); }
+  .meta b { color: var(--dim); font-weight: 600; }
 
   .notes {
     margin-top: 12px; padding: 8px 12px; font-size: 12px; color: var(--accent);
-    background: rgba(240,185,11,.06); border: 1px solid rgba(240,185,11,.25); border-radius: 6px;
-    display: none;
+    background: rgba(240,185,11,.06); border: 1px solid rgba(240,185,11,.25);
+    border-radius: 6px; display: none;
   }
 
-  /* futures strip */
-  .strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; margin-top: 16px; }
+  /* ---------- futures ---------- */
+  .strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(112px, 1fr)); gap: 8px; margin-top: 16px; }
   .chip {
-    background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
-    padding: 10px 12px; font-family: var(--mono);
+    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 12px; font-family: var(--mono); position: relative; overflow: hidden;
+    transition: transform .15s ease, border-color .15s ease;
   }
+  .chip:hover { transform: translateY(-2px); border-color: var(--faint); }
+  .chip::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; }
+  .chip.up::before { background: var(--up); box-shadow: 0 0 12px var(--up); }
+  .chip.down::before { background: var(--down); box-shadow: 0 0 12px var(--down); }
   .chip .lbl { font-size: 10px; color: var(--faint); text-transform: uppercase; letter-spacing: .5px; }
   .chip .val { font-size: 15px; font-weight: 600; margin-top: 2px; }
-  .chip .chg { font-size: 12px; margin-top: 1px; }
-  .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--dim); }
+  .chip .chg { font-size: 12px; margin-top: 1px; display: flex; align-items: center; gap: 4px; }
+  .arrow { font-size: 10px; }
 
-  section { margin-top: 26px; }
-  h2 {
-    font-family: var(--mono); font-size: 12px; font-weight: 700; letter-spacing: 1.5px;
-    color: var(--dim); text-transform: uppercase;
-    border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-bottom: 12px;
-  }
+  /* ---------- sections ---------- */
+  section { margin-top: 30px; }
+  .sec-head { display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 10px; border-bottom: 1px solid var(--border);
+    padding-bottom: 8px; margin-bottom: 14px; }
+  h2 { font-family: var(--mono); font-size: 12px; font-weight: 700; letter-spacing: 1.5px;
+    color: var(--dim); text-transform: uppercase; }
   h2 .count { color: var(--faint); font-weight: 400; }
 
-  /* movers table */
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th { font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: .5px;
-       color: var(--faint); text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
-  td { padding: 9px 10px; border-bottom: 1px solid var(--panel2); vertical-align: top; }
-  tr:hover td { background: var(--panel2); }
-  .tkr { font-family: var(--mono); font-weight: 700; font-size: 14px; }
-  .px { font-family: var(--mono); }
-  .catalyst { color: var(--dim); font-size: 12.5px; max-width: 520px; }
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tab {
+    font-family: var(--mono); font-size: 11px; padding: 4px 12px; border-radius: 14px;
+    border: 1px solid var(--border); background: transparent; color: var(--dim);
+    cursor: pointer; transition: all .15s ease;
+  }
+  .tab:hover { border-color: var(--faint); color: var(--text); }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: #111; font-weight: 700; }
+  .tab.active.up { background: var(--up); border-color: var(--up); }
+  .tab.active.down { background: var(--down); border-color: var(--down); color: #fff; }
+  .tab .n { opacity: .65; margin-left: 4px; }
+
+  /* ---------- movers ---------- */
+  .movers { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 10px; }
+  .mover {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 13px 15px; cursor: pointer; transition: all .15s ease;
+    animation: rise .35s ease both;
+  }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .mover:hover { border-color: var(--faint); transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.35); }
+  .mover .top { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+  .mover .tkr { font-family: var(--mono); font-weight: 700; font-size: 16px; }
+  .mover .chg { font-family: var(--mono); font-weight: 700; font-size: 16px; }
+  .mover .sub { display: flex; gap: 12px; font-family: var(--mono); font-size: 11px;
+    color: var(--faint); margin-top: 2px; }
+  .mover .bar { height: 4px; border-radius: 2px; background: var(--panel2); margin: 9px 0 10px; overflow: hidden; }
+  .mover .bar i { display: block; height: 100%; border-radius: 2px; transition: width .6s ease; }
+  .mover.up .bar i { background: linear-gradient(90deg, rgba(46,189,133,.4), var(--up)); }
+  .mover.down .bar i { background: linear-gradient(90deg, rgba(246,70,93,.4), var(--down)); }
+  .mover .catalyst { color: var(--dim); font-size: 12.5px; max-height: 0; overflow: hidden;
+    transition: max-height .25s ease; }
+  .mover.open .catalyst, .mover:hover .catalyst { max-height: 120px; }
   .catalyst a { color: var(--blue); text-decoration: none; font-size: 11px; margin-left: 6px; }
   .catalyst a:hover { text-decoration: underline; }
-  .vol { font-family: var(--mono); color: var(--dim); font-size: 12px; }
+  .mover .hint { font-family: var(--mono); font-size: 9px; color: var(--faint); text-align: right; }
+  .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--dim); }
 
-  /* headlines */
-  .hl { display: flex; gap: 12px; padding: 9px 4px; border-bottom: 1px solid var(--panel2); align-items: baseline; }
-  .hl:hover { background: var(--panel2); }
-  .hl .t { font-family: var(--mono); font-size: 11px; color: var(--faint); min-width: 74px; }
-  .hl .src { font-family: var(--mono); font-size: 10px; color: var(--accent); min-width: 96px; text-transform: uppercase; letter-spacing: .5px; }
-  .hl a { color: var(--text); text-decoration: none; flex: 1; }
-  .hl a:hover { color: var(--blue); }
-  .hl .tag { font-family: var(--mono); font-size: 9px; padding: 1px 6px; border: 1px solid var(--border); border-radius: 3px; color: var(--faint); }
-
-  /* earnings chips */
-  .earn { display: flex; flex-wrap: wrap; gap: 8px; }
-  .e {
-    background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
-    padding: 7px 11px; font-family: var(--mono); font-size: 12px;
+  /* ---------- headlines ---------- */
+  .hl {
+    display: flex; gap: 12px; padding: 10px 10px; border-bottom: 1px solid var(--panel2);
+    align-items: baseline; border-radius: 6px; animation: rise .3s ease both;
   }
-  .e b { font-size: 13px; }
-  .e .when { color: var(--accent); font-size: 10px; margin-left: 6px; }
-  .e .note { color: var(--faint); font-size: 11px; margin-left: 6px; }
+  .hl:hover { background: var(--panel2); }
+  .hl .t { font-family: var(--mono); font-size: 11px; color: var(--faint); min-width: 86px; }
+  .hl .src { font-family: var(--mono); font-size: 10px; color: var(--accent); min-width: 96px;
+    text-transform: uppercase; letter-spacing: .5px; }
+  .hl a { color: var(--text); text-decoration: none; flex: 1; transition: color .1s; }
+  .hl a:hover { color: var(--blue); }
+  .hl .tag { font-family: var(--mono); font-size: 9px; padding: 1px 7px; border: 1px solid var(--border);
+    border-radius: 3px; color: var(--faint); cursor: pointer; }
+  .hl .tag:hover { color: var(--accent); border-color: var(--accent); }
 
-  /* desk view */
-  .watch { list-style: none; }
-  .watch li { padding: 8px 4px 8px 22px; position: relative; border-bottom: 1px solid var(--panel2); color: var(--text); }
-  .watch li::before { content: "▸"; color: var(--accent); position: absolute; left: 4px; }
+  /* ---------- earnings ---------- */
+  .earn-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .earn-col { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 13px 15px; }
+  .earn-col h3 { font-family: var(--mono); font-size: 11px; letter-spacing: 1px; margin-bottom: 9px; }
+  .earn-col.bmo h3 { color: var(--accent); }
+  .earn-col.amc h3 { color: var(--blue); }
+  .e { display: flex; align-items: baseline; gap: 9px; padding: 6px 0; border-bottom: 1px solid var(--panel2);
+    font-family: var(--mono); font-size: 12px; }
+  .e:last-child { border-bottom: 0; }
+  .e b { font-size: 13.5px; min-width: 52px; }
+  .e .note { color: var(--faint); font-size: 11px; font-family: -apple-system, Arial, sans-serif; }
+  .earn-empty { color: var(--faint); font-family: var(--mono); font-size: 11px; padding: 8px 0; }
+  @media (max-width: 720px) { .earn-cols { grid-template-columns: 1fr; } }
 
-  footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border);
-           font-size: 11px; color: var(--faint); font-family: var(--mono); }
+  /* ---------- desk view ---------- */
+  .watch { display: grid; gap: 9px; counter-reset: w; }
+  .watch li {
+    list-style: none; background: var(--panel); border: 1px solid var(--border);
+    border-left: 3px solid var(--accent); border-radius: 8px;
+    padding: 11px 14px 11px 44px; position: relative; counter-increment: w;
+  }
+  .watch li::before {
+    content: counter(w, decimal-leading-zero);
+    position: absolute; left: 12px; top: 11px;
+    font-family: var(--mono); font-size: 13px; font-weight: 700; color: var(--accent);
+  }
+
+  footer { margin-top: 44px; padding-top: 14px; border-top: 1px solid var(--border);
+    font-size: 11px; color: var(--faint); font-family: var(--mono); line-height: 1.8; }
 
   .empty { color: var(--faint); font-family: var(--mono); padding: 24px 0; text-align: center; }
   @media (max-width: 720px) {
     .hl { flex-wrap: wrap; gap: 4px 10px; }
-    .catalyst { max-width: none; }
+    .movers { grid-template-columns: 1fr; }
   }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <div class="brand"><span class="dot"></span>PRE-MARKET <span class="live">INTEL</span></div>
-    <div class="meta" id="meta">awaiting first run…</div>
+    <div>
+      <div class="brand"><span class="dot"></span>PRE-MARKET <span class="live">INTEL</span></div>
+      <div class="meta" id="meta">awaiting first run…</div>
+    </div>
+    <div class="hero-right">
+      <div class="countdown" id="countdown"></div>
+      <div class="status-pill closed" id="status">—</div>
+    </div>
   </header>
   <div class="notes" id="notes"></div>
 
   <div class="strip" id="futures"></div>
 
   <section>
-    <h2>Most Active / Movers <span class="count" id="mcount"></span></h2>
-    <table>
-      <thead><tr><th style="width:90px">Ticker</th><th style="width:90px">Last</th><th style="width:80px">Chg</th><th style="width:110px">Volume</th><th>Catalyst</th></tr></thead>
-      <tbody id="movers"></tbody>
-    </table>
+    <div class="sec-head">
+      <h2>Most Active / Movers <span class="count" id="mcount"></span></h2>
+      <div class="tabs" id="mtabs">
+        <button class="tab active" data-f="all">ALL</button>
+        <button class="tab up" data-f="up">GAINERS</button>
+        <button class="tab down" data-f="down">LOSERS</button>
+      </div>
+    </div>
+    <div class="movers" id="movers"></div>
     <div class="empty" id="mempty">No mover data yet — first sweep runs before the next market open.</div>
   </section>
 
   <section>
-    <h2>Major Headlines <span class="count" id="hcount"></span></h2>
+    <div class="sec-head">
+      <h2>Major Headlines <span class="count" id="hcount"></span></h2>
+      <div class="tabs" id="htabs"></div>
+    </div>
     <div id="headlines"></div>
     <div class="empty" id="hempty">No headlines yet.</div>
   </section>
 
   <section>
-    <h2>Earnings Today</h2>
-    <div class="earn" id="earnings"></div>
+    <div class="sec-head"><h2>Earnings</h2></div>
+    <div class="earn-cols" id="earnings"></div>
     <div class="empty" id="eempty">No earnings data yet.</div>
   </section>
 
   <section>
-    <h2>Desk View</h2>
+    <div class="sec-head"><h2>Desk View</h2></div>
     <ul class="watch" id="watch"></ul>
     <div class="empty" id="wempty">No desk notes yet.</div>
   </section>
 
-  <footer id="foot">PRE-MARKET INTEL · generated by an automated news-sweep agent · verify before trading · not investment advice</footer>
+  <footer id="foot"></footer>
 </div>
 
 <script src="briefing-data.js"></script>
 <script>
 (function () {
-  const B = window.BRIEFING || null;
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const cls = (c) => { const t = String(c || "").trim(); if (t.startsWith("-")) return "down"; if (t.startsWith("+")) return "up"; return "flat"; };
+  const num = (c) => { const m = String(c || "").replace(/[+%,]/g, ""); const v = parseFloat(m); return isNaN(v) ? 0 : v; };
+  const arrow = (c) => cls(c) === "up" ? "▲" : cls(c) === "down" ? "▼" : "•";
 
+  /* ---------- market status + countdown (PT) ---------- */
+  function ptNow() {
+    const now = new Date();
+    const y = now.getUTCFullYear();
+    const mar8 = Date.UTC(y, 2, 8), nov1 = Date.UTC(y, 10, 1);
+    const dstStart = mar8 + ((6 - new Date(mar8).getUTCDay() + 7) % 7) * 864e5;
+    const dstEnd = nov1 + ((6 - new Date(nov1).getUTCDay() + 7) % 7) * 864e5;
+    const off = (now.getTime() >= dstStart && now.getTime() < dstEnd) ? -7 : -8;
+    return new Date(now.getTime() + (now.getTimezoneOffset() + off * 60) * 60000);
+  }
+  function tick() {
+    const pt = ptNow();
+    const day = pt.getDay(), mins = pt.getHours() * 60 + pt.getMinutes() + pt.getSeconds() / 60;
+    const pill = $("status"), cd = $("countdown");
+    const wd = day >= 1 && day <= 5;
+    const fmt = (s) => { s = Math.max(0, Math.floor(s)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60;
+      return (h ? h + "h " : "") + String(m).padStart(2, "0") + "m " + String(x).padStart(2, "0") + "s"; };
+    if (wd && mins >= 390 && mins < 780) {
+      pill.className = "status-pill open"; pill.textContent = "MARKET OPEN";
+      cd.innerHTML = "closes in <b>" + fmt((780 - mins) * 60) + "</b>";
+    } else if (wd && mins < 390) {
+      pill.className = "status-pill pre"; pill.textContent = "PRE-MARKET";
+      cd.innerHTML = "opens in <b>" + fmt((390 - mins) * 60) + "</b>";
+    } else {
+      pill.className = "status-pill closed"; pill.textContent = "CLOSED";
+      let d = new Date(pt); d.setHours(6, 30, 0, 0);
+      if (!wd || mins >= 390) { d.setDate(d.getDate() + 1); while (d.getDay() === 0 || d.getDay() === 6) d.setDate(d.getDate() + 1); }
+      cd.innerHTML = "next open in <b>" + fmt((d - pt) / 1000) + "</b>";
+    }
+  }
+  tick(); setInterval(tick, 1000);
+
+  /* ---------- data ---------- */
+  const B = window.BRIEFING || null;
+  $("foot").innerHTML = "PRE-MARKET INTEL · cloud + agent pipeline · data as swept — verify before trading · not investment advice";
   if (!B || !B.generatedAtPT) return;
 
   $("meta").innerHTML = "TRADING DAY <b>" + esc(B.tradingDate || "—") + "</b> · GENERATED <b>" + esc(B.generatedAtPT) + "</b>";
-
   if (B.notes) { const n = $("notes"); n.textContent = "⚠ " + B.notes; n.style.display = "block"; }
 
-  // futures
+  /* futures */
   const fut = Array.isArray(B.futures) ? B.futures : [];
   $("futures").innerHTML = fut.map(f =>
-    `<div class="chip"><div class="lbl">${esc(f.label)}</div><div class="val">${esc(f.value)}</div><div class="chg ${cls(f.chg)}">${esc(f.chg)}</div></div>`
+    `<div class="chip ${cls(f.chg)}"><div class="lbl">${esc(f.label)}</div>` +
+    `<div class="val">${esc(f.value)}</div>` +
+    `<div class="chg ${cls(f.chg)}"><span class="arrow">${arrow(f.chg)}</span>${esc(f.chg)}</div></div>`
   ).join("");
 
-  // movers
-  const mv = Array.isArray(B.movers) ? B.movers : [];
-  $("mcount").textContent = mv.length ? "(" + mv.length + ")" : "";
-  if (mv.length) {
-    $("mempty").style.display = "none";
-    $("movers").innerHTML = mv.map(m =>
-      `<tr><td class="tkr">${esc(m.ticker)}</td><td class="px">${esc(m.price)}</td>` +
-      `<td class="px ${cls(m.chg)}">${esc(m.chg)}</td><td class="vol">${esc(m.volume || "")}</td>` +
-      `<td class="catalyst">${esc(m.catalyst || "")}${m.url ? ` <a href="${esc(m.url)}" target="_blank" rel="noopener">[${esc(m.source || "src")}]</a>` : ""}</td></tr>`
-    ).join("");
+  /* movers: cards + filter + magnitude bars */
+  const mv = (Array.isArray(B.movers) ? B.movers : []).map(m => ({ ...m, _n: Math.abs(num(m.chg)), _d: cls(m.chg) }));
+  const maxN = Math.max(1, ...mv.map(m => m._n));
+  let mf = "all";
+  function drawMovers() {
+    const list = mv.filter(m => mf === "all" ? true : m._d === mf).sort((a, b) => b._n - a._n);
+    $("mcount").textContent = mv.length ? "(" + list.length + " of " + mv.length + ")" : "";
+    $("mempty").style.display = list.length ? "none" : "block";
+    $("movers").innerHTML = list.map((m, i) =>
+      `<div class="mover ${m._d}" style="animation-delay:${i * 30}ms" onclick="this.classList.toggle('open')">` +
+      `<div class="top"><span class="tkr">${esc(m.ticker)}</span><span class="chg ${m._d}">${arrow(m.chg)} ${esc(m.chg)}</span></div>` +
+      `<div class="sub"><span>PX ${esc(m.price || "—")}</span><span>VOL ${esc(m.volume || "—")}</span><span class="hint">${m.catalyst ? "tap for catalyst" : ""}</span></div>` +
+      `<div class="bar"><i style="width:${Math.round(m._n / maxN * 100)}%"></i></div>` +
+      (m.catalyst ? `<div class="catalyst">${esc(m.catalyst)}${m.url ? ` <a href="${esc(m.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">[${esc(m.source || "src")}]</a>` : ""}</div>` : "") +
+      `</div>`).join("");
   }
+  const gainers = mv.filter(m => m._d === "up").length, losers = mv.filter(m => m._d === "down").length;
+  document.querySelector('#mtabs [data-f="up"]').innerHTML = "GAINERS <span class='n'>" + gainers + "</span>";
+  document.querySelector('#mtabs [data-f="down"]').innerHTML = "LOSERS <span class='n'>" + losers + "</span>";
+  $("mtabs").addEventListener("click", e => {
+    const b = e.target.closest(".tab"); if (!b) return;
+    mf = b.dataset.f;
+    document.querySelectorAll("#mtabs .tab").forEach(t => t.classList.toggle("active", t === b));
+    drawMovers();
+  });
+  if (mv.length) drawMovers();
 
-  // headlines
+  /* headlines: tag chips filter */
   const hl = Array.isArray(B.headlines) ? B.headlines : [];
-  $("hcount").textContent = hl.length ? "(" + hl.length + ")" : "";
-  if (hl.length) {
-    $("hempty").style.display = "none";
-    $("headlines").innerHTML = hl.map(h =>
-      `<div class="hl"><span class="t">${esc(h.time || "")}</span><span class="src">${esc(h.source || "")}</span>` +
+  const tags = [...new Set(hl.map(h => h.tag).filter(Boolean))];
+  let hf = "ALL";
+  function drawHeadlines() {
+    const list = hl.filter(h => hf === "ALL" || h.tag === hf);
+    $("hcount").textContent = hl.length ? "(" + list.length + " of " + hl.length + ")" : "";
+    $("hempty").style.display = list.length ? "none" : "block";
+    $("headlines").innerHTML = list.map((h, i) =>
+      `<div class="hl" style="animation-delay:${i * 25}ms"><span class="t">${esc(h.time || "")}</span>` +
+      `<span class="src">${esc(h.source || "")}</span>` +
       `<a href="${esc(h.url || "#")}" target="_blank" rel="noopener">${esc(h.title)}</a>` +
-      (h.tag ? `<span class="tag">${esc(h.tag)}</span>` : "") + `</div>`
-    ).join("");
+      (h.tag ? `<span class="tag" data-tag="${esc(h.tag)}">${esc(h.tag)}</span>` : "") + `</div>`).join("");
+  }
+  if (hl.length) {
+    $("htabs").innerHTML = [`<button class="tab active" data-f="ALL">ALL <span class="n">${hl.length}</span></button>`,
+      ...tags.map(t => `<button class="tab" data-f="${esc(t)}">${esc(t)} <span class="n">${hl.filter(h => h.tag === t).length}</span></button>`)].join("");
+    $("htabs").addEventListener("click", e => {
+      const b = e.target.closest(".tab"); if (!b) return;
+      hf = b.dataset.f;
+      document.querySelectorAll("#htabs .tab").forEach(t => t.classList.toggle("active", t === b));
+      drawHeadlines();
+    });
+    $("headlines").addEventListener("click", e => {
+      const t = e.target.closest(".tag"); if (!t) return;
+      hf = t.dataset.tag;
+      document.querySelectorAll("#htabs .tab").forEach(x => x.classList.toggle("active", x.dataset.f === hf));
+      drawHeadlines();
+    });
+    drawHeadlines();
   }
 
-  // earnings
+  /* earnings: BMO / AMC columns */
   const er = Array.isArray(B.earnings) ? B.earnings : [];
   if (er.length) {
     $("eempty").style.display = "none";
-    $("earnings").innerHTML = er.map(e =>
-      `<div class="e"><b>${esc(e.ticker)}</b><span class="when">${esc(e.when || "")}</span>${e.note ? `<span class="note">${esc(e.note)}</span>` : ""}</div>`
-    ).join("");
+    const col = (when, clsName, label) => {
+      const rows = er.filter(e => String(e.when || "").toUpperCase().includes(when));
+      return `<div class="earn-col ${clsName}"><h3>${label} <span class="n" style="color:var(--faint)">(${rows.length})</span></h3>` +
+        (rows.length ? rows.map(e =>
+          `<div class="e"><b>${esc(e.ticker)}</b><span class="note">${esc(e.note || "")}</span></div>`).join("")
+          : `<div class="earn-empty">none flagged</div>`) + `</div>`;
+    };
+    const other = er.filter(e => !/BMO|AMC/i.test(String(e.when || "")));
+    $("earnings").innerHTML = col("BMO", "bmo", "BEFORE OPEN") + col("AMC", "amc", "AFTER CLOSE") +
+      (other.length ? `<div class="earn-col"><h3 style="color:var(--dim)">ALSO TODAY</h3>` +
+        other.map(e => `<div class="e"><b>${esc(e.ticker)}</b><span class="note">${esc(e.when)} ${esc(e.note || "")}</span></div>`).join("") + `</div>` : "");
+    $("earnings").style.gridTemplateColumns = other.length ? "1fr 1fr 1fr" : "";
   }
 
-  // watch
+  /* desk view */
   const w = Array.isArray(B.watch) ? B.watch : [];
   if (w.length) {
     $("wempty").style.display = "none";
