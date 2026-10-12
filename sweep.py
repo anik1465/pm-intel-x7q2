@@ -70,6 +70,40 @@ def fetch_spark(ticker, days=5):
         return []
 
 
+def fetch_catalyst(ticker):
+    """Top recent headline for the ticker. Yahoo per-ticker RSS first,
+    else the first external news link on the stockanalysis ticker page."""
+    try:
+        url = (f"https://feeds.finance.yahoo.com/rss/2.0/headline?"
+               f"s={ticker}&region=US&lang=en-US")
+        root = ET.fromstring(get(url, timeout=12).content)
+        for it in root.iter("item"):
+            title = (it.findtext("title") or "").strip()
+            link = (it.findtext("link") or "").strip()
+            if title and link:
+                return _html.unescape(title)[:140], link, "Yahoo Finance"
+    except Exception:
+        pass
+    try:
+        soup = BeautifulSoup(
+            get(f"https://stockanalysis.com/stocks/{ticker.lower()}/",
+                timeout=15).text, "html.parser")
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            txt = a.get_text(strip=True)
+            if (href.startswith("http") and "stockanalysis.com" not in href
+                    and len(txt) > 25 and href not in seen
+                    and "://" not in txt
+                    and not re.fullmatch(r"(www\.)?[\w-]+\.(com|net|org|io|co)\S*", txt)):
+                seen.add(href)
+                dom = re.sub(r"^https?://(www\.)?", "", href).split("/")[0]
+                return txt[:140], href, dom
+    except Exception:
+        pass
+    return "", f"https://stockanalysis.com/stocks/{ticker.lower()}/", "stockanalysis"
+
+
 def fetch_movers():
     """stockanalysis.com premarket movers; falls back to regular-session lists."""
     urls = [
@@ -114,6 +148,9 @@ def fetch_movers():
             if movers:
                 for m in movers:
                     m["spark"] = fetch_spark(m["ticker"])
+                    cat, curl, csrc = fetch_catalyst(m["ticker"])
+                    if cat:
+                        m["catalyst"], m["url"], m["source"] = cat, curl, csrc
                     time.sleep(0.3)
                 if label != "premarket":
                     notes.append(f"Premarket table unavailable; movers reflect {label}.")
@@ -130,6 +167,8 @@ FEEDS = [
     ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
     ("Benzinga", "https://www.benzinga.com/feed"),
     ("Seeking Alpha", "https://seekingalpha.com/market_currents.xml"),
+    ("Google News", "https://news.google.com/rss/search?q=stock+market+when:1d&hl=en-US&gl=US&ceid=US:en"),
+    ("FT", "https://www.ft.com/?format=rss"),
 ]
 TAG_RULES = [
     (r"\b(fed|fomc|rate|inflation|cpi|powell|treasury|yield)\b", "FED"),
