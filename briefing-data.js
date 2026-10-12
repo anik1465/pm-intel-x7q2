@@ -1,312 +1,65 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 11, 2026 · 6:54 PM PT",
-  "tradingDate": "Sun Oct 11",
+  "generatedAtPT": "Oct 11, 2026 · 7:02 PM PT",
+  "tradingDate": "Fri Oct 9 (latest close)",
   "futures": [
-    {
-      "label": "VIX",
-      "value": "14.84",
-      "chg": "-3.70%"
-    },
-    {
-      "label": "US 10Y",
-      "value": "5.242%",
-      "chg": "+0.172%"
-    },
-    {
-      "label": "WTI CRUDE",
-      "value": "90.43",
-      "chg": "-1.55%"
-    },
-    {
-      "label": "GOLD",
-      "value": "4,226.70",
-      "chg": "+0.25%"
-    },
-    {
-      "label": "DXY",
-      "value": "102.135",
-      "chg": "-0.08%"
-    },
-    {
-      "label": "BITCOIN",
-      "value": "83,400.47",
-      "chg": "+0.50%"
-    }
+    {"label":"S&P FUT","value":"7,878.25","chg":"+0.24%"},
+    {"label":"NASDAQ FUT","value":"31,182.25","chg":"+0.24%"},
+    {"label":"DOW FUT","value":"52,038.00","chg":"+0.22%"},
+    {"label":"VIX","value":"14.84","chg":"-3.70%"},
+    {"label":"US 10Y","value":"5.24%","chg":"+0.25%"},
+    {"label":"WTI CRUDE","value":"90.47","chg":"-1.50%"},
+    {"label":"GOLD","value":"4,236.40","chg":"+0.48%"},
+    {"label":"DXY","value":"102.24","chg":"+0.02%"},
+    {"label":"BITCOIN","value":"83,670.78","chg":"+0.87%"}
   ],
   "movers": [
-    {
-      "ticker": "VIVK",
-      "price": "7.50",
-      "chg": "+87.03%",
-      "volume": "11,078,545",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/vivk/",
-      "spark": [
-        4.84,
-        4.8,
-        4.35,
-        4.01,
-        3.8
-      ]
-    },
-    {
-      "ticker": "VEEA",
-      "price": "5.67",
-      "chg": "+46.38%",
-      "volume": "24,248,921",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/veea/",
-      "spark": [
-        5.72,
-        4.94,
-        4.71,
-        3.87,
-        5.7
-      ]
-    },
-    {
-      "ticker": "MI",
-      "price": "1.11",
-      "chg": "+24.20%",
-      "volume": "21,178,952",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/mi/",
-      "spark": [
-        7.0,
-        1.23,
-        1.54,
-        0.89,
-        0.9
-      ]
-    },
-    {
-      "ticker": "FRGT",
-      "price": "0.30",
-      "chg": "+18.57%",
-      "volume": "55,681,727",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/frgt/",
-      "spark": [
-        0.25,
-        0.32,
-        0.25,
-        0.26,
-        0.29
-      ]
-    },
-    {
-      "ticker": "OFAL",
-      "price": "0.49",
-      "chg": "+17.83%",
-      "volume": "48,548,056",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/ofal/",
-      "spark": [
-        0.46,
-        0.46,
-        0.43,
-        0.41,
-        0.55
-      ]
-    },
-    {
-      "ticker": "HUM",
-      "price": "450.99",
-      "chg": "+16.50%",
-      "volume": "205,282",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/hum/",
-      "spark": [
-        404.07,
-        404.27,
-        396.51,
-        387.12,
-        431.87
-      ]
-    },
-    {
-      "ticker": "OLB",
-      "price": "0.62",
-      "chg": "+13.75%",
-      "volume": "39,379,463",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/olb/",
-      "spark": [
-        0.19,
-        0.41,
-        0.39,
-        0.55,
-        0.5
-      ]
-    },
-    {
-      "ticker": "NN",
-      "price": "13.19",
-      "chg": "+13.71%",
-      "volume": "176,457",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/nn/",
-      "spark": [
-        13.32,
-        13.27,
-        12.71,
-        11.6,
-        12.35
-      ]
-    },
-    {
-      "ticker": "NGNE",
-      "price": "30.09",
-      "chg": "+13.55%",
-      "volume": "8,602",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/ngne/",
-      "spark": [
-        26.47,
-        25.45,
-        25.87,
-        26.5,
-        26.4
-      ]
-    },
-    {
-      "ticker": "CLOV",
-      "price": "5.20",
-      "chg": "+13.54%",
-      "volume": "369,806",
-      "catalyst": "",
-      "source": "stockanalysis",
-      "url": "https://stockanalysis.com/stocks/clov/",
-      "spark": [
-        4.68,
-        4.6,
-        4.56,
-        4.58,
-        4.79
-      ]
-    }
+    {"ticker":"WFF","price":"12.29","chg":"+499.51%","volume":"146.1M","catalyst":"No confirmed catalyst identified; low-cap fiberglass-products maker exploded on massive volume, Friday's top gainer by a wide margin","source":"Financial Modeling Prep","url":"https://site.financialmodelingprep.com/market-news/top-stock-gainers-wf-holding-veea-fastly-october-9-2026","spark":[2.29,2.01,2.10,2.05,12.29]},
+    {"ticker":"TMUS","price":"148.58","chg":"-13.27%","volume":"12.7M","catalyst":"Worst-hit carrier after SpaceX bought a nationwide low-band spectrum license for Starlink Mobile; shares tapped December 2023 lows","source":"Yahoo Finance","url":"https://finance.yahoo.com/quote/TMUS/history/","spark":[164.64,165.93,167.65,171.31,148.58]},
+    {"ticker":"FSLY","price":"29.30","chg":"+15.86%","volume":"15.2M","catalyst":"Oppenheimer upgraded to Outperform with $35 target, citing AI-agent traffic and security cross-selling; sees Q3 revenue at high end of guidance","source":"Motley Fool","url":"https://www.fool.com/investing/2026/10/09/why-fastly-stock-is-soaring-today/","spark":[26.01,25.51,25.28,25.29,29.30]},
+    {"ticker":"CCI","price":"79.64","chg":"+15.60%","volume":"14.2M","catalyst":"SpaceX/Starlink-related tower-demand speculation after the spectrum deal; towers CCI, AMT, SBAC surged 7-16%","source":"Yahoo Finance","url":"https://finance.yahoo.com/quote/CCI/","spark":[67.58,68.28,69.01,68.89,79.64]},
+    {"ticker":"NVAX","price":"12.75","chg":"+15.80%","volume":"19.0M","catalyst":"Vaccine complex rallied on NYT report of an NIH-led public-private push to accelerate cancer vaccines; among the session's top gainers","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","spark":[12.56,11.32,11.22,11.01,12.75]},
+    {"ticker":"MRNA","price":"225.00","chg":"+14.21%","volume":"28.9M","catalyst":"Seen as prime beneficiary of the NIH cancer-vaccine initiative (NYT); also joined the Nasdaq-100 at Friday's open; stock up 627% YTD","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","spark":[203.21,187.46,196.48,197.00,225.00]},
+    {"ticker":"HUM","price":"431.87","chg":"+11.56%","volume":"5.0M","catalyst":"2027 Medicare Advantage star ratings came in better than feared; Barclays raised its target to $582, Cantor Fitzgerald to $460","source":"Reuters","url":"https://www.reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09/","spark":[404.07,404.27,396.51,387.12,431.87]},
+    {"ticker":"T","price":"22.18","chg":"-9.81%","volume":"150.5M","catalyst":"SpaceX spectrum deal seen as a credible threat to carrier subscribers; AT&T, Verizon, T-Mobile were the S&P 500's three biggest decliners","source":"Investopedia","url":"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767","spark":[24.24,24.43,24.47,24.87,22.18]},
+    {"ticker":"ASTS","price":"50.97","chg":"-10.48%","volume":"54.4M","catalyst":"Direct-to-cell satellite rival sold off alongside carriers as SpaceX's spectrum buy strengthens the Starlink Mobile consumer push","source":"TheStreet","url":"https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026"},
+    {"ticker":"VZ","price":"41.65","chg":"-8.75%","volume":"95.2M","catalyst":"Same SpaceX spectrum shock; Evercore ISI said the carriers' best argument just got weaker as Starlink Mobile goes direct-to-consumer","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","spark":[45.85,45.98,45.77,46.35,41.65]},
+    {"ticker":"SPCX","price":"162.57","chg":"+1.25%","volume":"92.7M","catalyst":"Acquired nationwide low-band spectrum portfolio to close the gap toward a direct-to-consumer Starlink Mobile; Evercore ISI Outperform, $230 target","source":"Yahoo Finance","url":"https://finance.yahoo.com/quote/SPCX/history/","spark":[171.09,171.92,167.60,160.57,162.57]},
+    {"ticker":"DAL","price":"82.17","chg":"+0.04%","volume":"11.9M","catalyst":"Q3 EPS miss ($1.72 vs $1.82 est) and guidance cut as fuel bill jumped 62% YoY to $4.1B; recovered from a 4% early drop to close flat","source":"Yahoo Finance","url":"https://finance.yahoo.com/quote/DAL/history/","spark":[83.08,83.66,82.97,82.14,82.17]}
   ],
   "headlines": [
-    {
-      "time": "Sun 8:51 PM ET",
-      "source": "CNBC",
-      "title": "Why China is importing a record amount of gold — and what it means for prices",
-      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-      "tag": "ENERGY"
-    },
-    {
-      "time": "Sun 8:29 PM ET",
-      "source": "CNBC",
-      "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
-      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 8:23 PM ET",
-      "source": "CNBC",
-      "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
-      "url": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 7:17 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Amazon in talks to acquire AI startup Decart for $7B: WSJ",
-      "url": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "TECH"
-    },
-    {
-      "time": "Sun 7:11 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears",
-      "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "FED"
-    },
-    {
-      "time": "Sun 6:22 PM ET",
-      "source": "Seeking Alpha",
-      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
-      "url": "https://seekingalpha.com/news/4651952-ai-boom-echoes-1997-asian-financial-crisis-socgens-albert-edwards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "TECH"
-    },
-    {
-      "time": "Sun 6:16 PM ET",
-      "source": "CNBC",
-      "title": "Trump Media advisor Katie Zacharia named White House press secretary",
-      "url": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 5:49 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Mirum Pharmaceuticals to report Livmarli trial results Monday",
-      "url": "https://seekingalpha.com/news/4651951-mirum-pharmaceuticals-to-report-livmarli-trial-results-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 5:30 PM ET",
-      "source": "CNBC",
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "tag": "GEOPOLITICS"
-    },
-    {
-      "time": "Sun 5:15 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M",
-      "url": "https://seekingalpha.com/news/4651950-cyberleek-memecoin-jumps-as-gta-6-leaker-taunts-take-two-over-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 4:18 PM ET",
-      "source": "CNBC",
-      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
-      "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 4:15 PM ET",
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 4:09 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Treasury yields near 24-yr high as investors await inflation data, Fed signals",
-      "url": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "FED"
-    },
-    {
-      "time": "Sun 4:00 PM ET",
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Sun 3:53 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Stellantis unveils low-cost electric cars in bid to revive European sales",
-      "url": "https://seekingalpha.com/news/4651947-stellantis-unveils-low-cost-electric-cars-in-bid-to-revive-european-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    }
+    {"time":"Fri 5:02 PM ET","source":"Yahoo Finance","title":"Dow, S&P 500, Nasdaq rally to cap volatile week; all three post weekly gains with S&P 500 at 7,811.54 near record highs","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"MARKETS"},
+    {"time":"Fri 4:22 PM ET","source":"Investopedia","title":"SpaceX low-band spectrum deal sinks carriers 8.5-13% (T, VZ, TMUS); tower stocks CCI, SBAC, AMT surge 7-16%","url":"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767","tag":"TECH"},
+    {"time":"Weekend ET","source":"investinglive","title":"Chevron and Shell shut in output at nine US Gulf facilities as Hurricane Isaias nears; earlier report put ~63% of Gulf oil output offline","url":"https://investinglive.com/forex/monday-open-indicative-forex-prices-12-october-2026/","tag":"ENERGY"},
+    {"time":"Weekend ET","source":"investinglive","title":"Arab sources report several severe explosions in the Strait of Hormuz; Houthi attacks on Riyadh airport killed three, Bab el-Mandeb mining reported","url":"https://investinglive.com/forex/monday-open-indicative-forex-prices-12-october-2026/","tag":"GEOPOLITICS"},
+    {"time":"Fri 3:11 PM ET","source":"Yahoo Finance","title":"Trump says Putin agreed to supply 300K tons of diesel immediately and millions more later; US waiving Russian energy sanctions through April; Zelenskyy condemns deal","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"GEOPOLITICS"},
+    {"time":"Fri 2:00 PM ET","source":"Yahoo Finance","title":"Trump forms committee to investigate mortgage-fraud allegations against Fed Governor Lisa Cook, renewing push for her removal","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"FED"},
+    {"time":"Weekend ET","source":"investinglive","title":"Fed's Musalem says more monetary policy firming will be required — hawkish signal with 10Y yields near 24-year highs","url":"https://investinglive.com/forex/monday-open-indicative-forex-prices-12-october-2026/","tag":"FED"},
+    {"time":"Fri 8:07 AM ET","source":"Yahoo Finance","title":"Delta Q3 misses on EPS and revenue, cuts guidance; fuel costs up $500M vs July guidance as Iran war roils oil market","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"EARNINGS"},
+    {"time":"Fri 4:05 PM ET","source":"Reuters","title":"Humana surges as top beneficiary of 2027 Medicare Advantage star ratings, up from just 20% of members in 4-star plans in 2026","url":"https://www.reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09/","tag":"HEALTHCARE"},
+    {"time":"Fri 12:44 PM ET","source":"Yahoo Finance","title":"Moderna at highest level since 2021 on NYT-reported NIH cancer-vaccine initiative; Pfizer, BioNTech, Merck also rose","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"BIOTECH"},
+    {"time":"Fri AM ET","source":"Yahoo Finance","title":"AI scare fades: FT put OpenAI annualized revenue at $50B, $20B short of estimates; Bloomberg says OpenAI expects $70B+ by year-end and tech rebounds","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"TECH"},
+    {"time":"Fri 10:00 AM ET","source":"Yahoo Finance","title":"University of Michigan consumer sentiment falls to five-month low as $4 gas and inflation pressures weigh on households","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"MACRO"},
+    {"time":"Weekend ET","source":"City News Service","title":"Nvidia-backed AI data-center operator Firmus pulls planned $5B Australia IPO, citing market volatility; would have been the country's second-largest ever","url":"https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/weekend-buzz-10-11-october-2026-xm5g44ek","tag":"AI"},
+    {"time":"Weekend ET","source":"Reuters","title":"Asia closed the week firm: Hang Seng +1.79% Friday at 24,211 and Nikkei flat at 69,031; Tokyo shut Monday for Sports Day, Toronto for Canadian Thanksgiving","url":"https://www.reuters.com/markets/asia/","tag":"MARKETS"},
+    {"time":"Weekend ET","source":"City News Service","title":"Fed report shows 20% of American families behind on loan repayments, a level not seen since the 2007-09 recession","url":"https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/weekend-buzz-10-11-october-2026-xm5g44ek","tag":"MACRO"}
   ],
-  "earnings": [],
+  "earnings": [
+    {"ticker":"JPM","when":"Tue BMO","note":"Q3 results, 8:00 AM ET; est EPS $5.94 — kicks off bank earnings"},
+    {"ticker":"GS","when":"Tue BMO","note":"Q3 results; est EPS $13.04"},
+    {"ticker":"C","when":"Tue BMO","note":"Q3 results; est EPS $2.65"},
+    {"ticker":"WFC","when":"Tue BMO","note":"Q3 results; est EPS $1.85; Morgan Stanley upgraded to Overweight ahead of print"},
+    {"ticker":"UNH","when":"Tue BMO","note":"Q3 results; est EPS $4.12; read-through from HUM star-ratings rally"},
+    {"ticker":"JNJ","when":"Tue BMO","note":"Q3 results; est EPS $2.51 (-10.4% YoY)"},
+    {"ticker":"BAC","when":"Wed BMO","note":"Q3 results; est EPS $1.10"},
+    {"ticker":"ASML","when":"Wed BMO","note":"Q3 results; est EPS $12.07; key AI-capex tell"}
+  ],
   "watch": [
-    "Risk snapshot at sweep: VIX 14.84, 10Y 5.242%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: VIVK +87.03% on 11,078,545 volume — check its news catalyst before touching it.",
-    "Overnight risk headline: Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly"
+    "Columbus Day Monday: US equities open a full session but the bond market, banks, Tokyo (Sports Day) and Toronto (Thanksgiving) are all shut, with no noteworthy earnings — expect thin liquidity and gap risk into Tuesday's bank barrage (JPM, GS, C, WFC, UNH, JNJ all BMO Tuesday).",
+    "Sunday futures sit mildly green (ES +0.24%, NQ +0.24%, YM +0.22%) after Friday's rally left the S&P 500 at 7,811.54 near records; Delta's fuel-driven miss sets a cautious tone and WFC goes into its print with a fresh Morgan Stanley upgrade.",
+    "Oil is the wildcard at the reopen: WTI slipped to 90.47 (-1.5% Sunday evening) on the Trump-Putin diesel deal, but Chevron and Shell shut-ins at nine Gulf facilities ahead of Hurricane Isaias and reported Strait of Hormuz explosions keep the upside tail alive.",
+    "Telecom repricing continues: TMUS -13.3%, T -9.8%, VZ -8.8% Friday on SpaceX's spectrum buy while SPCX gained just 1.3%; watch follow-through selling vs dip-buying and whether tower momentum (CCI +15.6%, AMT +9.3%) holds in a thin session.",
+    "Rates and the Fed are the macro swing factor: 10Y closed Friday at 5.24% (24-year-high zone), Musalem says more firming may be required, and Trump is renewing pressure on the Fed via the Cook probe — with inflation data due this week, records-plus-5.25%-yields leaves little room for disappointment.",
+    "Watch the HUM-to-UNH read-through: Humana's +11.6% star-ratings relief rally (Barclays PT $582) sets up UnitedHealth's Tuesday BMO print; also monitor AI sentiment — Friday's OpenAI scare faded fast but the Firmus IPO pull shows the trade is valuation-fragile near highs."
   ],
-  "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
+  "notes": "Weekend run (Sun 7:02 PM PT): movers and headlines reflect Friday Oct 9's regular session, the latest close. Futures/commodity quotes are Yahoo delayed Sunday-evening snapshots (ES/NQ/YM as of 6:56-8:24 PM ET, CL/GC/BTC ~9:30 PM ET); VIX, 10Y and DXY are Friday closes. Monday Oct 12 is Columbus Day: US stock market open, bond market and banks closed; Tokyo and Toronto also shut. No noteworthy earnings Monday — the earnings list shows the week's kickoff (Tue-Wed, per Kiplinger/Yahoo/Wall Street Horizon; stockanalysis earnings calendar returned 404). WFF's +499% move has no confirmed catalyst. ASTS sparkline omitted: Yahoo and StockAnalysis show conflicting Oct 9 closes (47.81 vs 50.97); displayed price is StockAnalysis' 50.97."
 };
