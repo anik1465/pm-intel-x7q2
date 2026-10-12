@@ -1,5 +1,5 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 11, 2026 · 6:08 PM PT",
+  "generatedAtPT": "Oct 11, 2026 · 6:14 PM PT",
   "tradingDate": "Sun Oct 11",
   "futures": [
     {
@@ -14,23 +14,23 @@ window.BRIEFING = {
     },
     {
       "label": "WTI CRUDE",
-      "value": "90.58",
-      "chg": "-1.38%"
+      "value": "89.94",
+      "chg": "-2.08%"
     },
     {
       "label": "GOLD",
-      "value": "4,232.10",
-      "chg": "+0.37%"
+      "value": "4,235.80",
+      "chg": "+0.46%"
     },
     {
       "label": "DXY",
-      "value": "102.112",
+      "value": "102.111",
       "chg": "-0.10%"
     },
     {
       "label": "BITCOIN",
-      "value": "83,830.40",
-      "chg": "+1.01%"
+      "value": "83,836.27",
+      "chg": "+1.02%"
     }
   ],
   "movers": [
