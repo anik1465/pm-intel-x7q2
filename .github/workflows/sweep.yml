@@ -2,9 +2,12 @@ name: premarket-sweep
 
 on:
   schedule:
-    # 5:47 AM PT — both UTC offsets listed so it holds across DST changes
+    # 5:47 AM PT weekdays — both UTC offsets listed so it holds across DST changes
     - cron: "47 12 * * 1-5"
     - cron: "47 13 * * 1-5"
+    # 6:47 PM PT Sunday (futures-reopen edition; = Mon 01:47/02:47 UTC)
+    - cron: "47 1 * * 1"
+    - cron: "47 2 * * 1"
   workflow_dispatch:
 
 permissions:
