@@ -5,9 +5,15 @@ on:
     # 5:47 AM PT weekdays — both UTC offsets listed so it holds across DST changes
     - cron: "47 12 * * 1-5"
     - cron: "47 13 * * 1-5"
+    # backup slot 30 min later (GitHub cron can delay or drop a slot); sweep.py skips if already fresh
+    - cron: "17 13 * * 1-5"
+    - cron: "17 14 * * 1-5"
     # 6:47 PM PT Sunday (futures-reopen edition; = Mon 01:47/02:47 UTC)
     - cron: "47 1 * * 1"
     - cron: "47 2 * * 1"
+    # Sunday backup slot
+    - cron: "17 2 * * 1"
+    - cron: "17 3 * * 1"
   workflow_dispatch:
 
 permissions:
