@@ -269,8 +269,25 @@ def desk_view(movers, headlines, futures, earnings):
 
 
 # ---------------------------------------------------------------- main
+def already_fresh(pt):
+    """Skip when today's briefing already exists (local AI agent published first)."""
+    try:
+        with open(OUT_FILE, encoding="utf-8") as f:
+            head = f.read(2000)
+        m = re.search(r'"generatedAtPT":\s*"([^"]+)"', head)
+        if m:
+            existing = datetime.strptime(m.group(1).split("·")[0].strip(), "%b %d, %Y")
+            return existing.date() == pt.date()
+    except Exception:
+        pass
+    return False
+
+
 def main():
     pt = pt_now()
+    if already_fresh(pt):
+        print("briefing already generated today (agent edition present) — skipping")
+        return
     payload = {
         "generatedAtPT": pt.strftime("%b %-d, %Y · %-I:%M %p PT"),
         "tradingDate": pt.strftime("%a %b %-d"),
