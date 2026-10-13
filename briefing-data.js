@@ -1,60 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 12, 2026 · 9:59 AM PT",
-  "tradingDate": "Mon Oct 12",
+  "generatedAtPT": "Oct 13, 2026 · 12:33 PM PT",
+  "tradingDate": "Tue Oct 13",
   "futures": [
-    {"label":"S&P FUT","value":"7,867.00","chg":"+0.09%"},
-    {"label":"NASDAQ FUT","value":"30,928.50","chg":"-0.58%"},
-    {"label":"DOW FUT","value":"52,038.00","chg":"+0.22%"},
-    {"label":"VIX","value":"15.26","chg":"+2.83%"},
-    {"label":"US 10Y (Fri close)","value":"5.24%","chg":"+0.25%"},
-    {"label":"WTI CRUDE","value":"93.67","chg":"+1.98%"},
-    {"label":"GOLD","value":"4,188.20","chg":"-0.67%"},
-    {"label":"DXY (Fri close)","value":"102.24","chg":"+0.02%"},
-    {"label":"BITCOIN","value":"82,632","chg":"-1.42%"}
+    {
+      "label": "VIX",
+      "value": "15.33",
+      "chg": "+0.79%"
+    },
+    {
+      "label": "US 10Y",
+      "value": "5.215%",
+      "chg": "-0.553%"
+    },
+    {
+      "label": "WTI CRUDE",
+      "value": "94.38",
+      "chg": "+0.68%"
+    },
+    {
+      "label": "GOLD",
+      "value": "4,185.20",
+      "chg": "-0.13%"
+    },
+    {
+      "label": "DXY",
+      "value": "102.189",
+      "chg": "-0.39%"
+    },
+    {
+      "label": "BITCOIN",
+      "value": "83,176.46",
+      "chg": "+0.67%"
+    }
   ],
   "movers": [
-    {"ticker":"MNDR","price":"4.05","chg":"+376.5%","volume":"164.5M","catalyst":"No confirmed catalyst; Singapore telehealth micro-cap ripping on ~164M shares vs ~394K average volume","source":"Robinhood","url":"https://robinhood.com/us/en/stocks/MNDR/"},
-    {"ticker":"WFF","price":"9.47","chg":"-23.0%","volume":"21.0M","catalyst":"Giving back Friday's +499% no-news spike; micro-cap round-trip continues","source":"StockAnalysis","url":"https://stockanalysis.com/markets/losers/","spark":[2.29,2.01,2.10,2.05,12.29]},
-    {"ticker":"CMG","price":"30.15","chg":"-4.6%","volume":"11.5M","catalyst":"Starbucks confirmed it is NOT pursuing a Chipotle acquisition, deflating weekend bid speculation","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
-    {"ticker":"NOK","price":"9.95","chg":"-4.0%","volume":"44.0M","catalyst":"Telecom-equipment names under pressure; heavy volume on second day of selling","source":"Timothy Sykes","url":"https://timothysykes.com/news/nokia-corporation-sponsored-nok-news-2026_10_08/","spark":[10.20,10.97,10.62,10.14,10.36]},
-    {"ticker":"INTC","price":"101.18","chg":"-3.4%","volume":"41.8M","catalyst":"Semis slide for a second session as China's CXMT claims denser memory design, stoking AI-chip bubble debate","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","spark":[116.19,112.50,113.12,107.08,104.70]},
-    {"ticker":"MU","price":"994.33","chg":"-3.4%","volume":"14.6M","catalyst":"CXMT's denser memory-chip design threatens pricing power; MU, SK Hynix, Samsung all hit","source":"Barron's","url":"https://www.barrons.com/articles/micron-stock-memory-chip-cxmt-threat-51baf6e0","spark":[1063.96,1045.56,1088.00,1035.84,1029.00]},
-    {"ticker":"SBUX","price":"92.29","chg":"+1.7%","volume":"4.5M","catalyst":"Relief rally after company denies Chipotle bid talk; removes dilution/diversion overhang","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","spark":[94.43,96.11,93.58,93.21,90.75]},
-    {"ticker":"NVDA","price":"226.25","chg":"-1.3%","volume":"39.2M","catalyst":"Caught in chip-wide selloff on CXMT news and renewed AI-bubble chatter; Nasdaq lagging","source":"Yahoo Finance","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","spark":[238.90,239.24,237.47,230.48,229.28]},
-    {"ticker":"SPCX","price":"163.65","chg":"+0.7%","volume":"46.4M","catalyst":"Follow-through on spectrum-deal momentum; most-active large cap on the tape","source":"Investopedia","url":"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10092026-12165767","spark":[171.09,171.92,167.60,160.57,162.57]}
+    {
+      "ticker": "BKYI",
+      "price": "4.02",
+      "chg": "+143.64%",
+      "volume": "43,113,802",
+      "catalyst": "BIO-key Names Cybersecurity Veteran Stephen Morrow President of PortalGuard to Drive Accelerated Adoption of its Innovative IAM Solution",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/13/3379670/0/en/bio-key-names-cybersecurity-veteran-stephen-morrow-president-of-portalguard-to-drive-accelerated-adoption-of-its-innovative-iam-solution.html",
+      "spark": [
+        1.76,
+        1.74,
+        1.67,
+        1.65,
+        2.77
+      ]
+    },
+    {
+      "ticker": "PFAI",
+      "price": "5.92",
+      "chg": "+126.82%",
+      "volume": "16,497,060",
+      "catalyst": "Pinnacle Food Group subsidiary completes first bench-scale fermentation of rhLF",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/pinnacle-food-group-subsidiary-completes-first-bench-scale-fermentation-of-rhlf-thefly-news",
+      "spark": [
+        5.07,
+        4.23,
+        3.05,
+        2.61,
+        4.51
+      ]
+    },
+    {
+      "ticker": "TCRT",
+      "price": "1.74",
+      "chg": "+65.71%",
+      "volume": "68,689,271",
+      "catalyst": "Alaunos Therapeutics announces completion of Velaris acquisition",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/alaunos-therapeutics-announces-completion-of-velaris-acquisition-thefly-news",
+      "spark": [
+        0.84,
+        0.78,
+        0.79,
+        1.05,
+        2.98
+      ]
+    },
+    {
+      "ticker": "BMBL",
+      "price": "5.97",
+      "chg": "+57.11%",
+      "volume": "29,729,398",
+      "catalyst": "BMBL Investors Have Opportunity to Join Bumble Inc. Fraud Investigation with SBS Law",
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20261013132091/en/BMBL-Investors-Have-Opportunity-to-Join-Bumble-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "spark": [
+        2.5,
+        2.57,
+        2.54,
+        3.8,
+        5.93
+      ]
+    },
+    {
+      "ticker": "YJ",
+      "price": "2.59",
+      "chg": "+37.04%",
+      "volume": "19,282,333",
+      "catalyst": "Yunji Announces First Half 2026 Unaudited Financial Results",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/yunji-announces-first-half-2026-unaudited-financial-results-302856228.html",
+      "spark": [
+        1.64,
+        1.59,
+        1.79,
+        1.89,
+        2.1
+      ]
+    },
+    {
+      "ticker": "AIXI",
+      "price": "3.17",
+      "chg": "+32.08%",
+      "volume": "14,546,126",
+      "catalyst": "Xiao-I Corp (ADR) trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/xiao-i-corp-adr-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        1.32,
+        1.93,
+        2.03,
+        2.4,
+        3.01
+      ]
+    },
+    {
+      "ticker": "FCHL",
+      "price": "1.32",
+      "chg": "+32.00%",
+      "volume": "16,798,826",
+      "catalyst": "FCHL to Hold Extraordinary General Meeting on June 29, 2026",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310176/0/en/FCHL-to-Hold-Extraordinary-General-Meeting-on-June-29-2026.html",
+      "spark": [
+        0.96,
+        0.92,
+        0.87,
+        1.0,
+        1.18
+      ]
+    },
+    {
+      "ticker": "SCNI",
+      "price": "1.53",
+      "chg": "+31.90%",
+      "volume": "43,346,745",
+      "catalyst": "Scinai signs $5.1M development and clinical manufacturing agreement",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/scinai-signs-5-1m-development-and-clinical-manufacturing-agreement-thefly-news",
+      "spark": [
+        1.13,
+        1.21,
+        1.18,
+        1.16,
+        1.21
+      ]
+    },
+    {
+      "ticker": "RYDE",
+      "price": "0.75",
+      "chg": "+22.10%",
+      "volume": "533,035",
+      "catalyst": "Ryde Reports First Half 2026 Results",
+      "source": "accessnewswire.com",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/ryde-reports-first-half-2026-results-1234243",
+      "spark": [
+        0.73,
+        0.67,
+        0.57,
+        0.61,
+        0.69
+      ]
+    },
+    {
+      "ticker": "WBUY",
+      "price": "0.97",
+      "chg": "+19.71%",
+      "volume": "11,928,162",
+      "catalyst": "WEBUY GLOBAL LTD. Nearly Doubles First-Half 2026 Revenue to US$14.3 Million as Gross Profit Increases 132%",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369580/0/en/webuy-global-ltd-nearly-doubles-first-half-2026-revenue-to-us-14-3-million-as-gross-profit-increases-132.html",
+      "spark": [
+        0.72,
+        0.73,
+        0.69,
+        0.81,
+        0.87
+      ]
+    }
   ],
   "headlines": [
-    {"time":"12:55 PM ET","source":"Yahoo Finance","title":"Dow up 0.5% at midday, S&P 500 flat, Nasdaq slips 0.3% in thin Columbus Day trade","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"MARKETS"},
-    {"time":"11:30 AM ET","source":"Yahoo Finance","title":"Oil jumps after Russia hits Ukrainian power plants despite Sunday's announced energy ceasefire; WTI near $93, Brent ~$106","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"GEOPOLITICS"},
-    {"time":"10:15 AM ET","source":"Yahoo Finance","title":"Trump floats US joining Saudi strikes on Houthis after weekend airport attack kills 12","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"GEOPOLITICS"},
-    {"time":"9:00 AM ET","source":"Kiplinger","title":"Columbus Day: stocks open, bond market and banks closed; CPI Wednesday and retail sales Thursday headline a data-light week","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"MACRO"},
-    {"time":"8:00 AM ET","source":"Yahoo Finance (Sozzi)","title":"Bank stocks in correction ahead of Tuesday's earnings kickoff: KBW Bank Index -14% from August peak; BAC -13%, GS -12%, MS -11% in a month","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"EARNINGS"},
-    {"time":"10:01 AM ET","source":"Barron's","title":"Micron, SK Hynix, Samsung slide as China's CXMT unveils denser memory-chip design","url":"https://www.barrons.com/articles/micron-stock-memory-chip-cxmt-threat-51baf6e0","tag":"TECH"},
-    {"time":"9:44 AM ET","source":"Yahoo Finance","title":"Starbucks says it is not buying Chipotle; SBUX pops, CMG sinks","url":"https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html","tag":"M&A"},
-    {"time":"Sun 6:00 PM ET","source":"Reuters","title":"Russia and Ukraine announce energy-infrastructure ceasefire; Zelenskyy awaits details before Monday's strikes raised doubts","url":"https://www.reuters.com/markets/asia/","tag":"GEOPOLITICS"},
-    {"time":"9:30 AM ET","source":"InvestingLive","title":"Tropical Storm Isaias forces Gulf of Mexico production shut-ins, adding to crude's bid","url":"https://investinglive.com/forex/monday-open-indicative-forex-prices-12-october-2026/","tag":"COMMODITIES"},
-    {"time":"8:30 AM ET","source":"Reuters","title":"Trump-Putin diesel deal draws scrutiny as Europe weighs supply shift","url":"https://www.reuters.com/markets/asia/","tag":"GEOPOLITICS"},
-    {"time":"Fri 4:30 PM ET","source":"Yahoo Finance","title":"Fed's Musalem strikes hawkish tone; sticky inflation keeps rate-cut timing in question ahead of Wednesday CPI","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"FED"},
-    {"time":"8:45 AM ET","source":"City News Service","title":"Firmus pulls IPO as selective risk appetite cools new-issue market","url":"https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/weekend-buzz-10-11-october-2026-xm5g44ek","tag":"MARKETS"},
-    {"time":"Fri 5:00 PM ET","source":"Yahoo Finance","title":"New York Fed: household debt stress spreads; 20% of consumers now expect to miss a debt payment","url":"https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html","tag":"MACRO"},
-    {"time":"Mon overnight","source":"Reuters","title":"Asia mixed with Tokyo and Toronto shut for holidays; Europe modestly higher into the US session","url":"https://www.reuters.com/markets/asia/","tag":"MARKETS"}
+    {
+      "time": "Tue 3:27 PM ET",
+      "source": "Seeking Alpha",
+      "title": "BMO cautious on Roblox as Google enters user-generated gaming",
+      "url": "https://seekingalpha.com/news/4652627-bmo-cautious-on-roblox-as-google-enters-user-generated-gaming?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:26 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Northrop Grumman details $21M U.S. Army contract for missile-defense command",
+      "url": "https://seekingalpha.com/news/4652629-northrop-grumman-details-21m-u-s-army-contract-for-missile-defense-command?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:23 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Small businesses on September inflation: Fuel, fuel, and more fuel",
+      "url": "https://seekingalpha.com/news/4652626-small-businesses-on-september-inflation-fuel-fuel-and-more-fuel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "FED"
+    },
+    {
+      "time": "Tue 3:23 PM ET",
+      "source": "CNBC",
+      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:21 PM ET",
+      "source": "CNBC",
+      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:19 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Novartis leprosy drug Lamprene now more easily available",
+      "url": "https://seekingalpha.com/news/4652628-novartis-leprosy-drug-lamprene-now-more-easily-available?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:16 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Applied Intuition fielding offers at $30B valuation - The Information",
+      "url": "https://seekingalpha.com/news/4652623-applied-intuition-fielding-offers-at-30b-valuation-the-information?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:10 PM ET",
+      "source": "Google News",
+      "title": "Applied Optoelectronics Is Up 175% in 2026 and Lumentum Is Up 164%: Take Profits, or Hold On for the Ride? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbThuRzhEWG1uTnQ3VlNtLXVWSlM2bjNzdFpubVlQN19LVXp0c1FfdTFYWWJLZkJKNXVPTnJuS2VEME51QURsQ1BsbkR0UmtNeUV1TE5xb1hWeDBKT2pydUdtb3VZX2U0bWM4ZkgxX1h0dDY4ckt1VmhoU0dVcFZWR0poWWJjWkYzMkROdlhrdVhDd0JBZHhuVTFqLXB3b2VjNkZqcVhNUWd2UQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:08 PM ET",
+      "source": "CNBC",
+      "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+      "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:05 PM ET",
+      "source": "Google News",
+      "title": "If the Bond Market Sell-Off Triggers a Recession, Decades of History Says Investors Should Do This 1 Thing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHFkWThEWkQ5Y1djU3VXUWxRc1llME92RFBlMUs4Q3RRVVVzcUhHREJNSFFNWVBzeTBxb1MzdFJybEZDcnF0M0xRREZlTUlaOXg5X05JMFRYcFA2cXJLelNTcUdjal9XSEgzVzh0LWZFVUJNcGdCOUk0U0Q0cGRZWEpweVo1X1JLUG1oQ2pZQU5Nb3FEeU1HcUt3?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:00 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Yorkville Ives is bullish on Alphabet's AI platform potential and strategic equity stakes",
+      "url": "https://seekingalpha.com/news/4652621-yorkville-ives-is-bullish-on-alphabets-ai-platform-potential-and-strategic-equity-stakes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:00 PM ET",
+      "source": "Google News",
+      "title": "Marvell Is Up 214% in 2026 While Broadcom Is Only Up 3%: Take Profits on MRVL Stock, or Hold On for the Ride? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2VRYVNrUUp6MG0yUzdWOHhTMVA1UWF5dndUZm82d182bjNMYkRvZGN6azZhOHhSNG5aSTV3WDFfeWVoakZyakVVM2trRTF1WTE1dWQzNVMxYmdJQzNfTDkxblJJZURheHNmZFlTVG9HWGdKdnVtWi1CQlJsUzBEUFdqbV93TzVrRkRFMzBRVjhmNnZTSEM4UjVoQnY?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 2:59 PM ET",
+      "source": "Seeking Alpha",
+      "title": "TechnipFMC initiated with Buy rating at UBS on subsea growth",
+      "url": "https://seekingalpha.com/news/4652624-technipfmc-initiated-with-buy-rating-at-ubs-on-subsea-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 2:57 PM ET",
+      "source": "Google News",
+      "title": "Billionaire Paul Tudor Jones Has Message For Stock Market Investors - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzJRTy0xTkhNUm1FbW0zcm9wV25TN3pzQ3NHcGxKblhmRnAwWGVpRU5BSWZXanVpbThkUkN5SXBYOEtZNkVGT2VkQXl5VXlKaHE3WVFBeGkzclN5TlZXMnVaem9yWE5pMzlZbkc3VGVqMEpfcHpPYmFMbzROQk9jS3p2a1BneHBGcXpmT3E1UWlzMHdWb1RCTkd4NXQwcGVhbE11czFmSGNsWmk1d3pYQUk1VV9LTEljR1hEaVJ1eXJhZXNtanc?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 2:55 PM ET",
+      "source": "CNBC",
+      "title": "Meta shares rise for a second straight day as new AI model family impresses",
+      "url": "https://www.cnbc.com/investingclub/2026/10/13/meta-shares-rise-for-a-second-straight-day-as-new-ai-model-family-impresses.html",
+      "tag": "TECH"
+    }
   ],
   "earnings": [
-    {"ticker":"JPM","when":"Tue BMO","note":"Q3 results kick off bank earnings; consensus EPS $5.94 (8:00 AM ET)"},
-    {"ticker":"GS","when":"Tue BMO","note":"Q3 results; consensus EPS $13.04"},
-    {"ticker":"C","when":"Tue BMO","note":"Q3 results; consensus EPS $2.65"},
-    {"ticker":"WFC","when":"Tue BMO","note":"Q3 results; consensus EPS $1.85"},
-    {"ticker":"UNH","when":"Tue BMO","note":"Q3 results; consensus EPS $4.12"},
-    {"ticker":"JNJ","when":"Tue BMO","note":"Q3 results; consensus EPS $2.51"},
-    {"ticker":"BAC","when":"Wed BMO","note":"Q3 results; consensus EPS $1.10"},
-    {"ticker":"ASML","when":"Wed BMO","note":"Q3 results; consensus EPS $12.07"}
+    {
+      "ticker": "JPM",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "JNJ",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "UNH",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "GS",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "WFC",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "C",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "DPZ",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "ACI",
+      "when": "BMO",
+      "note": ""
+    }
   ],
   "watch": [
-    "Bank earnings gauntlet starts tomorrow BMO (JPM/GS/C/WFC/UNH/JNJ): the KBW is already -14% from its August peak, so the bar is low but credit commentary matters more than beats. Watch JPM's consumer-credit language against the NY Fed's 20% missed-payment stat.",
-    "Oil is the macro swing factor: WTI +2% near $94 after Russia struck Ukrainian power plants despite Sunday's energy ceasefire, plus Isaias Gulf shut-ins. If crude holds the bid, Wednesday CPI upside risk rises and rate-cut timing pushes out (Musalem already hawkish).",
-    "Chip tape is fragile: CXMT's denser memory design knocked MU/INTC/NVDA down again and NQ futures lag (-0.6%) while Dow futures hold positive — rotation under the surface. Watch whether NVDA 226 holds the Friday low zone (230.48/229.28 last two closes).",
-    "Thin Columbus Day tape (bonds/banks closed, no data) exaggerates moves; 10Y and DXY are frozen at Friday levels, so rate signals resume Tuesday. Expect chop into the close, then reposition for the JPM print.",
-    "Headline risk is two-sided geopolitics: Trump's Houthi-strike float and the shaky Russia-Ukraine energy truce can gap crude and defense names either way into tomorrow's reopen."
+    "Risk snapshot at sweep: VIX 15.33, 10Y 5.215%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: BKYI +143.64% on 43,113,802 volume — check its news catalyst before touching it.",
+    "Reporting before the open: JPM, JNJ, UNH, GS, WFC — expect gap moves and sympathy reads in their sectors."
   ],
-  "notes": "Intraday Columbus Day run (~10:00 AM PT): movers/quotes are mid-session snapshots, session still open. Bond market closed today — US 10Y and DXY are Friday closes. No noteworthy earnings today; list shows the Tue-Wed kickoff. Sparks are the last 5 completed closes (Oct 5-9); CMG and MNDR sparks omitted (insufficient verified closes). MNDR +376% has no confirmed catalyst."
+  "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
