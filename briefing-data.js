@@ -1,354 +1,347 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 14, 2026 · 10:37 AM PT",
-  "tradingDate": "Wed Oct 14",
+  "generatedAtPT": "Oct 15, 2026 · 10:22 AM PT",
+  "tradingDate": "Thu Oct 15",
   "futures": [
     {
       "label": "VIX",
-      "value": "16.84",
-      "chg": "+10.28%"
+      "value": "16.75",
+      "chg": "-0.71%"
     },
     {
       "label": "US 10Y",
-      "value": "5.206%",
-      "chg": "-0.2108%"
+      "value": "5.089%",
+      "chg": "-1.9461%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "95.56",
-      "chg": "+1.51%"
+      "value": "97.82",
+      "chg": "+2.87%"
     },
     {
       "label": "GOLD",
-      "value": "4,107.70",
-      "chg": "-1.67%"
+      "value": "4,168.80",
+      "chg": "+1.48%"
     },
     {
       "label": "DXY",
-      "value": "102.695",
-      "chg": "+0.50%"
+      "value": "102.10",
+      "chg": "-0.44%"
     },
     {
       "label": "BITCOIN",
-      "value": "81,744.70",
-      "chg": "-1.68%"
+      "value": "82,468.60",
+      "chg": "+0.96%"
     }
   ],
   "movers": [
     {
-      "ticker": "AEHL",
-      "price": "24.00",
-      "chg": "+180.70%",
-      "volume": "3,106,720",
-      "catalyst": "Antelope Enterprise Holdings Ltd trading resumes",
+      "ticker": "SDST",
+      "price": "0.05",
+      "chg": "+92.69%",
+      "volume": "911,677,369",
+      "catalyst": "Stardust Power expands operations with new Houston office",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/antelope-enterprise-holdings-ltd-trading-resumes-thefly-news-2",
+      "url": "https://www.tipranks.com/news/the-fly/stardust-power-expands-operations-with-new-houston-office-thefly-news",
       "spark": [
-        11.35,
-        9.87,
-        9.27,
-        8.55,
-        26.0
+        0.06,
+        0.05,
+        0.04,
+        0.03,
+        0.04
       ]
     },
     {
-      "ticker": "TGL",
-      "price": "0.65",
-      "chg": "+134.25%",
-      "volume": "68,469,590",
-      "catalyst": "Treasure Global Signs MOU to Expand Medical Supply and Pharmaceutical Distribution Across Southeast Asia",
+      "ticker": "WETO",
+      "price": "1.27",
+      "chg": "+52.90%",
+      "volume": "31,451,473",
+      "catalyst": "Wetour Robotics Announces Temporary Pause of ATM Share Sales",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/13/3379903/0/en/treasure-global-signs-mou-to-expand-medical-supply-and-pharmaceutical-distribution-across-southeast-asia.html",
+      "url": "https://www.globenewswire.com/news-release/2026/10/15/3381574/0/en/wetour-robotics-announces-temporary-pause-of-atm-share-sales.html",
       "spark": [
-        1.27,
-        1.1,
-        0.84,
-        0.28,
-        0.48
+        1.06,
+        1.02,
+        0.98,
+        0.83,
+        1.08
       ]
     },
     {
-      "ticker": "GLND",
-      "price": "4.16",
-      "chg": "+88.01%",
-      "volume": "61,228,969",
-      "catalyst": "Greenland Energy Stock (GLND) Jumps 88% as Trump Says Oil Exploration Is Coming to Greenland",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/greenland-energy-stock-glnd-jumps-88-as-trump-says-oil-exploration-is-coming-to-greenland",
-      "spark": [
-        2.61,
-        2.51,
-        2.31,
-        2.21,
-        3.52
-      ]
-    },
-    {
-      "ticker": "SKYD",
-      "price": "7.60",
-      "chg": "+63.97%",
-      "volume": "3,709",
-      "catalyst": "Why Skydance Stock's 25% Drop Could Be a Buying Opportunity",
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/skydance-stock-price-warrants-351ac2f6",
-      "spark": [
-        9.28,
-        9.16,
-        9.16,
-        9.27,
-        6.77
-      ]
-    },
-    {
-      "ticker": "GENK",
-      "price": "2.35",
-      "chg": "+62.07%",
-      "volume": "13,928,980",
-      "catalyst": "Gen Restaurant signs binding LOI with Chubby for $100M restaurant transaction",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/gen-restaurant-signs-binding-loi-with-chubby-for-100m-restaurant-transaction-thefly-news",
-      "spark": [
-        1.6,
-        1.66,
-        1.58,
-        1.45,
-        1.71
-      ]
-    },
-    {
-      "ticker": "YRD",
-      "price": "0.68",
-      "chg": "+50.11%",
-      "volume": "90,333,360",
-      "catalyst": "Yiren Digital Provides Further Update on Operations",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/yiren-digital-provides-further-update-on-operations-302908310.html",
-      "spark": [
-        1.01,
-        1.0,
-        0.56,
-        0.46,
-        0.64
-      ]
-    },
-    {
-      "ticker": "BDRX",
-      "price": "0.50",
-      "chg": "+42.49%",
-      "volume": "34,509,490",
-      "catalyst": "Biodexa Pharmaceuticals enrolls 100 patients in eRapa trial",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/biodexa-pharmaceuticals-enrolls-100-patients-in-erapa-trial-thefly-news",
-      "spark": [
-        0.52,
-        0.46,
-        0.38,
-        0.35,
-        0.41
-      ]
-    },
-    {
-      "ticker": "NIVF",
-      "price": "0.27",
-      "chg": "+38.03%",
-      "volume": "107,393,833",
-      "catalyst": "NewGenIvf Group Ltd trading halted, news pending",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/newgenivf-group-ltd-trading-halted-news-pending-thefly-news-4",
-      "spark": [
-        0.32,
-        0.29,
-        0.24,
-        0.2,
-        0.25
-      ]
-    },
-    {
-      "ticker": "GRML",
-      "price": "7.61",
-      "chg": "+37.27%",
-      "volume": "12,273,302",
-      "catalyst": "Greenland Mines Applauds President Trump's Focus on Greenland Mineral Exploration, Reinforcing Its Importance to U.S. and Allied Security",
+      "ticker": "BGL",
+      "price": "0.20",
+      "chg": "+34.68%",
+      "volume": "5,507,848",
+      "catalyst": "Blue Gold Unveils First Internal Version of Its Gold-Powered Financial Services Platform, Built for AI Agent Payments",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/14/3380833/0/en/greenland-mines-applauds-president-trump-s-focus-on-greenland-mineral-exploration-reinforcing-its-importance-to-u-s-and-allied-security.html",
+      "url": "https://www.globenewswire.com/news-release/2026/10/15/3381551/0/en/blue-gold-unveils-first-internal-version-of-its-gold-powered-financial-services-platform-built-for-ai-agent-payments.html",
       "spark": [
-        5.88,
-        5.17,
-        6.02,
-        5.54,
-        6.57
+        0.17,
+        0.17,
+        0.15,
+        0.15,
+        0.13
       ]
     },
     {
       "ticker": "NCPL",
-      "price": "1.87",
-      "chg": "+34.53%",
-      "volume": "10,563,533",
-      "catalyst": "NCPL Investors Have Opportunity to Join Netcapital Inc. Fraud Investigation with SBS Law",
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20261004158885/en/NCPL-Investors-Have-Opportunity-to-Join-Netcapital-Inc.-Fraud-Investigation-with-SBS-Law/",
+      "price": "1.97",
+      "chg": "+23.90%",
+      "volume": "11,991,588",
+      "catalyst": "Netcapital regains compliance with Nasdaq minimum bid price requirement",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/netcapital-regains-compliance-with-nasdaq-minimum-bid-price-requirement-thefly-news",
       "spark": [
-        1.31,
         1.14,
         1.54,
         1.39,
-        1.77
+        1.59,
+        2.13
+      ]
+    },
+    {
+      "ticker": "OPK",
+      "price": "1.66",
+      "chg": "+21.17%",
+      "volume": "21,954,389",
+      "catalyst": "Labcorp to acquire laboratory testing assets of Opko Health subsidiary",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/labcorp-to-acquire-laboratory-testing-assets-of-opko-health-subsidiary-thefly-news",
+      "spark": [
+        1.38,
+        1.38,
+        1.32,
+        1.37,
+        1.56
+      ]
+    },
+    {
+      "ticker": "SPRC",
+      "price": "4.26",
+      "chg": "+17.36%",
+      "volume": "18,864,835",
+      "catalyst": "SciSparc  shifts focus toward Agentic AI-powered technologies",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/scisparc-shifts-focus-toward-agentic-ai-powered-technologies-thefly-news",
+      "spark": [
+        4.47,
+        4.08,
+        3.94,
+        3.63,
+        4.28
+      ]
+    },
+    {
+      "ticker": "ADXN",
+      "price": "3.09",
+      "chg": "+16.60%",
+      "volume": "12,491",
+      "catalyst": "Addex Spin-Out Neurosterix Takes NTX-253 Closer To Phase 2 Schizophrenia Trial",
+      "source": "nasdaq.com",
+      "url": "https://www.nasdaq.com/articles/addex-spin-out-neurosterix-takes-ntx-253-closer-phase-2-schizophrenia-trial",
+      "spark": [
+        3.22,
+        3.04,
+        3.01,
+        2.65,
+        3.07
+      ]
+    },
+    {
+      "ticker": "DRMA",
+      "price": "0.76",
+      "chg": "+14.28%",
+      "volume": "47,817,611",
+      "catalyst": "Dermata announces results from study evaluating Tome Foundational Treatment",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/dermata-announces-results-from-study-evaluating-tome-foundational-treatment-thefly-news",
+      "spark": [
+        1.02,
+        0.89,
+        0.86,
+        0.66,
+        0.81
+      ]
+    },
+    {
+      "ticker": "BBCI",
+      "price": "3.01",
+      "chg": "+14.02%",
+      "volume": "36,556",
+      "catalyst": "Bradbury Capital Holdings Inc. Announces Closing of Business Combination with Technology & Telecommunication Acquisition Corporation and Com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/bradbury-capital-holdings-inc-announces-closing-of-business-combination-with-technology--telecommunication-acquisition-corporation-and-commencement-of-trading-on-nasdaq-under-ticker-symbol-bbci-302899907.html",
+      "spark": []
+    },
+    {
+      "ticker": "GP",
+      "price": "0.31",
+      "chg": "+13.55%",
+      "volume": "59,409,068",
+      "catalyst": "GreenPower Announces Effective Date of Share Consolidation",
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/319185/GreenPower-Announces-Effective-Date-of-Share-Consolidation",
+      "spark": [
+        0.38,
+        0.34,
+        0.32,
+        0.27,
+        0.28
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Wed 1:36 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Aerospace CEOs meet with U.S. officials on aircraft certification reform",
-      "url": "https://seekingalpha.com/news/4653071-aerospace-ceos-meet-with-u-s-officials-on-aircraft-certification-reform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Thu 1:15 PM ET",
+      "source": "MarketWatch",
+      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 1:35 PM ET",
-      "source": "CNBC",
-      "title": "'Office' is actually having a scarcity problem",
-      "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+      "time": "Thu 1:14 PM ET",
+      "source": "Seeking Alpha",
+      "title": "NYC Comptroller calls for Anthropic to put IPO on hold over safety concerns",
+      "url": "https://seekingalpha.com/news/4653525-nyc-comptroller-calls-for-anthropic-to-put-ipo-on-hold-over-safety-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Thu 1:10 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Gladstone Commercial declares $0.10 dividend",
+      "url": "https://seekingalpha.com/news/4653547-gladstone-commercial-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 1:35 PM ET",
+      "time": "Thu 1:08 PM ET",
       "source": "Seeking Alpha",
-      "title": "Flyte Aviation sees preliminary Q3 revenue of $2.15M, up 110%",
-      "url": "https://seekingalpha.com/news/4653069-flyte-aviation-sees-preliminary-q3-revenue-of-215m-up-110?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 1:33 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Russell 2000 ETF breaks below major moving averages and tags a near 5-month low",
-      "url": "https://seekingalpha.com/news/4653068-russell-2000-etf-breaks-below-major-moving-averages-and-tags-a-near-5-month-low?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "First Trust Income Opportunities ETF declares $0.1375 dividend",
+      "url": "https://seekingalpha.com/news/4653546-first-trust-income-opportunities-etf-declares-0_1375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 1:32 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Anduril valuation may climb to $90B in employee share sale",
-      "url": "https://seekingalpha.com/news/4653067-anduril-valuation-may-climb-to-90b-in-employee-share-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 1:30 PM ET",
-      "source": "Seeking Alpha",
-      "title": "BeLive Holdings GAAP EPS of -$0.26, revenue of $0.66M",
-      "url": "https://seekingalpha.com/news/4653066-belive-holdings-gaap-eps-of-0_26-revenue-of-0_66m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 1:27 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Winmark GAAP EPS of $3.21 misses by $0.02, revenue of $27.89M beats by $3.9M",
-      "url": "https://seekingalpha.com/news/4653065-winmark-gaap-eps-of-3_21-misses-by-0_02-revenue-of-27_89m-beats-by-3_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 1:25 PM ET",
-      "source": "CNBC",
-      "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-      "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 1:25 PM ET",
-      "source": "Seeking Alpha",
-      "title": "International Land Alliance reports preliminary Q3 revenue of $1.1M, up 93% Y/Y",
-      "url": "https://seekingalpha.com/news/4653063-international-land-alliance-reports-preliminary-q3-revenue-of-1_1m-up-93-percent-y-y?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 1:23 PM ET",
-      "source": "Google News",
-      "title": "If a Stock Market Crash Is Coming, Here's What Warren Buffett Would Do to Stay Ahead - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGJNbExXTV9uMDZ4WFo3OV9wQXlrVnRxaXpaRnVQQmF6Nk13ZmJicWNabGprWDVlR1ZBVVFrMXBXTXN3QlJvcENzQ0JyWHdUeDFodWxvc1dPVHZUdC1KN2hRa1dSRnR3Mk1TWFBnU2ctNGJWMjlwRXBFVWxBdkt4MDEyMjRxQVlBWXpnWG0waTVOcGJZUUhR?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 1:22 PM ET",
-      "source": "Google News",
-      "title": "US stocks sink as inflation gets worse - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+      "time": "Thu 1:07 PM ET",
+      "source": "MarketWatch",
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
       "tag": "FED"
     },
     {
-      "time": "Wed 1:20 PM ET",
-      "source": "CNBC",
-      "title": "How high inflation became a 'fact of life' in the U.S.",
-      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-      "tag": "FED"
-    },
-    {
-      "time": "Wed 1:15 PM ET",
-      "source": "Google News",
-      "title": "Bond Market Mayhem: History Says This Is the 1 Thing That Matters Most for Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDIxWHZ5OGh1TlFwT3o5dVZDbWg1LXZqVVh5b29tY0EzdnFFLXROeXNUaHhpb25Ua0tvbGVRcFNkVHE3WWpwOGNjX25TUG13VkJhSV9OQlg0c1JkRVpkRWVtOGZEV0dRampqSEhKVklyNWViSl9kWTJURl9WbkhYeGhGX2JkQVcyX1lLTUtpWS1Malo1?oc=5",
+      "time": "Thu 1:07 PM ET",
+      "source": "MarketWatch",
+      "title": "The COLA wars are coming for Social Security",
+      "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 1:12 PM ET",
+      "time": "Thu 1:06 PM ET",
       "source": "CNBC",
-      "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "tag": "GEOPOLITICS"
+      "title": "How to weather the current AI stock storm that we were all dreading",
+      "url": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
+      "tag": "TECH"
     },
     {
-      "time": "Wed 1:08 PM ET",
+      "time": "Thu 1:06 PM ET",
+      "source": "MarketWatch",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "tag": "FED"
+    },
+    {
+      "time": "Thu 1:05 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Vistance Networks declares $1.50 special dividend",
+      "url": "https://seekingalpha.com/news/4653545-vistance-networks-declares-150-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 1:05 PM ET",
+      "source": "MarketWatch",
+      "title": "The truth about being a landlord in retirement",
+      "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 1:01 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Scotts Miracle-Gro climbs as UBS upgrades stock on valuation",
+      "url": "https://seekingalpha.com/news/4653536-scotts-miracle-gro-climbs-as-ubs-upgrades-stock-on-valuation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 1:00 PM ET",
       "source": "CNBC",
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "tag": "EARNINGS"
+      "title": "Trump says Nidal Hasan execution won't be livestreamed",
+      "url": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 1:00 PM ET",
+      "source": "CNBC",
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Thu 12:59 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Valterra nears decision to dig underground at world's largest platinum mine",
+      "url": "https://seekingalpha.com/news/4653530-valterra-nears-decision-to-dig-underground-at-worlds-largest-platinum-mine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 12:58 PM ET",
+      "source": "Seeking Alpha",
+      "title": "TriplePoint Venture Growth BDC declares $0.23 dividend",
+      "url": "https://seekingalpha.com/news/4653541-triplepoint-venture-growth-bdc-declares-0_23-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "ASML",
+      "ticker": "TSM",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "BAC",
+      "ticker": "SCHW",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "MS",
+      "ticker": "PLD",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "BLK",
+      "ticker": "BNY",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "PGR",
+      "ticker": "USB",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "FAST",
+      "ticker": "PNC",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "STT",
+      "ticker": "MRSH",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "HOMB",
+      "ticker": "IBKR",
       "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 16.84, 10Y 5.206%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: AEHL +180.70% on 3,106,720 volume — check its news catalyst before touching it.",
-    "Reporting before the open: ASML, BAC, MS, BLK, PGR — expect gap moves and sympathy reads in their sectors.",
-    "Overnight risk headline: Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked"
+    "Risk snapshot at sweep: VIX 16.75, 10Y 5.089%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: SDST +92.69% on 911,677,369 volume — check its news catalyst before touching it.",
+    "Reporting before the open: TSM, SCHW, PLD, BNY, USB — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
