@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 16, 2026 · 9:58 AM PT",
-  "tradingDate": "Fri Oct 16",
+  "generatedAtPT": "Oct 18, 2026 · 11:51 PM PT",
+  "tradingDate": "Sun Oct 18",
   "futures": [
     {
       "label": "VIX",
-      "value": "18.70",
-      "chg": "+13.61%"
+      "value": "19.99",
+      "chg": "+UNCH%"
     },
     {
       "label": "US 10Y",
-      "value": "5.121%",
-      "chg": "+0.6684%"
+      "value": "5.065%",
+      "chg": "-0.6473%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "100.64",
-      "chg": "+2.73%"
+      "value": "99.45",
+      "chg": "-1.93%"
     },
     {
       "label": "GOLD",
-      "value": "4,181.50",
-      "chg": "+0.27%"
+      "value": "4,196.80",
+      "chg": "+0.38%"
     },
     {
       "label": "DXY",
-      "value": "101.944",
-      "chg": "-0.11%"
+      "value": "101.834",
+      "chg": "+UNCH%"
     },
     {
       "label": "BITCOIN",
-      "value": "81,302.52",
-      "chg": "-1.28%"
+      "value": "82,684.26",
+      "chg": "+2.25%"
     }
   ],
   "movers": [
@@ -47,7 +47,7 @@ window.BRIEFING = {
         0.56,
         0.63,
         0.62,
-        0.63
+        0.71
       ]
     },
     {
@@ -63,7 +63,7 @@ window.BRIEFING = {
         4.16,
         4.18,
         4.59,
-        3.7
+        3.53
       ]
     },
     {
@@ -79,7 +79,7 @@ window.BRIEFING = {
         0.73,
         0.61,
         0.69,
-        1.0
+        0.87
       ]
     },
     {
@@ -95,7 +95,7 @@ window.BRIEFING = {
         0.93,
         0.91,
         1.36,
-        2.71
+        2.35
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         0.09,
         0.07,
         0.07,
-        0.1
+        0.09
       ]
     },
     {
@@ -127,7 +127,7 @@ window.BRIEFING = {
         3.03,
         2.07,
         2.18,
-        2.43
+        2.63
       ]
     },
     {
@@ -135,15 +135,15 @@ window.BRIEFING = {
       "price": "0.40",
       "chg": "+24.95%",
       "volume": "42,656,565",
-      "catalyst": "Rubico Announces Closing of the Acquisition of Additional Newbuilding MR Tanker",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/06/3375475/0/en/rubico-announces-closing-of-the-acquisition-of-additional-newbuilding-mr-tanker.html",
+      "catalyst": "Rubico Inc announces $8.5M registered direct offering",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/rubico-inc-announces-8-5m-registered-direct-offering-thefly-news",
       "spark": [
         0.42,
         0.38,
         0.32,
         0.32,
-        0.33
+        0.39
       ]
     },
     {
@@ -159,7 +159,7 @@ window.BRIEFING = {
         15.33,
         12.68,
         10.0,
-        10.4
+        12.75
       ]
     },
     {
@@ -175,7 +175,7 @@ window.BRIEFING = {
         1.39,
         1.59,
         1.98,
-        2.25
+        2.17
       ]
     },
     {
@@ -191,164 +191,121 @@ window.BRIEFING = {
         3.06,
         3.02,
         3.01,
-        3.51
+        3.43
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Fri 12:53 PM ET",
-      "source": "CNBC",
-      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-      "url": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+      "time": "Mon 2:42 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Australia approves POSCO’s $3B low-carbon iron plant",
+      "url": "https://seekingalpha.com/news/4654095-australia-approves-poscos-3b-low-carbon-iron-plant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 12:47 PM ET",
-      "source": "Seeking Alpha",
-      "title": "IBC Advanced Alloys reports FY results",
-      "url": "https://seekingalpha.com/news/4653924-ibc-advanced-alloys-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Mon 2:36 AM ET",
+      "source": "Google News",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVV4MEFDYUhYekF0S1NRNUp0aXFhTGJEWFFIZFJTWHpBbC0wTzFKbkFENUxnNng1OFFMS0hwU1lVSllnSDRuQUpzUUk2d0pLS29xRGREU0dFYnF2V3N2NWhHbU9RYWQ5Y2tGalVWRFY4eWd1NUJocmNuaFRlc20tNklya1daUkJ4OVY4Ui1RVkxOdVhnaWpPQU13?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 12:46 PM ET",
-      "source": "CNBC",
-      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "tag": "GEOPOLITICS"
+      "time": "Mon 2:25 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Starboard sees growth potential in Skyworks after Qorvo deal - report",
+      "url": "https://seekingalpha.com/news/4654092-starboard-sees-growth-potential-in-skyworks-after-qorvo-deal---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "DEALS"
     },
     {
-      "time": "Fri 12:43 PM ET",
-      "source": "Seeking Alpha",
-      "title": "CNB Community Bancorp GAAP EPS of $1.35, revenue of $15.6M",
-      "url": "https://seekingalpha.com/news/4653922-cnb-community-bancorp-gaap-eps-of-1_35-revenue-of-15_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
+      "time": "Mon 2:15 AM ET",
+      "source": "Google News",
+      "title": "Aditya Birla Sun Life AMC International (IFSC) Limited introduces two retail funds of funds from GIFT City - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnU5N1pnOXc4dWJiV3BvcHFkYzJVOFNzVHVNSnpKelZSSGkyVG5SYVc5WGtXb0Q2dlNDWDBVVmVOdERvSVU5c0VrMnpDMlJTeEt3bTluODRVLXlER2o5cndFSXhiYlRPUkR3T3JHbXhjOVJvM1p2MXA3eWZsWkRhc3YxOE95LUp5T2hlNm9iUlc3a1ZF?oc=5",
+      "tag": "MARKETS"
     },
     {
-      "time": "Fri 12:40 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Apple faces risk to dominance in UK tap-to-pay market - report",
-      "url": "https://seekingalpha.com/news/4653909-apple-faces-risk-to-dominance-in-uk-tap-to-pay-market---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Mon 2:13 AM ET",
+      "source": "Google News",
+      "title": "Heiwa Holdings (TSE:6412) Stock Could Be 43% Below Fair Value On Cash Flow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY3hlWjhnajg3Z2ZPREhINzZfNFBmY0RHNTA2Ty1VY1RkU2FkVXBmWWlSMnZESFVMcGZPRDlldVhhUnpwUllsTzg2TXV0bTNMa3Vpcjd1dUZvWkFVS2ZWdi12eDNBODk0NlQ0WXF1cVlIVURmWGJqTkMyTmNCUFY1Z3BqYU8xc0gzanpKVWVoWkwtY0FzOXV2c1R3?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:12 AM ET",
+      "source": "Google News",
+      "title": "Indonesia stock exchange to meet MSCI on Monday, seeking clarification on downgrade warning - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE5LaGtJejUxOFd5bFNMUnVTSTdEWXZDMFV0RTIxbjF1ckpOQ0F3VU9JZzV4TWxPWUNacWFNTHo0UDZONUloQnUwSS1uNklteUJnbGd6M19QNGtnMjVodkRfbXBjeXEyLS1vbUFaX0phR1h1V2RzR2ljbWtZWEpkaDJndWY2c1JJMFV0Y1pXc2l4V1AwdGdueXBSUWdDdjFQT1RLV3AxVzh6UFp1RjlBb3pJOWFNUjhnWWZLN1JuUTdTVHRnT3dZ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:11 AM ET",
+      "source": "Google News",
+      "title": "Lygend Resources And Technology (SEHK:2245) Stock May Be Undervalued On Earnings Power - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGdHeU5pVm9PaE9EVHkzLUtyQk1uT2JFSVM1azdsRWZnYm0xRk5GaERzb2k3NVhyZzA1WC1tRU1hVmJmMUFxZjVicFhnMWRBekx5aUhLRHZ1c0I4ZEhjZDBRaUEyWDd5c3BpQThpSHZKUVJ6bU9HdDljWEpxOFEtVHdvTmhCNWhQcWZUNjBKeTZLR2RMOEQ3SFZCNzZSbFhlM0pFUA?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:08 AM ET",
+      "source": "Google News",
+      "title": "Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE1VRHJWNW1PVkhXdTdsNmcwVjl6cHY5aTNNdGEyaTk2WXR5aGl2bExZemJXVG9lelNreHNKZXJVamdQbmtpWDJ1LTJRbjBGLWxKWTVvdlJPdWRaQk5hTkZsLUZQUDhMQkdSMU9mMHV6WVBqVEFTS3ExTVlLbEs4ZGlNeV9FLTFGeG00d3U3SmMtZi1FY0hxOEMzOUlsUzhQNHJhYThlUHBOQm1SWUlZV3dOamVhT3pUYi1kOVNwUC1hemRpMkE?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Fri 12:39 PM ET",
-      "source": "MarketWatch",
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 12:39 PM ET",
-      "source": "MarketWatch",
-      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-      "url": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 12:38 PM ET",
+      "time": "Mon 2:08 AM ET",
       "source": "Google News",
-      "title": "US stock indexes are mostly losing ground as the tech sector weighs on the market - Oskaloosa Herald",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMEdULTNiNjBjWGtWalA4c0locUhoRm1vLXI3cjhsMkNRUFJlU0Q1TWpUZzE0c0loVklxY1J6M3VuZWVHZFdzVTRLYnhhbUZfOVFJbGxEZmUzTHpsZDUzT1dhdzFGZjFiOXFnQ21yODNETDAwWFhudDdKNWo5d2lfZl9KUndUSUd3NVRpT3Vja0lFSVVZajFQc1VnX2kyMndjS28xRjNEbl9vV1N1aEstblZVSjN4dFhFdVZZdmxlZEVsbTAwUi1FUkxOOHR5a0F6aDVIdGVZU283SlI4WFJCVm1adm5lQ3gtNEFDYjVFNFdNd3M0b1hVSU9QeWN5SzRoSG9kTVExVQ?oc=5",
+      "title": "Erasca (ERAS) Stock Looks Above Fair Value After Its 5x Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUF83bWtVbDhEM193UzRiWVMtaGxnSHRfN0NEXzVjOFZxZHFLS29ldF9HMFZ2cEw2X2NtUk10aUktYjZwMnJLcnVNSi00UzBpd0E3V0Nod3BCazhPSEtBYl82U0NoaWR3RUVUTFlzT0I1SmZTY2g5V2ZLbmVUX2V2N2xNZW5sVGVaQW5tdVVkc01hcF9pYkdSelln?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 12:36 PM ET",
-      "source": "Seeking Alpha",
-      "title": "A & W Food Services of Canada Inc. GAAP EPS of $0.80, revenue of $79.3M",
-      "url": "https://seekingalpha.com/news/4653921-a-and-w-food-services-of-canada-inc-gaap-eps-of-0_80-revenue-of-79_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 12:35 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Alcoa rallies after posting higher Q3 profit, seeing strong aluminum fundamentals",
-      "url": "https://seekingalpha.com/news/4653905-alcoa-rallies-after-posting-higher-q3-profit-seeing-strong-aluminum-fundamentals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 12:31 PM ET",
-      "source": "Seeking Alpha",
-      "title": "CLPS GAAP EPS of -$0.39, revenue of $87.1M",
-      "url": "https://seekingalpha.com/news/4653920-clps-gaap-eps-of-0_39-revenue-of-87_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 12:30 PM ET",
-      "source": "Google News",
-      "title": "If Google Grows At 10% a Year, Here’s What $1,000 Becomes By 2030 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUhQejUyLWRjUFBSaHQxTDM1WmFfN0kwUTRadzJ1cUtDVWx0S0dWaWF5eWtmZ1dGaG9LZmxqaEdLSlhlTGpfLWZsd0RwdUVtdUVEVkZicGtiZnFBamJPNnNvdmN4UFl1cWw5Ymx6QjUwejlCdmxIYWg0V1pjTm5jVk5OVDBvaUxpS0wxWlZIaw?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 12:29 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Strata Critical Medical gains as activist Third Point takes stake, pushes for sale",
-      "url": "https://seekingalpha.com/news/4653913-strata-critical-medical-gains-as-activist-third-point-takes-stake-pushes-for-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 12:27 PM ET",
+      "time": "Mon 2:06 AM ET",
       "source": "CNBC",
-      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "tag": "TECH"
+      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "tag": "MARKETS"
     },
     {
-      "time": "Fri 12:25 PM ET",
+      "time": "Mon 2:00 AM ET",
       "source": "Google News",
-      "title": "Stocks Edge Lower as Dollar Heads for Weekly Loss - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlpiSVFzUWJxVE5vS1hPWW1abXNzVlM2bE5XZGIzWGxfZUVTQUUyYklYNGxvRVZWaGt6X29wWVRTWUh3QzhuTGNDNDZtQ3ByeGpCMGo3RVdWVTNfdHl4MmNTYThERDhHWEF0MkZldU1MMXYtUXhpN0gyeFlSNTBKemtweHdHSlk?oc=5",
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 19 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVC1ETFB4YUUwMUNuYWVhTHFnWTNuZlZuaWdoRHo0N0laX3JrWTZvX1VxOFZjdVU0WnI2SWFOYUlwZk16ZFJtS1I4RV9RWFpTcko0UVdEMWttcWRyb3FxWUhDV3NWM2NWLUQxOUs1RFZMZVA0SlcwREprMmp2SHVHZjJrUFZfV1BhcmE2ZjgySFRFeXV5Mi1yWlhVRVVMMEFvZGlVdzFhZmlFZlpk?oc=5",
       "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:00 AM ET",
+      "source": "Google News",
+      "title": "OSB GROUP PLC - Transaction in Own Shares - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHRIeE5zZGZONXlUcWJZaUNGdkhOWTl2VjFlMUE3elR0WkdCUFdVb0lZWGJRcG9QU3hNRHF6U01CcFlWZVRyWGJudm4xbmJJMmpZdU1iTWxfWFJROFlVcGc3djJvc3Bod1pNME1qV3ZhQzNpRUtXeWx1UUdVMGpBZm5lS1piVlU3ZWg5UGJOM09DdFhFWEhCdThn?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 1:58 AM ET",
+      "source": "Google News",
+      "title": "KeyCorp (KEY) Q3 Earnings Report Preview: What To Look For - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUpRNXB3TEJGaTRSSTFNSVpkYU9VOUloSWExQ3JrbHhZRHlNcWRQSzF4ZTdlV0VScU1DTk53STBrLU5Fc09OTTRBMXBubGVuRU1sNzBGWG84RklHemZPTFo1Q3kwX3JDR0dxZzl1TGdUOHZ0LVRyaFBKcl9UYkVTelJlU0dnVkk1Qm5HVUYySF9JS1JCaUVSQlVFaw?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 1:55 AM ET",
+      "source": "Google News",
+      "title": "Tom Lee Says Last Week's Stock Selloff Sets Up a Buy in Crypto, Semis - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUm12WWd2ZngxSFNhSVVyaEdSUXRoTTBVY21DUEpESmNuNVZqRkk4X0NfbkxJS0x1TG1tY1BJUWc3ampLeTdvakI3RmtlY0tNQXR6ZGJEUzIxVXctc3F1c1Z2MmdjLWVwanpsMFRpMWJJMzVVWk5GWXlTM3UwV01KTHlkc1NhLTlGZVB0dk1KcS1XZw?oc=5",
+      "tag": "CRYPTO"
+    },
+    {
+      "time": "Mon 1:48 AM ET",
+      "source": "Google News",
+      "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2ctT29yY2NXUERHb0l4akNWOFNNYTZVUWVKYU5oNTRvMXlpcFFYelRJc0V5MUgtWUJOTTBkRWRwT0NZbFZ4aHdQZVE0aG1halZmLW84d01qb01QdmRSZTc1UC05VXVFWW9fV3pnVW0tSVlsX3A4WTFPZ1Z4bVBIYzJmbVgtMW1CRkpjUS1ncTI0b1NXemlwdjFpNXBkNXVDZWRZbA?oc=5",
+      "tag": "ENERGY"
     }
   ],
-  "earnings": [
-    {
-      "ticker": "HDB",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "IBN",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "TRV",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "TFC",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "MTB",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "CFG",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "RF",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "BANF",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    }
-  ],
+  "earnings": [],
   "watch": [
-    "Risk snapshot at sweep: VIX 18.70, 10Y 5.121%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: ZTG +62.12% on 96,339,000 volume — check its news catalyst before touching it.",
-    "Reporting before the open: TRV, TFC, MTB, CFG, RF — expect gap moves and sympathy reads in their sectors.",
-    "Overnight risk headline: U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says"
+    "Risk snapshot at sweep: VIX 19.99, 10Y 5.065%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: ZTG +62.12% on 96,339,000 volume — check its news catalyst before touching it."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
