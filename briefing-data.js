@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 18, 2026 · 11:51 PM PT",
-  "tradingDate": "Sun Oct 18",
+  "generatedAtPT": "Oct 19, 2026 · 12:52 AM PT",
+  "tradingDate": "Mon Oct 19",
   "futures": [
     {
       "label": "VIX",
-      "value": "19.99",
-      "chg": "+UNCH%"
+      "value": "18.49",
+      "chg": "-7.50%"
     },
     {
       "label": "US 10Y",
-      "value": "5.065%",
-      "chg": "-0.6473%"
+      "value": "5.075%",
+      "chg": "-0.4512%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "99.45",
-      "chg": "-1.93%"
+      "value": "99.67",
+      "chg": "-1.72%"
     },
     {
       "label": "GOLD",
-      "value": "4,196.80",
-      "chg": "+0.38%"
+      "value": "4,202.70",
+      "chg": "+0.52%"
     },
     {
       "label": "DXY",
-      "value": "101.834",
-      "chg": "+UNCH%"
+      "value": "101.959",
+      "chg": "+0.12%"
     },
     {
       "label": "BITCOIN",
-      "value": "82,684.26",
-      "chg": "+2.25%"
+      "value": "82,644.66",
+      "chg": "+2.21%"
     }
   ],
   "movers": [
@@ -197,115 +197,157 @@ window.BRIEFING = {
   ],
   "headlines": [
     {
-      "time": "Mon 2:42 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Australia approves POSCO’s $3B low-carbon iron plant",
-      "url": "https://seekingalpha.com/news/4654095-australia-approves-poscos-3b-low-carbon-iron-plant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Mon 3:49 AM ET",
+      "source": "Google News",
+      "title": "Nebius Stock Has Fallen About 40% From Its Record. Here's Why I'm Still Waiting to Buy. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1RkLVV1VzEtSDh4cDdLNG5TQ1ZMNTdLREkxMEhaeUhIcFJkWXBUdFlqRUJVNnNEaGd5MmFvMnUyTkxWZFRBbXE0WlZ6dkVuQkJhc2h3V1lxOFNRVmx5Q0h6eUNabDV3NTlDNVFiRjhNWWltVUYzTnVwc1dadF9aY2hETWxPcC1ZTnVtcVF2d2tQNlBqRk5EMjBVR2R2SGpVZUUwZ1lFT0NfbG5hblh2OGtzMHBNQUxIemlWSkhaeHcwaGcteGc?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 2:36 AM ET",
-      "source": "Google News",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVV4MEFDYUhYekF0S1NRNUp0aXFhTGJEWFFIZFJTWHpBbC0wTzFKbkFENUxnNng1OFFMS0hwU1lVSllnSDRuQUpzUUk2d0pLS29xRGREU0dFYnF2V3N2NWhHbU9RYWQ5Y2tGalVWRFY4eWd1NUJocmNuaFRlc20tNklya1daUkJ4OVY4Ui1RVkxOdVhnaWpPQU13?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:25 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Starboard sees growth potential in Skyworks after Qorvo deal - report",
-      "url": "https://seekingalpha.com/news/4654092-starboard-sees-growth-potential-in-skyworks-after-qorvo-deal---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "DEALS"
-    },
-    {
-      "time": "Mon 2:15 AM ET",
-      "source": "Google News",
-      "title": "Aditya Birla Sun Life AMC International (IFSC) Limited introduces two retail funds of funds from GIFT City - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnU5N1pnOXc4dWJiV3BvcHFkYzJVOFNzVHVNSnpKelZSSGkyVG5SYVc5WGtXb0Q2dlNDWDBVVmVOdERvSVU5c0VrMnpDMlJTeEt3bTluODRVLXlER2o5cndFSXhiYlRPUkR3T3JHbXhjOVJvM1p2MXA3eWZsWkRhc3YxOE95LUp5T2hlNm9iUlc3a1ZF?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:13 AM ET",
-      "source": "Google News",
-      "title": "Heiwa Holdings (TSE:6412) Stock Could Be 43% Below Fair Value On Cash Flow - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY3hlWjhnajg3Z2ZPREhINzZfNFBmY0RHNTA2Ty1VY1RkU2FkVXBmWWlSMnZESFVMcGZPRDlldVhhUnpwUllsTzg2TXV0bTNMa3Vpcjd1dUZvWkFVS2ZWdi12eDNBODk0NlQ0WXF1cVlIVURmWGJqTkMyTmNCUFY1Z3BqYU8xc0gzanpKVWVoWkwtY0FzOXV2c1R3?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:12 AM ET",
-      "source": "Google News",
-      "title": "Indonesia stock exchange to meet MSCI on Monday, seeking clarification on downgrade warning - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE5LaGtJejUxOFd5bFNMUnVTSTdEWXZDMFV0RTIxbjF1ckpOQ0F3VU9JZzV4TWxPWUNacWFNTHo0UDZONUloQnUwSS1uNklteUJnbGd6M19QNGtnMjVodkRfbXBjeXEyLS1vbUFaX0phR1h1V2RzR2ljbWtZWEpkaDJndWY2c1JJMFV0Y1pXc2l4V1AwdGdueXBSUWdDdjFQT1RLV3AxVzh6UFp1RjlBb3pJOWFNUjhnWWZLN1JuUTdTVHRnT3dZ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:11 AM ET",
-      "source": "Google News",
-      "title": "Lygend Resources And Technology (SEHK:2245) Stock May Be Undervalued On Earnings Power - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGdHeU5pVm9PaE9EVHkzLUtyQk1uT2JFSVM1azdsRWZnYm0xRk5GaERzb2k3NVhyZzA1WC1tRU1hVmJmMUFxZjVicFhnMWRBekx5aUhLRHZ1c0I4ZEhjZDBRaUEyWDd5c3BpQThpSHZKUVJ6bU9HdDljWEpxOFEtVHdvTmhCNWhQcWZUNjBKeTZLR2RMOEQ3SFZCNzZSbFhlM0pFUA?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:08 AM ET",
-      "source": "Google News",
-      "title": "Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE1VRHJWNW1PVkhXdTdsNmcwVjl6cHY5aTNNdGEyaTk2WXR5aGl2bExZemJXVG9lelNreHNKZXJVamdQbmtpWDJ1LTJRbjBGLWxKWTVvdlJPdWRaQk5hTkZsLUZQUDhMQkdSMU9mMHV6WVBqVEFTS3ExTVlLbEs4ZGlNeV9FLTFGeG00d3U3SmMtZi1FY0hxOEMzOUlsUzhQNHJhYThlUHBOQm1SWUlZV3dOamVhT3pUYi1kOVNwUC1hemRpMkE?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Mon 2:08 AM ET",
-      "source": "Google News",
-      "title": "Erasca (ERAS) Stock Looks Above Fair Value After Its 5x Run - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUF83bWtVbDhEM193UzRiWVMtaGxnSHRfN0NEXzVjOFZxZHFLS29ldF9HMFZ2cEw2X2NtUk10aUktYjZwMnJLcnVNSi00UzBpd0E3V0Nod3BCazhPSEtBYl82U0NoaWR3RUVUTFlzT0I1SmZTY2g5V2ZLbmVUX2V2N2xNZW5sVGVaQW5tdVVkc01hcF9pYkdSelln?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:06 AM ET",
+      "time": "Mon 3:48 AM ET",
       "source": "CNBC",
-      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:00 AM ET",
-      "source": "Google News",
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 19 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVC1ETFB4YUUwMUNuYWVhTHFnWTNuZlZuaWdoRHo0N0laX3JrWTZvX1VxOFZjdVU0WnI2SWFOYUlwZk16ZFJtS1I4RV9RWFpTcko0UVdEMWttcWRyb3FxWUhDV3NWM2NWLUQxOUs1RFZMZVA0SlcwREprMmp2SHVHZjJrUFZfV1BhcmE2ZjgySFRFeXV5Mi1yWlhVRVVMMEFvZGlVdzFhZmlFZlpk?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 2:00 AM ET",
-      "source": "Google News",
-      "title": "OSB GROUP PLC - Transaction in Own Shares - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHRIeE5zZGZONXlUcWJZaUNGdkhOWTl2VjFlMUE3elR0WkdCUFdVb0lZWGJRcG9QU3hNRHF6U01CcFlWZVRyWGJudm4xbmJJMmpZdU1iTWxfWFJROFlVcGc3djJvc3Bod1pNME1qV3ZhQzNpRUtXeWx1UUdVMGpBZm5lS1piVlU3ZWg5UGJOM09DdFhFWEhCdThn?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 1:58 AM ET",
-      "source": "Google News",
-      "title": "KeyCorp (KEY) Q3 Earnings Report Preview: What To Look For - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUpRNXB3TEJGaTRSSTFNSVpkYU9VOUloSWExQ3JrbHhZRHlNcWRQSzF4ZTdlV0VScU1DTk53STBrLU5Fc09OTTRBMXBubGVuRU1sNzBGWG84RklHemZPTFo1Q3kwX3JDR0dxZzl1TGdUOHZ0LVRyaFBKcl9UYkVTelJlU0dnVkk1Qm5HVUYySF9JS1JCaUVSQlVFaw?oc=5",
+      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
       "tag": "EARNINGS"
     },
     {
-      "time": "Mon 1:55 AM ET",
-      "source": "Google News",
-      "title": "Tom Lee Says Last Week's Stock Selloff Sets Up a Buy in Crypto, Semis - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUm12WWd2ZngxSFNhSVVyaEdSUXRoTTBVY21DUEpESmNuNVZqRkk4X0NfbkxJS0x1TG1tY1BJUWc3ampLeTdvakI3RmtlY0tNQXR6ZGJEUzIxVXctc3F1c1Z2MmdjLWVwanpsMFRpMWJJMzVVWk5GWXlTM3UwV01KTHlkc1NhLTlGZVB0dk1KcS1XZw?oc=5",
-      "tag": "CRYPTO"
+      "time": "Mon 3:41 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Red Cat proposes to acquire engine specialist Steyr Motors",
+      "url": "https://seekingalpha.com/news/4654104-red-cat-proposes-to-acquire-engine-specialist-steyr-motors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
     },
     {
-      "time": "Mon 1:48 AM ET",
+      "time": "Mon 3:40 AM ET",
       "source": "Google News",
-      "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2ctT29yY2NXUERHb0l4akNWOFNNYTZVUWVKYU5oNTRvMXlpcFFYelRJc0V5MUgtWUJOTTBkRWRwT0NZbFZ4aHdQZVE0aG1halZmLW84d01qb01QdmRSZTc1UC05VXVFWW9fV3pnVW0tSVlsX3A4WTFPZ1Z4bVBIYzJmbVgtMW1CRkpjUS1ncTI0b1NXemlwdjFpNXBkNXVDZWRZbA?oc=5",
-      "tag": "ENERGY"
+      "title": "Why is Steyr Motors stock rallying today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDBObXlLdXdLaGVoOWozUzFFTzl1VVNLOURQVUwwX0Y2M1p0MF9mWFQ2N1Zwci0yM3d5ZXBmYmZFb0ZSZlF0ZGtHYWU1U0Qwemt1Z3Z4U3lSNW9XcHd5YzFVLUV6Q3BzTVNIa3FtcV9yQk5YZXFkcFRXZklrTERFM1puYklmZUpyMXlPcEZsOW9yTk9ic3E5b3FnaGFidjBqajZaRg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:34 AM ET",
+      "source": "Google News",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHp5M2FRZlcybFpRWTNnR1BXc0FNSzlBdVBPOUZ4Nko3ZzBKcDNrTWJQY2o1dUlYbW1OUnVaaGw1QzFqZ0tQbUd5dTRNa2JnY2NjVVFKTlp4Q0FmMURnMzc2aVEzX0N6czZ3NmpUdWVURVJsMDBiY2tud0hpTEhVU01DNzQzYURjdmpzZVF2bjRDRnpoSVUyMHU0NUJpZ1Zxa1dRSXV3aTJMSW0zVmhQcnhTUWw3M3dfUUlnaXhIWTZjUQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:30 AM ET",
+      "source": "Google News",
+      "title": "U.S. stock futures climb as investors return to AI trade after selloff By Investing.com - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDZqczJXWVdRY0pFdDlSN0lPODRxbFZJSXQ4bjJoWjFRTFhPU3dDbWlHdnU1SWRzZHgzbGNWMFpxQ2tsV1RQVndQY1pUVlM4R0NVakI4azdSbTlRS0ZxTkNKWV9IMFpMWXpiQ2pJZ01nX0htTDhINHpzTjU4QUh3eTh2V1BGbXpMaXJaalBFWWtNMXR3NkhLd085TXlCLWxVdzVzWW5sZy0zdE8tcDRzTnRld0hJc0YxazB0bFNvNWRQR2M?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Mon 3:28 AM ET",
+      "source": "Google News",
+      "title": "ServisFirst Bancshares (SFBS) Q3 Earnings Report Preview: What To Look For - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcml4WTRpeTVPZmFJdzA3X1kzVjN5ZHJ2dndVaUV3NTZMOXZ2NjliWGVQVHRWMTZnLU4yM2J6S2l5cjFWS3piXzRfclU5b1lzQ1VkR2M5MDEzNmRPSWs3NmpKd1NUeFpfSWFWMWpHaUtFOEZIZG5nMDA5T2drVnoyZmhKcG5QNVdrZy1DUmxBWGNDUjVQUTdPUFdublBpVDMwWm9ic3UtYw?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 3:28 AM ET",
+      "source": "Google News",
+      "title": "European stock market open: French unrest weighs on stocks to start the new week - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXVJZXV1NG05S0NlbHRGY0ZLcWxuUmFDemw2RTUwRkRiRUlic0JWZjh4dXNTcmlTbFJ6d3I5X3hBT2RzZkVMY1RMVndiX05ubnEyS1A5M3d3b2x1MVFZYWFNNldjZnJvdzRfUnFfeDNDajlmTEJnaGktVHdxc29YdXdneFdMUDFxYnBQTUZfcjlpOWxSTHJKSm53OXdiSmI2czVaaGwtc1V3SldIVnR1WEI4cw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:24 AM ET",
+      "source": "Google News",
+      "title": "French stocks slide after violent protests - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdW9VVF96NDJvM0NodkZHWmFtdk9jeTFva1pDT2h6eVZwWVV4OExITXRHODRaTVRlRkVvYldLdDFMRWtjeVZGa090QjhMVE1vUHd6MFhaWm5pbTRsZk9GUFFuQ0k3Wms4eEwwM2poYVcwLWJaMjR2cW9MMWlNSDFmMldsNl9ZcWlXVFRFbll1djhULTVlREhOdw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:20 AM ET",
+      "source": "Google News",
+      "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla — Sees Announcement In ‘Next Few Weeks’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2NETE9lUFB1Z2VjVmoxUmNVcFpUTlVUdjBnOGlrcUwzdzE4NW1fTlNHY0NJeWdwTGI2aTdDd3BjcmpTSzhrVjkzQXdVT1NDbEYyc1gyMXVpQVdKc215UHNYLVVZc3ZleUplU09tMTcxSksxaFJvaDgxdkJwRkx2OVJVVk5wSkFGSkVZc3lmWHBBTG8?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Mon 3:16 AM ET",
+      "source": "Google News",
+      "title": "French stocks slide after violent protests - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclczS3RuTTNuVkh5bnB0MUhfWlRzbW9WUkhWb2dYMTFCbzNIcFlpZUg3RnNVRE5jWmJNck04RlRvOC1mUmc0UGtDZkxmM2JrLUpQWDV4bVNBUnhJZG42cjZ5eEtTUWo0d2R6dk9IYjMyRTYyZnJPclZlcmMxa1ZDLWlhV1ZhTWRqVndWNEQyTXRfYlhKcnB2a0t3WVF6bThaeUpJ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:15 AM ET",
+      "source": "Google News",
+      "title": "Seino Holdings (TSE:9076) Stock Trades Below Fair Value On Cash Flow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3Vwa3ZCaU9jNGxpZ05HNnJDQnB6cXdOdzQwRERxRkZmMjJvZ0NmNE1DLXAxcHVSdlY4TzZ0YmZrNUgtOUpEZkh0WDRDckJjR1hFajRSRE5VN1IwNUxmWXRlN19CYVQwWlNpMWh2R2QtZ3BDTTd1LVNTN0dKLW5uVnNncGc2TEs1Sm9rZC02dXFCYXZhbVhxb0F3?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:12 AM ET",
+      "source": "Google News",
+      "title": "3 Canadian Penny Stocks With Market Caps Over $1 Billion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3RrZGVRVi1tRG9JUnZEWUFadWFLVFhhRjJNY0lrQmIxZ2ZTZ1dMX0lKZGROSlRFeVpXMTN6dlEtbFllQTE4OUlzTDItaHpsZnR4aTdYRjRCa1daSW93QndUc1gycUtON2NFa3d2OGRMNndPS1VjcDdfN0xKdE9DRnQxaUFaWjNkT25Qc2dkbHFmWGVNSWdIZ0ZFYw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:10 AM ET",
+      "source": "Google News",
+      "title": "Li Ning (SEHK:2331) Stock Looks Fully Valued Following 10% Buyback Plan - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYk9ZeWkwUUlIa01yY1ZIMzVqSzMtNkU5czA1VGlXZUNkWC1DOTlwSklyQ0hNVGZ1LWF0bWtyd2k1c2Q1Y29hanBQV0oyNVZKMnZGYjNmLUN2emxwLXVNaWxTYkp2QTlEc19teGR3S3lLaVp4dXFCTVJtdTkxM1V3NXBFSHpsYXdEU1MwOFJDeHM2UQ?oc=5",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Mon 3:10 AM ET",
+      "source": "Google News",
+      "title": "Nomura Real Estate Holdings (TSE:3231) Stock Looks To Trade At A Premium Following An 84% Five Year Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTVCU3djVDFWYzE3dlU2MXN5MHBtNF9OTkFoUUVUeXA2Z3JiaHZnTWwxaU1hVzhFbXJ2bFJ2dk9TYjdrQU5ROHVhQXlzRW9RQjVVb3JMZmg4WDhQdFd3T0d2QTREdktOMnB3RVhTU2VzRnJ2RlNOZTZ4ZGV5ZWFDMnBJSlB5XzhxM3VDV1oxMWZmcnZrbTdTdzhpYy0?oc=5",
+      "tag": "MARKETS"
     }
   ],
-  "earnings": [],
+  "earnings": [
+    {
+      "ticker": "FITB",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "STLD",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "WRB",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "CCK",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "SMMT",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "PAC",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "AGNC",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "WTFC",
+      "when": "AMC",
+      "note": ""
+    }
+  ],
   "watch": [
-    "Risk snapshot at sweep: VIX 19.99, 10Y 5.065%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: ZTG +62.12% on 96,339,000 volume — check its news catalyst before touching it."
+    "Risk snapshot at sweep: VIX 18.49, 10Y 5.075%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: ZTG +62.12% on 96,339,000 volume — check its news catalyst before touching it.",
+    "Reporting before the open: FITB — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
