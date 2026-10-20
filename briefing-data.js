@@ -1,353 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 19, 2026 · 12:52 AM PT",
-  "tradingDate": "Mon Oct 19",
+  "generatedAtPT": "Oct 20, 2026 · 10:32 AM PT",
+  "tradingDate": "Tue Oct 20",
   "futures": [
     {
       "label": "VIX",
-      "value": "18.49",
-      "chg": "-7.50%"
+      "value": "17.49",
+      "chg": "-5.15%"
     },
     {
       "label": "US 10Y",
-      "value": "5.075%",
-      "chg": "-0.4512%"
+      "value": "5.117%",
+      "chg": "-0.3699%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "99.67",
-      "chg": "-1.72%"
+      "value": "103.86",
+      "chg": "+0.19%"
     },
     {
       "label": "GOLD",
-      "value": "4,202.70",
-      "chg": "+0.52%"
+      "value": "4,140.70",
+      "chg": "-0.47%"
     },
     {
       "label": "DXY",
-      "value": "101.959",
-      "chg": "+0.12%"
+      "value": "101.712",
+      "chg": "-0.26%"
     },
     {
       "label": "BITCOIN",
-      "value": "82,644.66",
-      "chg": "+2.21%"
+      "value": "82,650.13",
+      "chg": "+1.01%"
     }
   ],
   "movers": [
     {
-      "ticker": "ZTG",
-      "price": "1.01",
-      "chg": "+62.12%",
-      "volume": "96,339,000",
-      "catalyst": "Why Is Penny Stock Zenta (ZTG) Up 46% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-zenta-ztg-up-46-today",
+      "ticker": "FRTT",
+      "price": "0.83",
+      "chg": "+55.04%",
+      "volume": "104,892,495",
+      "catalyst": "Fort Technology: Logia USA Signs Exclusive Distribution Agreement to Expand Fuel Maintenance Solutions for Data Centers Across the U.S.",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384279/0/en/fort-technology-logia-usa-signs-exclusive-distribution-agreement-to-expand-fuel-maintenance-solutions-for-data-centers-across-the-u-s.html",
       "spark": [
-        0.6,
-        0.56,
-        0.63,
         0.62,
-        0.71
+        0.6,
+        0.54,
+        0.54,
+        0.69
       ]
     },
     {
-      "ticker": "JAGX",
-      "price": "3.45",
-      "chg": "+50.33%",
-      "volume": "258,079",
-      "catalyst": "Jaguar Health sets ex-dividend date for Series R preferred stock dividend",
+      "ticker": "BRZE",
+      "price": "45.53",
+      "chg": "+51.57%",
+      "volume": "4,757,979",
+      "catalyst": "Braze downgraded to Perform from Outperform at Oppenheimer",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/jaguar-health-sets-ex-dividend-date-for-series-r-preferred-stock-dividend-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/braze-downgraded-to-perform-from-outperform-at-oppenheimer-thefly-news",
       "spark": [
-        4.64,
-        4.16,
-        4.18,
-        4.59,
-        3.53
+        28.25,
+        30.38,
+        29.34,
+        30.04,
+        45.46
       ]
     },
     {
-      "ticker": "SGRX",
-      "price": "0.97",
-      "chg": "+42.13%",
-      "volume": "15,790,435",
-      "catalyst": "SANGRIX Announces November 2026 Delivery Schedule for 128-GPU NVIDIA Blackwell B300 Project in Malaysia",
+      "ticker": "WORX",
+      "price": "3.94",
+      "chg": "+47.02%",
+      "volume": "26,961,401",
+      "catalyst": "SCWorx announces new agreement with healthcare system",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/scworx-announces-new-agreement-with-healthcare-system-thefly-news",
+      "spark": [
+        2.14,
+        2.01,
+        1.38,
+        2.68,
+        3.83
+      ]
+    },
+    {
+      "ticker": "SAIQ",
+      "price": "4.61",
+      "chg": "+35.19%",
+      "volume": "10,894,095",
+      "catalyst": "WISeSat.Space announces deployment of FOSSASAT-2E27 satellite",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/wisesat-space-announces-deployment-of-fossasat-2e27-satellite-thefly-news",
+      "spark": [
+        3.88,
+        3.21,
+        3.16,
+        3.41,
+        5.56
+      ]
+    },
+    {
+      "ticker": "MYGN",
+      "price": "5.31",
+      "chg": "+26.13%",
+      "volume": "2,785,292",
+      "catalyst": "Myriad Genetics upgraded to Neutral from Underweight at Piper Sandler",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/myriad-genetics-upgraded-to-neutral-from-underweight-at-piper-sandler-thefly-news",
+      "spark": [
+        4.15,
+        4.35,
+        3.98,
+        4.21,
+        5.69
+      ]
+    },
+    {
+      "ticker": "AIXI",
+      "price": "2.69",
+      "chg": "+22.27%",
+      "volume": "6,292,858",
+      "catalyst": "Xiao-I Corp (ADR) trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/xiao-i-corp-adr-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        2.88,
+        2.81,
+        2.92,
+        2.2,
+        3.02
+      ]
+    },
+    {
+      "ticker": "HOST",
+      "price": "2.28",
+      "chg": "+18.75%",
+      "volume": "416,763",
+      "catalyst": "Host Digital Authorizes $15 Million Share Buyback Program",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/16/3382608/0/en/sangrix-announces-november-2026-delivery-schedule-for-128-gpu-nvidia-blackwell-b300-project-in-malaysia.html",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384388/0/en/host-digital-authorizes-15-million-share-buyback-program.html",
       "spark": [
-        0.72,
-        0.73,
-        0.61,
-        0.69,
-        0.87
+        2.89,
+        2.5,
+        1.9,
+        1.92,
+        2.62
       ]
     },
     {
-      "ticker": "XLAB",
-      "price": "1.82",
-      "chg": "+33.82%",
-      "volume": "19,641,379",
-      "catalyst": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq L",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3370276/0/en/exascale-labs-holdings-inc-reports-111-revenue-growth-for-full-fiscal-year-2026-and-provides-business-update-following-successful-nasdaq-listing.html",
-      "spark": [
-        1.0,
-        0.93,
-        0.91,
-        1.36,
-        2.35
-      ]
-    },
-    {
-      "ticker": "HODO",
-      "price": "0.09",
-      "chg": "+30.37%",
-      "volume": "277,353,079",
-      "catalyst": "House of Doge files $100M mixed securities shelf",
+      "ticker": "MF",
+      "price": "12.23",
+      "chg": "+16.48%",
+      "volume": "-",
+      "catalyst": "MindForge Inc trading resumes",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/house-of-doge-files-100m-mixed-securities-shelf-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/mindforge-inc-trading-resumes-thefly-news-5",
       "spark": [
-        0.11,
-        0.09,
-        0.07,
-        0.07,
-        0.09
+        8.85,
+        10.88,
+        11.0,
+        10.5,
+        11.15
       ]
     },
     {
-      "ticker": "TCRT",
-      "price": "2.81",
-      "chg": "+28.67%",
-      "volume": "12,482,432",
-      "catalyst": "Alaunos Therapeutics announces completion of Velaris acquisition",
+      "ticker": "HTZ",
+      "price": "2.10",
+      "chg": "+14.13%",
+      "volume": "5,709,268",
+      "catalyst": "Hertz announces Oro Mobility secured $80M strategic equity investment",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/alaunos-therapeutics-announces-completion-of-velaris-acquisition-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/hertz-announces-oro-mobility-secured-80m-strategic-equity-investment-thefly-news",
       "spark": [
-        1.05,
-        3.03,
-        2.07,
-        2.18,
-        2.63
+        1.85,
+        1.83,
+        1.73,
+        1.84,
+        1.92
       ]
     },
     {
-      "ticker": "RUBI",
-      "price": "0.40",
-      "chg": "+24.95%",
-      "volume": "42,656,565",
-      "catalyst": "Rubico Inc announces $8.5M registered direct offering",
+      "ticker": "PDC",
+      "price": "3.00",
+      "chg": "+14.07%",
+      "volume": "-",
+      "catalyst": "Perpetuals.com partners with EIM to expand financial markets education",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/rubico-inc-announces-8-5m-registered-direct-offering-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/perpetuals-com-partners-with-eim-to-expand-financial-markets-education-thefly-news",
       "spark": [
-        0.42,
-        0.38,
-        0.32,
-        0.32,
-        0.39
-      ]
-    },
-    {
-      "ticker": "PMI",
-      "price": "12.30",
-      "chg": "+23.00%",
-      "volume": "170,133",
-      "catalyst": "Picard Medical Inc trading resumes",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/picard-medical-inc-trading-resumes-thefly-news-4",
-      "spark": [
-        11.34,
-        15.33,
-        12.68,
-        10.0,
-        12.75
-      ]
-    },
-    {
-      "ticker": "NCPL",
-      "price": "2.43",
-      "chg": "+22.73%",
-      "volume": "11,067,632",
-      "catalyst": "Netcapital regains compliance with Nasdaq minimum bid price requirement",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/netcapital-regains-compliance-with-nasdaq-minimum-bid-price-requirement-thefly-news",
-      "spark": [
-        1.54,
-        1.39,
-        1.59,
-        1.98,
-        2.17
-      ]
-    },
-    {
-      "ticker": "SITC",
-      "price": "3.58",
-      "chg": "+18.94%",
-      "volume": "451,971",
-      "catalyst": "Site Centers to voluntarily de-list its common shares",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/site-centers-to-voluntarily-de-list-its-common-shares-thefly-news",
-      "spark": [
-        3.08,
-        3.06,
-        3.02,
-        3.01,
-        3.43
+        3.2,
+        3.18,
+        3.1,
+        2.63,
+        2.47
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Mon 3:49 AM ET",
-      "source": "Google News",
-      "title": "Nebius Stock Has Fallen About 40% From Its Record. Here's Why I'm Still Waiting to Buy. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1RkLVV1VzEtSDh4cDdLNG5TQ1ZMNTdLREkxMEhaeUhIcFJkWXBUdFlqRUJVNnNEaGd5MmFvMnUyTkxWZFRBbXE0WlZ6dkVuQkJhc2h3V1lxOFNRVmx5Q0h6eUNabDV3NTlDNVFiRjhNWWltVUYzTnVwc1dadF9aY2hETWxPcC1ZTnVtcVF2d2tQNlBqRk5EMjBVR2R2SGpVZUUwZ1lFT0NfbG5hblh2OGtzMHBNQUxIemlWSkhaeHcwaGcteGc?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:48 AM ET",
-      "source": "CNBC",
-      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Mon 3:41 AM ET",
+      "time": "Tue 1:31 PM ET",
       "source": "Seeking Alpha",
-      "title": "Red Cat proposes to acquire engine specialist Steyr Motors",
-      "url": "https://seekingalpha.com/news/4654104-red-cat-proposes-to-acquire-engine-specialist-steyr-motors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:40 AM ET",
-      "source": "Google News",
-      "title": "Why is Steyr Motors stock rallying today? - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDBObXlLdXdLaGVoOWozUzFFTzl1VVNLOURQVUwwX0Y2M1p0MF9mWFQ2N1Zwci0yM3d5ZXBmYmZFb0ZSZlF0ZGtHYWU1U0Qwemt1Z3Z4U3lSNW9XcHd5YzFVLUV6Q3BzTVNIa3FtcV9yQk5YZXFkcFRXZklrTERFM1puYklmZUpyMXlPcEZsOW9yTk9ic3E5b3FnaGFidjBqajZaRg?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:34 AM ET",
-      "source": "Google News",
-      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHp5M2FRZlcybFpRWTNnR1BXc0FNSzlBdVBPOUZ4Nko3ZzBKcDNrTWJQY2o1dUlYbW1OUnVaaGw1QzFqZ0tQbUd5dTRNa2JnY2NjVVFKTlp4Q0FmMURnMzc2aVEzX0N6czZ3NmpUdWVURVJsMDBiY2tud0hpTEhVU01DNzQzYURjdmpzZVF2bjRDRnpoSVUyMHU0NUJpZ1Zxa1dRSXV3aTJMSW0zVmhQcnhTUWw3M3dfUUlnaXhIWTZjUQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:30 AM ET",
-      "source": "Google News",
-      "title": "U.S. stock futures climb as investors return to AI trade after selloff By Investing.com - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDZqczJXWVdRY0pFdDlSN0lPODRxbFZJSXQ4bjJoWjFRTFhPU3dDbWlHdnU1SWRzZHgzbGNWMFpxQ2tsV1RQVndQY1pUVlM4R0NVakI4azdSbTlRS0ZxTkNKWV9IMFpMWXpiQ2pJZ01nX0htTDhINHpzTjU4QUh3eTh2V1BGbXpMaXJaalBFWWtNMXR3NkhLd085TXlCLWxVdzVzWW5sZy0zdE8tcDRzTnRld0hJc0YxazB0bFNvNWRQR2M?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Mon 3:28 AM ET",
-      "source": "Google News",
-      "title": "ServisFirst Bancshares (SFBS) Q3 Earnings Report Preview: What To Look For - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcml4WTRpeTVPZmFJdzA3X1kzVjN5ZHJ2dndVaUV3NTZMOXZ2NjliWGVQVHRWMTZnLU4yM2J6S2l5cjFWS3piXzRfclU5b1lzQ1VkR2M5MDEzNmRPSWs3NmpKd1NUeFpfSWFWMWpHaUtFOEZIZG5nMDA5T2drVnoyZmhKcG5QNVdrZy1DUmxBWGNDUjVQUTdPUFdublBpVDMwWm9ic3UtYw?oc=5",
+      "title": "Northern Trust Q3 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4654799-northern-trust-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Mon 3:28 AM ET",
-      "source": "Google News",
-      "title": "European stock market open: French unrest weighs on stocks to start the new week - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXVJZXV1NG05S0NlbHRGY0ZLcWxuUmFDemw2RTUwRkRiRUlic0JWZjh4dXNTcmlTbFJ6d3I5X3hBT2RzZkVMY1RMVndiX05ubnEyS1A5M3d3b2x1MVFZYWFNNldjZnJvdzRfUnFfeDNDajlmTEJnaGktVHdxc29YdXdneFdMUDFxYnBQTUZfcjlpOWxSTHJKSm53OXdiSmI2czVaaGwtc1V3SldIVnR1WEI4cw?oc=5",
+      "time": "Tue 1:31 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Winnebago Q4 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4654798-winnebago-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 1:29 PM ET",
+      "source": "CNBC",
+      "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+      "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:24 AM ET",
+      "time": "Tue 1:26 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Equifax stock soars after Q3 earnings beat, helped by lower SG&A expenses",
+      "url": "https://seekingalpha.com/news/4654791-equifax-stock-soars-after-q3-earnings-beat-helped-by-lower-sga-expenses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 1:26 PM ET",
       "source": "Google News",
-      "title": "French stocks slide after violent protests - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdW9VVF96NDJvM0NodkZHWmFtdk9jeTFva1pDT2h6eVZwWVV4OExITXRHODRaTVRlRkVvYldLdDFMRWtjeVZGa090QjhMVE1vUHd6MFhaWm5pbTRsZk9GUFFuQ0k3Wms4eEwwM2poYVcwLWJaMjR2cW9MMWlNSDFmMldsNl9ZcWlXVFRFbll1djhULTVlREhOdw?oc=5",
+      "title": "Stock Market Correction In Its ‘Final Innings,’ Says Morgan Stanley’s Investment Chief - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTRoVG8wRW44anE5anpGQktYbXNMYXJsalhQSzZ5QzJvSGJJby1pSEl5M2VGUUlaOVpEMUk4Z004MV9FZk5ISzBVV0N6alVjOGJLVGNiY1hqYlVCUVgxaWt0clNrTGtsekU0aGVhWnZibnYycW8yMERKMTQ3c1JIZTBvdkthZGRsUDJmNmszY2J3X256QlZTNERhREVvdmtqRmhlYzlDWm9fMk1hNjZtdWM3ZVRaRENZMkh0WnNpOFI?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:20 AM ET",
-      "source": "Google News",
-      "title": "TSLA, SPCX Eye Green Open: Gary Black Predicts $420 SpaceX Buyout Of Tesla — Sees Announcement In ‘Next Few Weeks’ - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2NETE9lUFB1Z2VjVmoxUmNVcFpUTlVUdjBnOGlrcUwzdzE4NW1fTlNHY0NJeWdwTGI2aTdDd3BjcmpTSzhrVjkzQXdVT1NDbEYyc1gyMXVpQVdKc215UHNYLVVZc3ZleUplU09tMTcxSksxaFJvaDgxdkJwRkx2OVJVVk5wSkFGSkVZc3lmWHBBTG8?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Mon 3:16 AM ET",
-      "source": "Google News",
-      "title": "French stocks slide after violent protests - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclczS3RuTTNuVkh5bnB0MUhfWlRzbW9WUkhWb2dYMTFCbzNIcFlpZUg3RnNVRE5jWmJNck04RlRvOC1mUmc0UGtDZkxmM2JrLUpQWDV4bVNBUnhJZG42cjZ5eEtTUWo0d2R6dk9IYjMyRTYyZnJPclZlcmMxa1ZDLWlhV1ZhTWRqVndWNEQyTXRfYlhKcnB2a0t3WVF6bThaeUpJ?oc=5",
+      "time": "Tue 1:18 PM ET",
+      "source": "Seeking Alpha",
+      "title": "One consortium moves ahead in the GFL Environmental sales process - CTFN",
+      "url": "https://seekingalpha.com/news/4654770-one-consortium-moves-ahead-in-gfl-environmental-sales-process---ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:15 AM ET",
-      "source": "Google News",
-      "title": "Seino Holdings (TSE:9076) Stock Trades Below Fair Value On Cash Flow - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3Vwa3ZCaU9jNGxpZ05HNnJDQnB6cXdOdzQwRERxRkZmMjJvZ0NmNE1DLXAxcHVSdlY4TzZ0YmZrNUgtOUpEZkh0WDRDckJjR1hFajRSRE5VN1IwNUxmWXRlN19CYVQwWlNpMWh2R2QtZ3BDTTd1LVNTN0dKLW5uVnNncGc2TEs1Sm9rZC02dXFCYXZhbVhxb0F3?oc=5",
+      "time": "Tue 1:17 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Phillips 66 says locking out New Jersey refinery union workers after contract expired",
+      "url": "https://seekingalpha.com/news/4654792-phillips-66-says-locking-out-new-jersey-refinery-union-workers-after-contract-expired?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:12 AM ET",
-      "source": "Google News",
-      "title": "3 Canadian Penny Stocks With Market Caps Over $1 Billion - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3RrZGVRVi1tRG9JUnZEWUFadWFLVFhhRjJNY0lrQmIxZ2ZTZ1dMX0lKZGROSlRFeVpXMTN6dlEtbFllQTE4OUlzTDItaHpsZnR4aTdYRjRCa1daSW93QndUc1gycUtON2NFa3d2OGRMNndPS1VjcDdfN0xKdE9DRnQxaUFaWjNkT25Qc2dkbHFmWGVNSWdIZ0ZFYw?oc=5",
+      "time": "Tue 1:15 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Crown projects $8.35-$8.45 2026 adjusted EPS as global can growth target stays 4%-5%",
+      "url": "https://seekingalpha.com/news/4654795-crown-projects-8_35-8_45-2026-adjusted-eps-as-global-can-growth-target-stays-4-percentminus-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 1:15 PM ET",
+      "source": "MarketWatch",
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:10 AM ET",
-      "source": "Google News",
-      "title": "Li Ning (SEHK:2331) Stock Looks Fully Valued Following 10% Buyback Plan - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYk9ZeWkwUUlIa01yY1ZIMzVqSzMtNkU5czA1VGlXZUNkWC1DOTlwSklyQ0hNVGZ1LWF0bWtyd2k1c2Q1Y29hanBQV0oyNVZKMnZGYjNmLUN2emxwLXVNaWxTYkp2QTlEc19teGR3S3lLaVp4dXFCTVJtdTkxM1V3NXBFSHpsYXdEU1MwOFJDeHM2UQ?oc=5",
-      "tag": "DEALS"
+      "time": "Tue 1:11 PM ET",
+      "source": "Seeking Alpha",
+      "title": "XLV touches a new high, hitting overbought territory",
+      "url": "https://seekingalpha.com/news/4654794-xlv-touches-new-high-hits-overbought-territory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:10 AM ET",
+      "time": "Tue 1:00 PM ET",
+      "source": "MarketWatch",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 12:58 PM ET",
       "source": "Google News",
-      "title": "Nomura Real Estate Holdings (TSE:3231) Stock Looks To Trade At A Premium Following An 84% Five Year Run - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTVCU3djVDFWYzE3dlU2MXN5MHBtNF9OTkFoUUVUeXA2Z3JiaHZnTWwxaU1hVzhFbXJ2bFJ2dk9TYjdrQU5ROHVhQXlzRW9RQjVVb3JMZmg4WDhQdFd3T0d2QTREdktOMnB3RVhTU2VzRnJ2RlNOZTZ4ZGV5ZWFDMnBJSlB5XzhxM3VDV1oxMWZmcnZrbTdTdzhpYy0?oc=5",
+      "title": "Health Care Stocks Hit Record Highs, GM Drops Nearly 8%: Stock Market Today - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUlQYjhjdlQ1Qy1iYmZ4V0p5WHpoNFBraDJkT25sa1FSOE1xUHBSbDVJU1BPamFOcXBIdWpfU05hcmRlajNSXzdRU1M0VFZEd2wzZWxKVXRqUDBCT2xlVHJTT1VXa3hvUjVFSkxtZ09EOG54NU9KOEFha1UwSEVQdGZ4Q21rYnNlV01jMU0wRmwzMUFPbF82cHN0blJKdGQxM0d6U3ZzcVVQWnFyUmFRdWhEUVpfYmlPQkxQbGhkd3dMbTJIU2JKcw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 12:57 PM ET",
+      "source": "Google News",
+      "title": "US stocks rise after companies deliver strong profits and oil prices retreat - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Tue 12:55 PM ET",
+      "source": "MarketWatch",
+      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 12:54 PM ET",
+      "source": "Google News",
+      "title": "W. R. Berkley: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzBsajRxRUU5Nl9lN2ZWdTlTV0o4TThaOHpBR0xpdmRzcVNJdEFTLWoyd3RSNWFyLVRLX2kxYlI4Q1h4TTVxeTBWZnZhODhNRld3WVl1VUlyTVp1ZFNoaV9lZndDZDZOUXRuemkxSDZxbGhKWEVzaXJnOXRDOGlJdkpTNkwzaDJqN3c?oc=5",
       "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "FITB",
+      "ticker": "GE",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "STLD",
+      "ticker": "NFLX",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "WRB",
+      "ticker": "RTX",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "ISRG",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "CCK",
+      "ticker": "CB",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "SMMT",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "PAC",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "AGNC",
+      "ticker": "COF",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "WTFC",
-      "when": "AMC",
+      "ticker": "MMM",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "GM",
+      "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 18.49, 10Y 5.075%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: ZTG +62.12% on 96,339,000 volume — check its news catalyst before touching it.",
-    "Reporting before the open: FITB — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 17.49, 10Y 5.117%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: FRTT +55.04% on 104,892,495 volume — check its news catalyst before touching it.",
+    "Reporting before the open: GE, RTX, MMM, GM — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
