@@ -1,353 +1,354 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 20, 2026 · 10:32 AM PT",
-  "tradingDate": "Tue Oct 20",
+  "generatedAtPT": "Oct 21, 2026 · 10:40 AM PT",
+  "tradingDate": "Wed Oct 21",
   "futures": [
     {
       "label": "VIX",
-      "value": "17.49",
-      "chg": "-5.15%"
+      "value": "16.63",
+      "chg": "-3.93%"
     },
     {
       "label": "US 10Y",
-      "value": "5.117%",
-      "chg": "-0.3699%"
+      "value": "5.106%",
+      "chg": "-0.215%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "103.86",
-      "chg": "+0.19%"
+      "value": "96.97",
+      "chg": "-0.87%"
     },
     {
       "label": "GOLD",
-      "value": "4,140.70",
-      "chg": "-0.47%"
+      "value": "4,149.90",
+      "chg": "+0.18%"
     },
     {
       "label": "DXY",
-      "value": "101.712",
-      "chg": "-0.26%"
+      "value": "101.673",
+      "chg": "-0.03%"
     },
     {
       "label": "BITCOIN",
-      "value": "82,650.13",
-      "chg": "+1.01%"
+      "value": "84,620.16",
+      "chg": "+2.62%"
     }
   ],
   "movers": [
     {
-      "ticker": "FRTT",
-      "price": "0.83",
-      "chg": "+55.04%",
-      "volume": "104,892,495",
-      "catalyst": "Fort Technology: Logia USA Signs Exclusive Distribution Agreement to Expand Fuel Maintenance Solutions for Data Centers Across the U.S.",
+      "ticker": "POM",
+      "price": "1.69",
+      "chg": "+154.32%",
+      "volume": "1,099,744",
+      "catalyst": "PomDoctor Ltd â ADR trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/pomdoctor-ltd-adr-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        0.71,
+        0.63,
+        0.53,
+        0.66,
+        1.31
+      ]
+    },
+    {
+      "ticker": "RBNE",
+      "price": "1.00",
+      "chg": "+150.60%",
+      "volume": "49,292,635",
+      "catalyst": "Robin Energy files to sell 3.09M units",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/robin-energy-files-to-sell-3-09m-units-thefly-news",
+      "spark": [
+        1.94,
+        0.78,
+        0.52,
+        0.4,
+        0.27
+      ]
+    },
+    {
+      "ticker": "OLOX",
+      "price": "1.21",
+      "chg": "+64.18%",
+      "volume": "73,471,846",
+      "catalyst": "Olenox reports September bitcoin production of 15.03 bitcoin",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/olenox-reports-september-bitcoin-production-of-15-03-bitcoin-thefly-news",
+      "spark": [
+        0.74,
+        0.69,
+        0.7,
+        0.74,
+        1.01
+      ]
+    },
+    {
+      "ticker": "SHFS",
+      "price": "0.15",
+      "chg": "+63.52%",
+      "volume": "256,639,598",
+      "catalyst": "Why Is Penny Stock SHF Holdings (SHFS) Up 73% Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-shf-holdings-shfs-up-73-today",
+      "spark": [
+        0.15,
+        0.14,
+        0.09,
+        0.09,
+        0.13
+      ]
+    },
+    {
+      "ticker": "AMOD",
+      "price": "1.89",
+      "chg": "+46.51%",
+      "volume": "25,053,040",
+      "catalyst": "Alpha Modus Highlights Bitcoin Holdings with Value Exceeding $250 Million*, Potential $225 Million in Additional Cash Proceeds, ARIA Expansi",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384279/0/en/fort-technology-logia-usa-signs-exclusive-distribution-agreement-to-expand-fuel-maintenance-solutions-for-data-centers-across-the-u-s.html",
+      "url": "https://www.globenewswire.com/news-release/2026/10/21/3385504/0/en/alpha-modus-highlights-bitcoin-holdings-with-value-exceeding-250-million-potential-225-million-in-additional-cash-proceeds-aria-expansion-targeting-over-20-000-retail-locations-and.html",
       "spark": [
-        0.62,
-        0.6,
-        0.54,
-        0.54,
-        0.69
+        1.62,
+        1.3,
+        1.19,
+        1.29,
+        2.14
       ]
     },
     {
-      "ticker": "BRZE",
-      "price": "45.53",
-      "chg": "+51.57%",
-      "volume": "4,757,979",
-      "catalyst": "Braze downgraded to Perform from Outperform at Oppenheimer",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/braze-downgraded-to-perform-from-outperform-at-oppenheimer-thefly-news",
+      "ticker": "AHT",
+      "price": "2.40",
+      "chg": "+34.08%",
+      "volume": "12,111,476",
+      "catalyst": "ASHFORD HOSPITALITY TRUST ANNOUNCES $17 MILLION ADVISORY FEE WAIVER, SHARE PURCHASE COMMITMENT FROM ASHFORD INC. AND TERMINATION OF ATM PROG",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/ashford-hospitality-trust-announces-17-million-advisory-fee-waiver-share-purchase-commitment-from-ashford-inc-and-termination-of-atm-program-302914695.html",
       "spark": [
-        28.25,
-        30.38,
-        29.34,
-        30.04,
-        45.46
-      ]
-    },
-    {
-      "ticker": "WORX",
-      "price": "3.94",
-      "chg": "+47.02%",
-      "volume": "26,961,401",
-      "catalyst": "SCWorx announces new agreement with healthcare system",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/scworx-announces-new-agreement-with-healthcare-system-thefly-news",
-      "spark": [
-        2.14,
-        2.01,
-        1.38,
-        2.68,
-        3.83
-      ]
-    },
-    {
-      "ticker": "SAIQ",
-      "price": "4.61",
-      "chg": "+35.19%",
-      "volume": "10,894,095",
-      "catalyst": "WISeSat.Space announces deployment of FOSSASAT-2E27 satellite",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/wisesat-space-announces-deployment-of-fossasat-2e27-satellite-thefly-news",
-      "spark": [
-        3.88,
-        3.21,
-        3.16,
-        3.41,
-        5.56
-      ]
-    },
-    {
-      "ticker": "MYGN",
-      "price": "5.31",
-      "chg": "+26.13%",
-      "volume": "2,785,292",
-      "catalyst": "Myriad Genetics upgraded to Neutral from Underweight at Piper Sandler",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/myriad-genetics-upgraded-to-neutral-from-underweight-at-piper-sandler-thefly-news",
-      "spark": [
-        4.15,
-        4.35,
-        3.98,
-        4.21,
-        5.69
-      ]
-    },
-    {
-      "ticker": "AIXI",
-      "price": "2.69",
-      "chg": "+22.27%",
-      "volume": "6,292,858",
-      "catalyst": "Xiao-I Corp (ADR) trading halted, news pending",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/xiao-i-corp-adr-trading-halted-news-pending-thefly-news-2",
-      "spark": [
-        2.88,
-        2.81,
-        2.92,
-        2.2,
-        3.02
-      ]
-    },
-    {
-      "ticker": "HOST",
-      "price": "2.28",
-      "chg": "+18.75%",
-      "volume": "416,763",
-      "catalyst": "Host Digital Authorizes $15 Million Share Buyback Program",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384388/0/en/host-digital-authorizes-15-million-share-buyback-program.html",
-      "spark": [
-        2.89,
-        2.5,
-        1.9,
-        1.92,
-        2.62
-      ]
-    },
-    {
-      "ticker": "MF",
-      "price": "12.23",
-      "chg": "+16.48%",
-      "volume": "-",
-      "catalyst": "MindForge Inc trading resumes",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/mindforge-inc-trading-resumes-thefly-news-5",
-      "spark": [
-        8.85,
-        10.88,
-        11.0,
-        10.5,
-        11.15
-      ]
-    },
-    {
-      "ticker": "HTZ",
-      "price": "2.10",
-      "chg": "+14.13%",
-      "volume": "5,709,268",
-      "catalyst": "Hertz announces Oro Mobility secured $80M strategic equity investment",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/hertz-announces-oro-mobility-secured-80m-strategic-equity-investment-thefly-news",
-      "spark": [
-        1.85,
+        1.86,
         1.83,
-        1.73,
         1.84,
-        1.92
+        1.79,
+        2.52
       ]
     },
     {
-      "ticker": "PDC",
-      "price": "3.00",
-      "chg": "+14.07%",
-      "volume": "-",
-      "catalyst": "Perpetuals.com partners with EIM to expand financial markets education",
+      "ticker": "WHLR",
+      "price": "0.44",
+      "chg": "+21.41%",
+      "volume": "53,315,372",
+      "catalyst": "These 3 Penny Stocks Are on Investorsâ Radar Today â BENF, GRML, WHLR",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/perpetuals-com-partners-with-eim-to-expand-financial-markets-education-thefly-news",
+      "url": "https://www.tipranks.com/news/these-3-penny-stocks-are-on-investors-radar-today-benf-grml-whlr",
       "spark": [
-        3.2,
-        3.18,
-        3.1,
-        2.63,
-        2.47
+        0.41,
+        0.38,
+        0.35,
+        0.36,
+        0.56
+      ]
+    },
+    {
+      "ticker": "SPHL",
+      "price": "2.94",
+      "chg": "+20.99%",
+      "volume": "4,820,297",
+      "catalyst": "Springview Holdings Ltd trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/springview-holdings-ltd-trading-resumes-thefly-news",
+      "spark": [
+        2.35,
+        2.34,
+        2.25,
+        2.43,
+        3.28
+      ]
+    },
+    {
+      "ticker": "INVE",
+      "price": "2.68",
+      "chg": "+20.72%",
+      "volume": "7,269,754",
+      "catalyst": "INVE Technologies announces $20M modified âDutch auctionâ",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/inve-technologies-announces-20m-modified-dutch-auction-thefly-news",
+      "spark": [
+        2.29,
+        2.22,
+        2.26,
+        2.22,
+        2.76
+      ]
+    },
+    {
+      "ticker": "YMAT",
+      "price": "2.42",
+      "chg": "+20.40%",
+      "volume": "4,077,019",
+      "catalyst": "J-Star to acquire commercial manufacturing facility in Greater Houston",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/j-star-to-acquire-commercial-manufacturing-facility-in-greater-houston-thefly-news",
+      "spark": [
+        1.51,
+        1.31,
+        1.83,
+        2.01,
+        2.34
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Tue 1:31 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Northern Trust Q3 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4654799-northern-trust-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Tue 1:31 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Winnebago Q4 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4654798-winnebago-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Tue 1:29 PM ET",
+      "time": "Wed 1:36 PM ET",
       "source": "CNBC",
-      "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-      "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Wed 1:34 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Blackstone, Apollo unit may be able to buy minority stakes in NFL teams - report",
+      "url": "https://seekingalpha.com/news/4655412-blackstone-apollo-unit-may-be-able-to-buy-minority-stakes-in-nfl-teams---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Tue 1:26 PM ET",
+      "time": "Wed 1:34 PM ET",
+      "source": "CNBC",
+      "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 1:30 PM ET",
+      "source": "Google News",
+      "title": "Is AstraZeneca (AZN) Stock Cheap? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2psaWRJWDBLUEt2THRTb2lVcEgyRk1aeXJTalkxSi1uVzZiSkVKQUx0aEpDYW04aWx1alJMUlo1S0dWV3JZX2k3d3RvOExoMXEzLTJoNmd2ZURpWTAtWFFXN1lDZFZJLUNJR01ZS3J2WEdwRGdOOU1kd0MwUnpVaGFxMU5RTHBSeERXUzBaT3FZNERvemtz?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 1:29 PM ET",
       "source": "Seeking Alpha",
-      "title": "Equifax stock soars after Q3 earnings beat, helped by lower SG&A expenses",
-      "url": "https://seekingalpha.com/news/4654791-equifax-stock-soars-after-q3-earnings-beat-helped-by-lower-sga-expenses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "JPM sees Corning posting strong revenue on AI demand",
+      "url": "https://seekingalpha.com/news/4655422-jpm-sees-corning-posting-strong-revenue-on-ai-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Tue 1:26 PM ET",
+      "time": "Wed 1:27 PM ET",
+      "source": "CNBC",
+      "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "tag": "GEOPOLITICS"
+    },
+    {
+      "time": "Wed 1:26 PM ET",
       "source": "Google News",
-      "title": "Stock Market Correction In Its ‘Final Innings,’ Says Morgan Stanley’s Investment Chief - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTRoVG8wRW44anE5anpGQktYbXNMYXJsalhQSzZ5QzJvSGJJby1pSEl5M2VGUUlaOVpEMUk4Z004MV9FZk5ISzBVV0N6alVjOGJLVGNiY1hqYlVCUVgxaWt0clNrTGtsekU0aGVhWnZibnYycW8yMERKMTQ3c1JIZTBvdkthZGRsUDJmNmszY2J3X256QlZTNERhREVvdmtqRmhlYzlDWm9fMk1hNjZtdWM3ZVRaRENZMkh0WnNpOFI?oc=5",
+      "title": "3 Reasons to Sell UFPI and 1 Stock to Buy Instead - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUZIOWkxQ3luOFF4S3JzWWRTS1lXdjlvbmJLeEF3ZUxZRERwSXZTblpJRl9sNTM2cmJZc0E4NVowWjZjczlhd0p6Uk9MMnduMDBWT1liQWRxTkxVTWdrU3lBQXZRQkNPcVh1MlhjOXNGa3lZbHZjakhyMzA2OE1MTDhVX1dhMGRsSmFzWEdtYw?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Tue 1:18 PM ET",
+      "time": "Wed 1:19 PM ET",
       "source": "Seeking Alpha",
-      "title": "One consortium moves ahead in the GFL Environmental sales process - CTFN",
-      "url": "https://seekingalpha.com/news/4654770-one-consortium-moves-ahead-in-gfl-environmental-sales-process---ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Interest rates should be raised as insurance against persistent inflation – economist",
+      "url": "https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "FED"
+    },
+    {
+      "time": "Wed 1:18 PM ET",
+      "source": "Google News",
+      "title": "3 Reasons GT is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkFMRUFFWmVhSEdVREZSZmxGc2dHZ3lrWTY3M0hIV1Z1eGQwMEdKTVhGM0x5MTByY2hhQ2JvSDkzUUZKem5oZHFQc0tmcGdSb043MVg3U1E2VnkzRmkyRVJsWEJhRjdtTWFNSTVMcEw5bFNMeTlueVZKak1xZ3VGNWRIeTM5aXYwakc3bGZn?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Tue 1:17 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Phillips 66 says locking out New Jersey refinery union workers after contract expired",
-      "url": "https://seekingalpha.com/news/4654792-phillips-66-says-locking-out-new-jersey-refinery-union-workers-after-contract-expired?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
+      "time": "Wed 1:17 PM ET",
+      "source": "Google News",
+      "title": "Microsoft Must Say This on Oct. 28 or the Stock Will Go Into Free Fall - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3VxRTBKT2lyc3dYSXFhN3dUVnNpd3otam5DTThZYXh3NFFaNEJ2MGJIeHpsNkRUYUM4VUZBNUw2VEt0UjgxdVdSbFR2X08zd01IZERQSmRIYU9DTkwtLVgtUnpUSzlfMTVMYUVHbHhRTzVYaU85YW1IaG5fY09Edmt4N2FnWnF1dVlYeWwtYTRnR1c4TlVZ?oc=5",
+      "tag": "TECH"
     },
     {
-      "time": "Tue 1:15 PM ET",
+      "time": "Wed 1:14 PM ET",
+      "source": "CNBC",
+      "title": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
+      "url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Wed 1:13 PM ET",
       "source": "Seeking Alpha",
-      "title": "Crown projects $8.35-$8.45 2026 adjusted EPS as global can growth target stays 4%-5%",
-      "url": "https://seekingalpha.com/news/4654795-crown-projects-8_35-8_45-2026-adjusted-eps-as-global-can-growth-target-stays-4-percentminus-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Carpenter Technology Q1 2027 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4655410-carpenter-technology-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Tue 1:15 PM ET",
-      "source": "MarketWatch",
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 1:11 PM ET",
+      "time": "Wed 1:12 PM ET",
       "source": "Seeking Alpha",
-      "title": "XLV touches a new high, hitting overbought territory",
-      "url": "https://seekingalpha.com/news/4654794-xlv-touches-new-high-hits-overbought-territory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
+      "title": "Ryder Q3 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4655409-ryder-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
     },
     {
-      "time": "Tue 1:00 PM ET",
-      "source": "MarketWatch",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "tag": "MARKETS"
+      "time": "Wed 1:11 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Quest Diagnostics Q3 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4655408-quest-diagnostics-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
     },
     {
-      "time": "Tue 12:58 PM ET",
-      "source": "Google News",
-      "title": "Health Care Stocks Hit Record Highs, GM Drops Nearly 8%: Stock Market Today - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUlQYjhjdlQ1Qy1iYmZ4V0p5WHpoNFBraDJkT25sa1FSOE1xUHBSbDVJU1BPamFOcXBIdWpfU05hcmRlajNSXzdRU1M0VFZEd2wzZWxKVXRqUDBCT2xlVHJTT1VXa3hvUjVFSkxtZ09EOG54NU9KOEFha1UwSEVQdGZ4Q21rYnNlV01jMU0wRmwzMUFPbF82cHN0blJKdGQxM0d6U3ZzcVVQWnFyUmFRdWhEUVpfYmlPQkxQbGhkd3dMbTJIU2JKcw?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 12:57 PM ET",
-      "source": "Google News",
-      "title": "US stocks rise after companies deliver strong profits and oil prices retreat - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
-      "tag": "ENERGY"
-    },
-    {
-      "time": "Tue 12:55 PM ET",
-      "source": "MarketWatch",
-      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 12:54 PM ET",
-      "source": "Google News",
-      "title": "W. R. Berkley: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzBsajRxRUU5Nl9lN2ZWdTlTV0o4TThaOHpBR0xpdmRzcVNJdEFTLWoyd3RSNWFyLVRLX2kxYlI4Q1h4TTVxeTBWZnZhODhNRld3WVl1VUlyTVp1ZFNoaV9lZndDZDZOUXRuemkxSDZxbGhKWEVzaXJnOXRDOGlJdkpTNkwzaDJqN3c?oc=5",
-      "tag": "MARKETS"
+      "time": "Wed 1:09 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Old Republic Q3 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4655407-old-republic-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
     }
   ],
   "earnings": [
     {
-      "ticker": "GE",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "NFLX",
+      "ticker": "META",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "RTX",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "ISRG",
+      "ticker": "TSLA",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "CB",
+      "ticker": "LRCX",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "COF",
+      "ticker": "PM",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "SAP",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "MMM",
+      "ticker": "TMO",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "GM",
-      "when": "BMO",
+      "ticker": "TXN",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "IBM",
+      "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 17.49, 10Y 5.117%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: FRTT +55.04% on 104,892,495 volume — check its news catalyst before touching it.",
-    "Reporting before the open: GE, RTX, MMM, GM — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 16.63, 10Y 5.106%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: POM +154.32% on 1,099,744 volume — check its news catalyst before touching it.",
+    "Reporting before the open: PM, TMO — expect gap moves and sympathy reads in their sectors.",
+    "Overnight risk headline: How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier"
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
