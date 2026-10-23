@@ -1,353 +1,354 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 22, 2026 · 10:38 AM PT",
-  "tradingDate": "Thu Oct 22",
+  "generatedAtPT": "Oct 23, 2026 · 10:28 AM PT",
+  "tradingDate": "Fri Oct 23",
   "futures": [
     {
       "label": "VIX",
-      "value": "18.92",
-      "chg": "+13.43%"
+      "value": "20.24",
+      "chg": "+6.36%"
     },
     {
       "label": "US 10Y",
-      "value": "4.965%",
-      "chg": "-3.5173%"
+      "value": "4.99%",
+      "chg": "+0.747%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "99.30",
-      "chg": "+2.21%"
+      "value": "102.73",
+      "chg": "+3.28%"
     },
     {
       "label": "GOLD",
-      "value": "4,059.50",
-      "chg": "-2.18%"
+      "value": "4,008.10",
+      "chg": "-1.29%"
     },
     {
       "label": "DXY",
-      "value": "101.623",
-      "chg": "-0.15%"
+      "value": "101.812",
+      "chg": "+0.20%"
     },
     {
       "label": "BITCOIN",
-      "value": "81,178.00",
-      "chg": "-3.86%"
+      "value": "81,519.27",
+      "chg": "+0.22%"
     }
   ],
   "movers": [
     {
-      "ticker": "STAK",
-      "price": "1.68",
-      "chg": "+68.00%",
-      "volume": "34,771,025",
-      "catalyst": "STAK Inc. Announces Financial Results for Fiscal Year 2026",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/stak-inc-announces-financial-results-for-fiscal-year-2026-302915863.html",
-      "spark": [
-        1.02,
-        1.0,
-        1.01,
-        1.0,
-        1.7
-      ]
-    },
-    {
-      "ticker": "SHFS",
-      "price": "0.23",
-      "chg": "+48.83%",
-      "volume": "172,850,186",
-      "catalyst": "Why Is Penny Stock SHF Holdings (SHFS) Up 73% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-shf-holdings-shfs-up-73-today",
-      "spark": [
-        0.14,
-        0.09,
-        0.09,
-        0.15,
-        0.33
-      ]
-    },
-    {
-      "ticker": "BHVN",
-      "price": "16.01",
-      "chg": "+36.26%",
-      "volume": "12,265,253",
-      "catalyst": "Why Is Biohaven Stock (BHVN) Up 34% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-biohaven-stock-bhvn-up-34-today",
-      "spark": [
-        10.78,
-        11.35,
-        11.81,
-        11.75,
-        14.87
-      ]
-    },
-    {
-      "ticker": "NCPL",
-      "price": "2.06",
-      "chg": "+30.89%",
-      "volume": "2,078,544",
-      "catalyst": "Netcapital regains compliance with Nasdaq minimum bid price requirement",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/netcapital-regains-compliance-with-nasdaq-minimum-bid-price-requirement-thefly-news",
-      "spark": [
-        2.17,
-        1.63,
-        2.02,
-        1.57,
-        2.46
-      ]
-    },
-    {
-      "ticker": "BKYI",
-      "price": "2.68",
-      "chg": "+27.62%",
-      "volume": "12,790,177",
-      "catalyst": "Why Is Penny Stock BIO-key International (BKYI) Up 38% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-bio-key-international-bkyi-up-38-today",
-      "spark": [
-        2.63,
-        2.27,
-        2.3,
-        2.1,
-        2.73
-      ]
-    },
-    {
-      "ticker": "PFSA",
-      "price": "1.02",
-      "chg": "+20.11%",
-      "volume": "12,725,038",
-      "catalyst": "Profusa receives ISO 13485:2016 certificate from GMED",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/profusa-receives-iso-134852016-certificate-from-gmed-thefly-news",
-      "spark": [
-        0.93,
-        0.9,
-        0.89,
-        0.85,
-        1.27
-      ]
-    },
-    {
-      "ticker": "SKYQ",
-      "price": "2.59",
-      "chg": "+19.91%",
-      "volume": "2,688,538",
-      "catalyst": "Sky Quarry confirms production at Nevada refinery",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/sky-quarry-confirms-production-at-nevada-refinery-thefly-news",
-      "spark": [
-        2.41,
-        2.33,
-        2.36,
-        2.16,
-        2.32
-      ]
-    },
-    {
-      "ticker": "SAIQ",
-      "price": "6.57",
-      "chg": "+18.17%",
-      "volume": "1,985,185",
-      "catalyst": "WISeSat.Space Holdings Corp. trading resumes",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/wisesat-space-holdings-corp-trading-resumes-thefly-news",
-      "spark": [
-        3.16,
-        3.41,
-        6.84,
-        5.56,
-        7.4
-      ]
-    },
-    {
-      "ticker": "XLAB",
-      "price": "3.20",
-      "chg": "+17.65%",
-      "volume": "10,760,487",
-      "catalyst": "Exascale Labs Holdings Inc. Reports 111% Revenue Growth for Full Fiscal Year 2026 and Provides Business Update Following Successful Nasdaq L",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3370276/0/en/exascale-labs-holdings-inc-reports-111-revenue-growth-for-full-fiscal-year-2026-and-provides-business-update-following-successful-nasdaq-listing.html",
-      "spark": [
-        2.35,
-        3.06,
-        2.99,
-        2.72,
-        4.06
-      ]
-    },
-    {
       "ticker": "XXII",
-      "price": "0.32",
-      "chg": "+17.44%",
-      "volume": "54,382,972",
+      "price": "0.31",
+      "chg": "+45.43%",
+      "volume": "148,748,677",
       "catalyst": "22nd Century Group Preliminarily Reports Third Quarter Financial Results",
       "source": "globenewswire.com",
       "url": "https://www.globenewswire.com/news-release/2026/10/22/3386631/0/en/22nd-century-group-preliminarily-reports-third-quarter-financial-results.html",
       "spark": [
-        0.34,
         0.3,
         0.27,
         0.27,
-        0.24
+        0.22,
+        0.2
+      ]
+    },
+    {
+      "ticker": "LUCD",
+      "price": "0.43",
+      "chg": "+31.80%",
+      "volume": "43,019,352",
+      "catalyst": "Lucid Diagnostics begins receiving Medicare reimbursement for EsoGuard",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/lucid-diagnostics-begins-receiving-medicare-reimbursement-for-esoguard-thefly-news",
+      "spark": [
+        0.38,
+        0.35,
+        0.33,
+        0.33,
+        0.43
+      ]
+    },
+    {
+      "ticker": "YMAT",
+      "price": "2.53",
+      "chg": "+31.77%",
+      "volume": "16,501,193",
+      "catalyst": "J-Star to acquire commercial manufacturing facility in Greater Houston",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/j-star-to-acquire-commercial-manufacturing-facility-in-greater-houston-thefly-news",
+      "spark": [
+        1.83,
+        2.01,
+        2.26,
+        1.92,
+        2.59
+      ]
+    },
+    {
+      "ticker": "SAIQ",
+      "price": "6.75",
+      "chg": "+27.84%",
+      "volume": "2,188,271",
+      "catalyst": "WISeSat.Space Holdings Corp. trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/wisesat-space-holdings-corp-trading-resumes-thefly-news",
+      "spark": [
+        3.41,
+        6.84,
+        5.56,
+        5.28,
+        6.44
+      ]
+    },
+    {
+      "ticker": "AIXI",
+      "price": "3.14",
+      "chg": "+26.61%",
+      "volume": "10,525,315",
+      "catalyst": "Xiao-I Corp (ADR) trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/xiao-i-corp-adr-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        2.2,
+        3.1,
+        2.88,
+        2.48,
+        3.01
+      ]
+    },
+    {
+      "ticker": "GPUS",
+      "price": "0.15",
+      "chg": "+21.75%",
+      "volume": "113,534,432",
+      "catalyst": "Hyperscale Data backs FY26 revenue view $300M-$350M",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/hyperscale-data-backs-fy26-revenue-view-300m-350m-thefly-news",
+      "spark": [
+        0.14,
+        0.14,
+        0.14,
+        0.13,
+        0.18
+      ]
+    },
+    {
+      "ticker": "BKYI",
+      "price": "3.25",
+      "chg": "+18.61%",
+      "volume": "5,571,711",
+      "catalyst": "Why Is Penny Stock BIO-key International (BKYI) Up 38% Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-bio-key-international-bkyi-up-38-today",
+      "spark": [
+        2.27,
+        2.3,
+        2.1,
+        2.74,
+        3.69
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "price": "91.50",
+      "chg": "+16.07%",
+      "volume": "442,537",
+      "catalyst": "Crown Castle jumps 9% in after-hours following SpaceX cell towers report",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/crown-castle-jumps-9-in-after-hours-following-spacex-cell-towers-report-thefly-news",
+      "spark": [
+        81.06,
+        81.14,
+        78.65,
+        78.83,
+        85.95
+      ]
+    },
+    {
+      "ticker": "RNG",
+      "price": "89.98",
+      "chg": "+13.29%",
+      "volume": "62,745",
+      "catalyst": "RingCentral price target raised to $110 from $85 at Oppenheimer",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/ringcentral-price-target-raised-to-110-from-85-at-oppenheimer-thefly-news",
+      "spark": [
+        79.19,
+        81.62,
+        82.42,
+        79.42,
+        84.67
+      ]
+    },
+    {
+      "ticker": "AMT",
+      "price": "201.90",
+      "chg": "+11.20%",
+      "volume": "307,307",
+      "catalyst": "SpaceX Talks Send Cell Tower Stocks Surging",
+      "source": "investopedia.com",
+      "url": "https://www.investopedia.com/market-update-spacex-talks-send-cell-tower-stocks-surging-spcx-cci-12189620",
+      "spark": [
+        183.03,
+        183.56,
+        177.64,
+        181.57,
+        186.9
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Thu 1:37 PM ET",
+      "time": "Fri 1:26 PM ET",
       "source": "CNBC",
-      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "tag": "MARKETS"
+      "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "tag": "FED"
     },
     {
-      "time": "Thu 1:33 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Pulse Seismic Inc. GAAP EPS of $0.22, revenue of $17.3M",
-      "url": "https://seekingalpha.com/news/4656093-pulse-seismic-inc-gaap-eps-of-022-revenue-of-173m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Thu 1:31 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Ford attempts to overturn $13.2M trade secrets award - Bloomberg",
-      "url": "https://seekingalpha.com/news/4656070-ford-attempts-to-overturn-132m-trade-secrets-award---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:30 PM ET",
-      "source": "Google News",
-      "title": "Netflix Stock Has a Long-Term Opportunity That Short-Term Investors May Be Missing - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXJMZ3o2RkZZbFp3Nzl2UFB4eXdmS3h1elVwMzBxdmIxUDZKQ2wta2hPRXdVdzV3dFBTLXNRWkNYV3JhamxVbnNnSjhRa0ZJVnRKYnlGLW1SZFdBWEd2cXpYcHVQZkE2ZTRha3FpdHE5X3l4RHZ4OEhQY3NxZE1QMkpWeHZnam5wTWhNWEM5NnJNMFFZdmFub3lySkxQdF9TcGc?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:30 PM ET",
+      "time": "Fri 1:26 PM ET",
       "source": "CNBC",
-      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 1:29 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Nickel Industries reports Q3 results",
-      "url": "https://seekingalpha.com/news/4656091-nickel-industries-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Thu 1:29 PM ET",
-      "source": "MarketWatch",
-      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:28 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Wyndham forecasts $740M-$745M adjusted EBITDA as global RevPAR outlook rises to 0.5%-1%",
-      "url": "https://seekingalpha.com/news/4656090-wyndham-forecasts-740m-745m-adjusted-ebitda-as-global-revpar-outlook-rises-to-0_5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:28 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Graco forecasts Q4 revenue of $610M-$640M as ETM-ABB targets first data center installations by end of 2029",
-      "url": "https://seekingalpha.com/news/4656089-graco-forecasts-q4-revenue-of-610m-640m-as-etm-abb-targets-first-data-center-installations-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Thu 1:28 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Quest Diagnostics outlines $12.065B-$12.105B 2026 revenue outlook while projecting consumer health growth to exceed 30%",
-      "url": "https://seekingalpha.com/news/4656088-quest-diagnostics-outlines-12_065b-12_105b-2026-revenue-outlook-while-projecting-consumer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Thu 1:28 PM ET",
+      "time": "Fri 1:23 PM ET",
       "source": "CNBC",
-      "title": "We're dipping back into the AI trade with our first data center buy in weeks",
-      "url": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:21 PM ET",
+      "source": "CNBC",
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
       "tag": "TECH"
     },
     {
-      "time": "Thu 1:25 PM ET",
-      "source": "Google News",
-      "title": "Here's What an $8,000 Investment in SpaceX Could Be Worth by 2030 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDVjbk82SzliS0JOYXFDYzRlSWQzVlNiRGlrWDdzWHNzWXNoa3loSVdsYnh1cHhPeWR2Qml2cF9BWFdRWGxmVUNBS3YwdnVYazVwRThXRTFVYWRzNVZadW1qbjhRZzdlTEVta1BsbmhBdFhBOVFwNnlmOHFmUGhZMEJfYmRnbTE5ZVZTVGFlNXB0QnNmb29OMUl3?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:24 PM ET",
-      "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 1:23 PM ET",
+      "time": "Fri 1:18 PM ET",
       "source": "Seeking Alpha",
-      "title": "Undervalued technology stocks to watch as Q3 earnings season unfolds",
-      "url": "https://seekingalpha.com/news/4656082-undervalued-technology-stocks-to-watch-as-q3-earnings-season-unfolds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "SLB surges on strong Q3 results, upbeat 2027 outlook as Middle East rebounds",
+      "url": "https://seekingalpha.com/news/4656683-slb-surges-on-strong-q3-results-upbeat-2027-outlook-as-middle-east-rebounds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Thu 1:21 PM ET",
-      "source": "MarketWatch",
-      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-      "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-      "tag": "CRYPTO"
+      "time": "Fri 1:15 PM ET",
+      "source": "Google News",
+      "title": "Rithm Capital Corp. Q3 2026 Earnings Call Summary - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVwVmlmMUdLR1RUakp5Y2dab1FtNFZnZ2xCaVRiZHplN1lwZUJvS2tHZ1lyWUNqanlTZ2g0UEUtUGdIeUFfWEFHVUo0ZWlSN0JLWFRvdzRiVDUtOG5yLXlBLXg1RzlwdldzRUxJUnZESFN4SXpTSWpxZWlKUzJjOFpva2lJU0F3RFE2emFrcDQxbi1ub3c?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Fri 1:15 PM ET",
+      "source": "CNBC",
+      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+      "url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:14 PM ET",
+      "source": "FT",
+      "title": "Netanyahu threatens ‘aggressive’ offensive after West Bank shooting",
+      "url": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:10 PM ET",
+      "source": "Google News",
+      "title": "Above the Noise: Perspective on bubble fears - Invesco",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMU9uaGVaQzdfUG5KbnZiUGRuMU54T2ZBb0ZaSHlfM2QtOWZwZXdidXEtVlpOQkFTVVFOcDVSQVFVZ1h3NlhidlljWlVzLU1jWVo0cnNNcnNRYlhYX1p5ZzdGcW4yMFdzYTBBYWYyREJ3S3NpZ3B5NmxjTzRXUmtOcW1B?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:09 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Flagstar forecasts 2027 EPS of $0.85-$0.95 and shifts full turnaround timeline to 2028 amid higher rates",
+      "url": "https://seekingalpha.com/news/4656688-flagstar-forecasts-2027-eps-of-0_85-0_95-and-shifts-full-turnaround-timeline-to-2028-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Fri 1:07 PM ET",
+      "source": "Seeking Alpha",
+      "title": "White House seen endorsing \"U.S. Caught Seafood\" labels - report",
+      "url": "https://seekingalpha.com/news/4656677-white-house-seen-endorsing-us-caught-seafood-labels---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:06 PM ET",
+      "source": "Google News",
+      "title": "Worried About a Stock Market Correction? Here's 1 Rock-Solid Stock to Consider. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW5SZEJYNnNCcFJMZnVwNmdQNy04WERENXlqQ19LNVViV2tjWGVicXRhMWNhbGVmLWNqeFUyM0Z4clRfTkotM0gwSWt3eHdDenRNY0NHaFlYTnB4bE4xcVhjOVpaUkxNRUhPclpvY1k5UmFnTUJzQ3IyY25oblBQS2lIaWlERF94dEdpdXpPRWVUcTcw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:06 PM ET",
+      "source": "Seeking Alpha",
+      "title": "SA Asks: Why did the market sell off after relatively good earnings reports?",
+      "url": "https://seekingalpha.com/news/4656684-sa-asks-why-did-the-market-sell-off-after-relatively-good-earnings-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 1:04 PM ET",
+      "source": "CNBC",
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "tag": "GEOPOLITICS"
+    },
+    {
+      "time": "Fri 1:01 PM ET",
+      "source": "FT",
+      "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+      "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+      "tag": "ENERGY"
     }
   ],
   "earnings": [
     {
-      "ticker": "PG",
+      "ticker": "AXP",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "UNP",
+      "ticker": "E",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "WDC",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "LMT",
+      "ticker": "SLB",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "VLO",
+      "ticker": "INFY",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "NEM",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "SPOT",
+      "ticker": "FCNCA",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "BX",
+      "ticker": "RCI",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "RDY",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "BAH",
       "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 18.92, 10Y 4.965%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: STAK +68.00% on 34,771,025 volume — check its news catalyst before touching it.",
-    "Reporting before the open: PG, UNP, LMT, VLO, SPOT — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 20.24, 10Y 4.99%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: XXII +45.43% on 148,748,677 volume — check its news catalyst before touching it.",
+    "Reporting before the open: AXP, E, SLB, INFY, FCNCA — expect gap moves and sympathy reads in their sectors.",
+    "Overnight risk headline: Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising"
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
