@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 23, 2026 · 10:28 AM PT",
-  "tradingDate": "Fri Oct 23",
+  "generatedAtPT": "Oct 25, 2026 · 11:59 PM PT",
+  "tradingDate": "Sun Oct 25",
   "futures": [
     {
       "label": "VIX",
-      "value": "20.24",
-      "chg": "+6.36%"
+      "value": "19.45",
+      "chg": "+UNCH%"
     },
     {
       "label": "US 10Y",
-      "value": "4.99%",
-      "chg": "+0.747%"
+      "value": "4.972%",
+      "chg": "-0.3208%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "102.73",
-      "chg": "+3.28%"
+      "value": "101.21",
+      "chg": "-1.99%"
     },
     {
       "label": "GOLD",
-      "value": "4,008.10",
-      "chg": "-1.29%"
+      "value": "4,021.40",
+      "chg": "+0.34%"
     },
     {
       "label": "DXY",
-      "value": "101.812",
-      "chg": "+0.20%"
+      "value": "101.693",
+      "chg": "-0.11%"
     },
     {
       "label": "BITCOIN",
-      "value": "81,519.27",
-      "chg": "+0.22%"
+      "value": "79,994.21",
+      "chg": "-0.60%"
     }
   ],
   "movers": [
@@ -63,7 +63,7 @@ window.BRIEFING = {
         0.35,
         0.33,
         0.33,
-        0.43
+        0.41
       ]
     },
     {
@@ -71,15 +71,15 @@ window.BRIEFING = {
       "price": "2.53",
       "chg": "+31.77%",
       "volume": "16,501,193",
-      "catalyst": "J-Star to acquire commercial manufacturing facility in Greater Houston",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/j-star-to-acquire-commercial-manufacturing-facility-in-greater-houston-thefly-news",
+      "catalyst": "J-Star Holding Co., Ltd. Files Interim Financial Report on Form 6-K",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387613/0/en/j-star-holding-co-ltd-files-interim-financial-report-on-form-6-k.html",
       "spark": [
         1.83,
         2.01,
         2.26,
         1.92,
-        2.59
+        2.05
       ]
     },
     {
@@ -95,7 +95,7 @@ window.BRIEFING = {
         6.84,
         5.56,
         5.28,
-        6.44
+        6.12
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         3.1,
         2.88,
         2.48,
-        3.01
+        2.96
       ]
     },
     {
@@ -127,7 +127,7 @@ window.BRIEFING = {
         0.14,
         0.14,
         0.13,
-        0.18
+        0.17
       ]
     },
     {
@@ -143,7 +143,7 @@ window.BRIEFING = {
         2.3,
         2.1,
         2.74,
-        3.69
+        3.39
       ]
     },
     {
@@ -151,15 +151,15 @@ window.BRIEFING = {
       "price": "91.50",
       "chg": "+16.07%",
       "volume": "442,537",
-      "catalyst": "Crown Castle jumps 9% in after-hours following SpaceX cell towers report",
+      "catalyst": "Citi says SpaceX seeking cell sites good for towers, bad for telcos",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/crown-castle-jumps-9-in-after-hours-following-spacex-cell-towers-report-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/citi-says-spacex-seeking-cell-sites-good-for-towers-bad-for-telcos-thefly-news",
       "spark": [
         81.06,
         81.14,
         78.65,
         78.83,
-        85.95
+        85.97
       ]
     },
     {
@@ -175,7 +175,7 @@ window.BRIEFING = {
         81.62,
         82.42,
         79.42,
-        84.67
+        83.39
       ]
     },
     {
@@ -191,164 +191,121 @@ window.BRIEFING = {
         183.56,
         177.64,
         181.57,
-        186.9
+        188.97
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Fri 1:26 PM ET",
-      "source": "CNBC",
-      "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-      "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "time": "Mon 2:53 AM ET",
+      "source": "Google News",
+      "title": "Why is Unitree Robotics stock surging today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5ESVRzZlgtWE5qYVZWWlpuT3VNM0cwQnVKT0VGZ3dtaHltalJBdjMyc09MMXU1QWlwcGtrc2NIZmlIQk9CYUkwSG9wemxTNWxOUGFnZ3JmeEJVWkljN0txVWlzQWRxNk1wQTJMcXA0MERnYWJnckUwU0Y2Wlg2RmljcjhSamYtSVZuakJzSUdjZFZkZXVEREJxXzlsSWk1cDdRYlZQUHc?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:51 AM ET",
+      "source": "Google News",
+      "title": "Saudi stock market falls to lowest level in five years - Pars Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlQ0cU45eVJOWWNIZTNzZ1VCTDBTUzFFT2pNMldSM2pRa0RxcXlMRjQ4ODc0WEViV0ZXUmpDdjc5MnB6QldBQk1sLTE5VTc3dHNxbkJsRjR3UGgzWDdQQkszSTlzb3htdUJNNzdWckl4VzBmUktGeFRlSktuQXVyUFhSM3I1SDM0eENpTjVuSy00OXFvQVBtZktmNkdoNzN4Nlkw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:45 AM ET",
+      "source": "Google News",
+      "title": "Swiss Prime Site raises 2026 FFO outlook, sets 2030 growth target - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWRGdmt2MGQyOEotQk45X2p1RUowTlFLT2w0ek9MVTFNSTBSUmdqa1dIVFVIYklDa2NtOHBIMlNKOG9LVW1oaWJhdWpXREFJd0hyQ0JxM0FMNE0tRi1SYXBlZWdPLWFjZHNGX2FiT1IzT18wSTJfQzRGanJlVUw4b0otMlRKelFOeTdkMEJDLUdwM2lnS2xqc3pteXh4TGlscEJtX2cyd01BRzFkRjdVS3pRR2xaWnU5d043UkVB?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:41 AM ET",
+      "source": "Google News",
+      "title": "PostNL seeks state compensation for 2027, confirms 2026 outlook as Q3 revenue rise - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFfQUhTdWNKdmNtaEdibm5zVDVCamtfSmNRMkpDeEwza2QwVWg5akp0VnpLQTJ1ZjJBWUJYeG9rNTRsOWU5MktMMDZaeExaUkZjNDdQTjYxT3dLUHFENlhKSmJHemhZdnh5ZEdPZUljUDlXdXhYUXFIUjFMTDFZVklpcGpxRWZXdVNFMTM0Q0tSVEtFczdIN0lSWXFmY3oxUmNsT1lIUjhrQVVCQlduNWstTHBQQkh2U0ZjbGRBWWtxVzBac1ZvcE9aQ2VOcU80QTdkVA?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 2:41 AM ET",
+      "source": "Google News",
+      "title": "Unitree Robotics shares surge on JPMorgan double-upgrade - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVBzN1Nfb0VrdHNpVjNuVTl2SFg1U3lDeTFIem0yOWR3dkJBbi0wTDlndUpJVGlJZFBEbGdYOGctdjFISW5heGdRUy1ib2phbjl0WWRVVFlIeUd2bUZaejFidnlTM09SSDVCNjRFcGJPTk5XVW9Ua25YaGtNWnBSSWpwWEpKVUo1U25NenNObExMdmFkOS1oVU0yZnVTWHY2MnZOMF9MZDFqaTNxUU5GUEFR?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:35 AM ET",
+      "source": "Google News",
+      "title": "Billionaire Ken Griffin Is Buying This Dividend King That Wall Street Still Rates a Buy - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXRTNjNXZEtaU3VFakJpRTd2bUs4VnM3ZzdCOTlRZXlCbnlXMFZ0UURqXzBTdVNSOEZOUC0tZHNZemRKQTRhck1LWkZaS182UnpwaC1GZWhtekRWUFdDOWRlY1dlSDRtVTZ1WkJwMmd0cUg5LWtpU2NZQW5WdHp1UzFfTDJhZGw0aWdzTVJFXzI5ancxd0lqUA?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:32 AM ET",
+      "source": "Google News",
+      "title": "Charles River Laboratories’ Q3 2026 Earnings: What to Expect - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak1EQ0tBMlZMeXo3ZVNyYmRPR0NuVnFpRlk3eTVsQ0V1Q0xuUU9pV2VIcThjSGhRd3RBUW93dWdKeXo2eDZqSXJsSGdOUHFIOTJCamVOOXQ0OThYVjFJRExVdUdPNTZMcUVVVXVKLWRYeFAzdk42dXVHRmxmTzctNHF3b3lYVkE4b3BSVE9CODgtY2pwczMtbkJUNk85STV1UWl0Tw?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 2:31 AM ET",
+      "source": "Google News",
+      "title": "Morning Wrap: Lack of escalation lowers oil prices. Unexpected Lula victory hurts Brazilian stock market - XTB.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeTlKYUpUX2Y1YVJwRGNDbUpIUUZyajNORWlMcUhvXzdaOHpYelhNQUhEYUhkYklzaGNtWEFxbGRmQ0RsZU9adFZXM1JHSHptNWk4clc3Um4tajNJanRPTC1lZFdkbHNhZHJPdU9mWUxqSlJDZmd1eElsdWx4d3BSamxtM0w5Mmtfbkswa2RTZ21QdEZHaHI2QVFBNEJBanBjb05DQkJFVzA0SThDUzdTNWpLY3RvWDh1M2swaWNqNWJCY3RqX0JzbFlxZTNwc0JpZmU4c19sV21oLUoyNFpERFRGNnRkeXFpaDZySjQtNW4?oc=5",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Mon 2:30 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Anthropic’s Claude bypasses paywall to access Georgia voter data without authorization",
+      "url": "https://seekingalpha.com/news/4657023-anthropics-claude-bypasses-paywall-to-access-georgia-voter-data-without-authorization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:16 AM ET",
+      "source": "Google News",
+      "title": "Amid the recent sharp decline in the domestic stock market, the trading value of some stocks has dec.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZR0RYTFFlMloydTd4UmFCSmNuZ2ZtVTd5R1pFOEpvMnQyUThQNllRWU1Ccmc1TUpPM3EwWTdoYTlOOGYwaUVMSXZfQUtGa28?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:14 AM ET",
+      "source": "FT",
+      "title": "How Lula turned his election fortunes around in three weeks",
+      "url": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 2:14 AM ET",
+      "source": "Google News",
+      "title": "Enphase (ENPH) Q3 earnings: what to expect - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1ZQeVN4QkhpS1hzbzVfZTBDLVNjNFVYbF92Y2xhdk5PU2RVYjgtRWJrbEpVcGdZNlEwMzN6SHppZmJSVEhTaTd3blJpNWxybVVPYzFHY1dPS2VjMGtIZDBMMFhadTh2SHUwcFZlUlF4SzZ3S05PWFJBaW1sSGJhdkdxWGRub2tXWS13dVV0Q1VrR2gwTDBfZUY5Vlg?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 2:12 AM ET",
+      "source": "Google News",
+      "title": "NOW 55% OFF: Rattled by Fed headlines? Meet the AI doubled the market’s return - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbC1EYzNaNFN6TVNiRDBiY3R0VUJ4ODdvcnJpeHByWERpOFF1MF9DM29tU2h4ZVdkQ19qc0tybUw1WnI0V2VnLVhHQk1PN1RndlRWY3V3Z3Z2NUpOZmZ6RlE0WkVacFljUFMyZURiRUlINTBRakpRZEhZaTlYVWFMc1l0YTlDenFTbUhYVDBCajhMa2xQcVZFZ0VoR2dteE1IN0I5a253QVBLalV1LWNEVWtReXY1ZVFicXdrRUJQbmhNdDdsOEJSWWpwYw?oc=5",
       "tag": "FED"
     },
     {
-      "time": "Fri 1:26 PM ET",
-      "source": "CNBC",
-      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-      "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:23 PM ET",
-      "source": "CNBC",
-      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:21 PM ET",
-      "source": "CNBC",
-      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "time": "Mon 2:10 AM ET",
+      "source": "Google News",
+      "title": "Markets Brief: The AI Stock Slump Is Testing Retail Investors’ Nerves - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWNqcFRsNnVBWlB3VHZ6aWFiTnBqb1AxZTQzQ3ZFd21oWC13eGE5ajEwTmxhSnpLY0pZUG1nSVR4d1EzUkZLZ1dIamRUSTl0aFBLZ3ZFRjd6am04TEpiZFVjdTRhOUFKRlFNZGprQTJQU3IzR3lWbjRxRVRqWllQaWQzamlRdjR2WUZ1WXFEMFR1T3RlUF9CZTMwY0NzV0t4?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Fri 1:18 PM ET",
-      "source": "Seeking Alpha",
-      "title": "SLB surges on strong Q3 results, upbeat 2027 outlook as Middle East rebounds",
-      "url": "https://seekingalpha.com/news/4656683-slb-surges-on-strong-q3-results-upbeat-2027-outlook-as-middle-east-rebounds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 1:15 PM ET",
+      "time": "Mon 2:08 AM ET",
       "source": "Google News",
-      "title": "Rithm Capital Corp. Q3 2026 Earnings Call Summary - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVwVmlmMUdLR1RUakp5Y2dab1FtNFZnZ2xCaVRiZHplN1lwZUJvS2tHZ1lyWUNqanlTZ2g0UEUtUGdIeUFfWEFHVUo0ZWlSN0JLWFRvdzRiVDUtOG5yLXlBLXg1RzlwdldzRUxJUnZESFN4SXpTSWpxZWlKUzJjOFpva2lJU0F3RFE2emFrcDQxbi1ub3c?oc=5",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 1:15 PM ET",
-      "source": "CNBC",
-      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
-      "url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+      "title": "Did ACWA Power's Fall Catch You Out? What Bears Saw - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2F5NG9fbUtUUWRXdDlhcWdBOGFJc1d3RUFMcXdRcXBvSGUzdThFdFBZcFNBTWZQQlNhVEQwYVB2YU15UEpLVXB3TUZCRW5Menl0RXR0bFRLNG4yaU5TRWxxNkZrdHRfVnhlaF9ZMWE3R0dqMG8tcVlaWWVNWVBwNUl6eUM3ajVsTFZsMVBJNmVuMGI4ckE?oc=5",
       "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:14 PM ET",
-      "source": "FT",
-      "title": "Netanyahu threatens ‘aggressive’ offensive after West Bank shooting",
-      "url": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:10 PM ET",
-      "source": "Google News",
-      "title": "Above the Noise: Perspective on bubble fears - Invesco",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMU9uaGVaQzdfUG5KbnZiUGRuMU54T2ZBb0ZaSHlfM2QtOWZwZXdidXEtVlpOQkFTVVFOcDVSQVFVZ1h3NlhidlljWlVzLU1jWVo0cnNNcnNRYlhYX1p5ZzdGcW4yMFdzYTBBYWYyREJ3S3NpZ3B5NmxjTzRXUmtOcW1B?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:09 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Flagstar forecasts 2027 EPS of $0.85-$0.95 and shifts full turnaround timeline to 2028 amid higher rates",
-      "url": "https://seekingalpha.com/news/4656688-flagstar-forecasts-2027-eps-of-0_85-0_95-and-shifts-full-turnaround-timeline-to-2028-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 1:07 PM ET",
-      "source": "Seeking Alpha",
-      "title": "White House seen endorsing \"U.S. Caught Seafood\" labels - report",
-      "url": "https://seekingalpha.com/news/4656677-white-house-seen-endorsing-us-caught-seafood-labels---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:06 PM ET",
-      "source": "Google News",
-      "title": "Worried About a Stock Market Correction? Here's 1 Rock-Solid Stock to Consider. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW5SZEJYNnNCcFJMZnVwNmdQNy04WERENXlqQ19LNVViV2tjWGVicXRhMWNhbGVmLWNqeFUyM0Z4clRfTkotM0gwSWt3eHdDenRNY0NHaFlYTnB4bE4xcVhjOVpaUkxNRUhPclpvY1k5UmFnTUJzQ3IyY25oblBQS2lIaWlERF94dEdpdXpPRWVUcTcw?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:06 PM ET",
-      "source": "Seeking Alpha",
-      "title": "SA Asks: Why did the market sell off after relatively good earnings reports?",
-      "url": "https://seekingalpha.com/news/4656684-sa-asks-why-did-the-market-sell-off-after-relatively-good-earnings-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:04 PM ET",
-      "source": "CNBC",
-      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "tag": "GEOPOLITICS"
-    },
-    {
-      "time": "Fri 1:01 PM ET",
-      "source": "FT",
-      "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-      "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-      "tag": "ENERGY"
     }
   ],
-  "earnings": [
-    {
-      "ticker": "AXP",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "E",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "SLB",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "INFY",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "FCNCA",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "RCI",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "RDY",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "BAH",
-      "when": "BMO",
-      "note": ""
-    }
-  ],
+  "earnings": [],
   "watch": [
-    "Risk snapshot at sweep: VIX 20.24, 10Y 4.99%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: XXII +45.43% on 148,748,677 volume — check its news catalyst before touching it.",
-    "Reporting before the open: AXP, E, SLB, INFY, FCNCA — expect gap moves and sympathy reads in their sectors.",
-    "Overnight risk headline: Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising"
+    "Risk snapshot at sweep: VIX 19.45, 10Y 4.972%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: XXII +45.43% on 148,748,677 volume — check its news catalyst before touching it."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
