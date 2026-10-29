@@ -1,347 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 28, 2026 · 11:30 AM PT",
-  "tradingDate": "Wed Oct 28",
+  "generatedAtPT": "Oct 29, 2026 · 11:39 AM PT",
+  "tradingDate": "Thu Oct 29",
   "futures": [
     {
       "label": "VIX",
-      "value": "17.24",
-      "chg": "-1.60%"
+      "value": "17.03",
+      "chg": "+0.71%"
     },
     {
       "label": "US 10Y",
-      "value": "5.03%",
-      "chg": "+0.741%"
+      "value": "4.991%",
+      "chg": "-1.0704%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "102.98",
-      "chg": "+3.08%"
+      "value": "102.02",
+      "chg": "-0.74%"
     },
     {
       "label": "GOLD",
-      "value": "4,046.10",
-      "chg": "-0.70%"
+      "value": "4,018.00",
+      "chg": "-0.83%"
     },
     {
       "label": "DXY",
-      "value": "102.355",
-      "chg": "+0.04%"
+      "value": "102.029",
+      "chg": "-0.16%"
     },
     {
       "label": "BITCOIN",
-      "value": "80,875.20",
-      "chg": "+0.32%"
+      "value": "80,570.90",
+      "chg": "-0.86%"
     }
   ],
   "movers": [
     {
-      "ticker": "ULBI",
-      "price": "15.60",
-      "chg": "+145.28%",
-      "volume": "297,251",
-      "catalyst": "Ultralife Stock Soars 145%. EnerSys to Buy It for the âBattlefield of the Future.",
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/ultralife-stock-enersys-acquisition-c2b19d62",
-      "spark": [
-        6.18,
-        6.07,
-        6.01,
-        6.36,
-        15.64
-      ]
-    },
-    {
-      "ticker": "BRAI",
-      "price": "4.93",
-      "chg": "+48.94%",
-      "volume": "11,265,856",
-      "catalyst": "Braiin Targets USD 56.9 Billion CX Software Market with Agentic AI Expansion and Major Upgrade to RADIUS CX Platform",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/26/3388145/0/en/braiin-targets-usd-56-9-billion-cx-software-market-with-agentic-ai-expansion-and-major-upgrade-to-radius-cx-platform.html",
-      "spark": [
-        3.87,
-        3.55,
-        2.12,
-        3.31,
-        3.73
-      ]
-    },
-    {
-      "ticker": "ELPW",
-      "price": "3.37",
-      "chg": "+38.12%",
-      "volume": "26,471,201",
-      "catalyst": "Elong Power Holding Limited (NASDAQ: ELPW) Announces Subsidiary's Entry into a US$25.5 Million Annual Cooperation Agreement, Marking a Criti",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/28/3389905/0/en/elong-power-holding-limited-nasdaq-elpw-announces-subsidiary-s-entry-into-a-us-25-5-million-annual-cooperation-agreement-marking-a-critical-step-forward-in-its-global-distribution-.html",
-      "spark": [
-        2.26,
-        2.27,
-        2.3,
-        2.44,
-        2.8
-      ]
-    },
-    {
-      "ticker": "CHSN",
-      "price": "1.45",
-      "chg": "+34.26%",
-      "volume": "3,805,370",
-      "catalyst": "Chanson International Holding Announces First Half of Fiscal Year 2026 Financial Results",
+      "ticker": "NCPL",
+      "price": "1.61",
+      "chg": "+45.91%",
+      "volume": "13,246,993",
+      "catalyst": "What Does Netcapital Inc.'s 28.62% Stock Drop Mean for Investors? The Law Offices of Howard G.",
       "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/chanson-international-holding-announces-first-half-of-fiscal-year-2026-financial-results-302883014.html",
+      "url": "https://www.prnewswire.com/news-releases/what-does-netcapital-incs-28-62-stock-drop-mean-for-investors-the-law-offices-of-howard-g-smith-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302917638.html",
       "spark": [
-        0.89,
-        1.0,
-        1.01,
-        1.08,
+        1.33,
+        1.33,
+        1.31,
+        1.1,
+        1.71
+      ]
+    },
+    {
+      "ticker": "PCLA",
+      "price": "8.39",
+      "chg": "+40.65%",
+      "volume": "7,747,758",
+      "catalyst": "Picocela Inc â ADR trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/picocela-inc-adr-trading-resumes-thefly-news-7",
+      "spark": [
+        5.88,
+        5.93,
+        6.0,
+        5.97,
+        9.8
+      ]
+    },
+    {
+      "ticker": "BURU",
+      "price": "0.24",
+      "chg": "+36.84%",
+      "volume": "63,861,698",
+      "catalyst": "Nuburu regains compliance with NYSE American continued listing standards",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/nuburu-regains-compliance-with-nyse-american-continued-listing-standards-thefly-news",
+      "spark": [
+        0.24,
+        0.23,
+        0.18,
+        0.17,
+        0.42
+      ]
+    },
+    {
+      "ticker": "INLF",
+      "price": "0.24",
+      "chg": "+32.78%",
+      "volume": "118,880,360",
+      "catalyst": "INLIF LIMITED Announces Closing of US$3.75 Million Registered Direct Offering",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384864/0/en/inlif-limited-announces-closing-of-us-3-75-million-registered-direct-offering.html",
+      "spark": [
+        0.19,
+        0.18,
+        0.18,
+        0.18,
+        0.25
+      ]
+    },
+    {
+      "ticker": "NUWE",
+      "price": "6.77",
+      "chg": "+19.52%",
+      "volume": "8,897,152",
+      "catalyst": "Whatâs Going on with Penny Stock Nuwellis (NUWE) Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/whats-going-on-with-penny-stock-nuwellis-nuwe-today",
+      "spark": [
+        2.9,
+        3.1,
+        5.41,
+        5.66,
+        6.39
+      ]
+    },
+    {
+      "ticker": "PRCH",
+      "price": "19.41",
+      "chg": "+19.08%",
+      "volume": "53,226",
+      "catalyst": "Porch Group price target raised to $25 from $22 at Craig-Hallum",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/porch-group-price-target-raised-to-25-from-22-at-craig-hallum-thefly-news",
+      "spark": [
+        17.73,
+        17.37,
+        17.66,
+        16.3,
+        20.78
+      ]
+    },
+    {
+      "ticker": "CROX",
+      "price": "140.06",
+      "chg": "+17.02%",
+      "volume": "243,714",
+      "catalyst": "Crocs Stock (CROX) Soars over 16% Due to a Q3 Earnings Beat and Guidance Boost",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/crocs-stock-crox-soars-over-16-due-to-a-q3-earnings-beat-and-guidance-boost",
+      "spark": [
+        119.23,
+        118.85,
+        119.5,
+        119.69,
+        150.21
+      ]
+    },
+    {
+      "ticker": "WATR",
+      "price": "1.72",
+      "chg": "+17.01%",
+      "volume": "161",
+      "catalyst": "",
+      "source": "stockanalysis",
+      "url": "https://stockanalysis.com/stocks/watr/",
+      "spark": [
+        1.45,
+        1.44,
+        1.44,
+        1.47,
         1.31
       ]
     },
     {
-      "ticker": "AIOK",
-      "price": "17.27",
-      "chg": "+28.69%",
-      "volume": "5,895,124",
-      "catalyst": "AI OKTO CORP. Common Stock trading resumes",
+      "ticker": "GKOS",
+      "price": "210.99",
+      "chg": "+16.29%",
+      "volume": "64,456",
+      "catalyst": "Glaukos price target raised to $248 from $195 at H.C. Wainwright",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/ai-okto-corp-common-stock-trading-resumes-thefly-news-2",
+      "url": "https://www.tipranks.com/news/the-fly/glaukos-price-target-raised-to-248-from-195-at-h-c-wainwright-thefly-news",
       "spark": [
-        4.25,
-        12.02,
-        9.16,
-        13.42,
-        17.68
+        178.88,
+        178.27,
+        181.17,
+        181.43,
+        237.44
       ]
     },
     {
-      "ticker": "DAVI",
-      "price": "3.73",
-      "chg": "+24.33%",
-      "volume": "5,496,706",
-      "catalyst": "Davion Healthcare Announces US$25 Million Acquisition of Humaskan Medical Technology IP",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/26/3388005/0/en/davion-healthcare-announces-us-25-million-acquisition-of-humaskan-medical-technology-ip.html",
-      "spark": []
-    },
-    {
-      "ticker": "BOOM",
-      "price": "6.62",
-      "chg": "+23.65%",
-      "volume": "485,458",
-      "catalyst": "DMC Global reports Q3 adjusted EPS 48c, consensus 10c",
+      "ticker": "MAX",
+      "price": "13.60",
+      "chg": "+16.04%",
+      "volume": "76,496",
+      "catalyst": "MediaAlpha price target raised to $17 from $15 at RBC Capital",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/dmc-global-reports-q3-adjusted-eps-48c-consensus-10c-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/mediaalpha-price-target-raised-to-17-from-15-at-rbc-capital-thefly-news",
       "spark": [
-        5.23,
-        5.49,
-        5.37,
-        5.35,
-        7.48
-      ]
-    },
-    {
-      "ticker": "AXGN",
-      "price": "45.28",
-      "chg": "+20.88%",
-      "volume": "312,080",
-      "catalyst": "AxoGen raises FY26 revenue view to at least $290M from at least $279M",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/axogen-raises-fy26-revenue-view-to-at-least-290m-from-at-least-279m-thefly-news",
-      "spark": [
-        36.68,
-        38.06,
-        38.02,
-        37.46,
-        48.47
-      ]
-    },
-    {
-      "ticker": "LUNG",
-      "price": "2.37",
-      "chg": "+19.44%",
-      "volume": "72,763",
-      "catalyst": "Pulmonx price target raised to $4 from $2.50 at Stifel",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/pulmonx-price-target-raised-to-4-from-2-50-at-stifel-thefly-news",
-      "spark": [
-        1.88,
-        1.83,
-        1.95,
-        1.98,
-        2.65
-      ]
-    },
-    {
-      "ticker": "BKYI",
-      "price": "3.26",
-      "chg": "+19.20%",
-      "volume": "8,921,208",
-      "catalyst": "BIO-key deploys identity security solutions to Middle East government customer",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/bio-key-deploys-identity-security-solutions-to-middle-east-government-customer-thefly-news",
-      "spark": [
-        2.74,
-        3.39,
-        2.85,
-        2.74,
-        3.14
+        11.9,
+        11.88,
+        11.77,
+        11.72,
+        14.02
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Wed 2:29 PM ET",
+      "time": "Thu 2:32 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Naturgy Energy Group, S.A. reports Q3 results",
+      "url": "https://seekingalpha.com/news/4660641-naturgy-energy-group-s-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 2:32 PM ET",
       "source": "CNBC",
-      "title": "Fed holds rates steady despite concerns over inflation",
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+      "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 2:31 PM ET",
+      "source": "Seeking Alpha",
+      "title": "BorgWarner increases 2026 adjusted EPS guidance to $5.20-$5.35 while expecting $300M turbine generator revenue in 2027",
+      "url": "https://seekingalpha.com/news/4660640-borgwarner-increases-2026-adjusted-eps-guidance-to-5_20-5_35-while-expecting-300m-turbine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 2:30 PM ET",
+      "source": "MarketWatch",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
       "tag": "FED"
     },
     {
-      "time": "Wed 2:27 PM ET",
+      "time": "Thu 2:29 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Norwegian Cruise Line projects 1% to 2% net yield growth in 2027 as CFO transition begins",
+      "url": "https://seekingalpha.com/news/4660639-norwegian-cruise-line-projects-1-percent-to-2-percent-net-yield-growth-in-2027-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "FED"
+    },
+    {
+      "time": "Thu 2:23 PM ET",
+      "source": "Seeking Alpha",
+      "title": "UniFirst/Cintas spread narrows on report FTC hasn't indicated it will block deal",
+      "url": "https://seekingalpha.com/news/4660617-unifirstcintas-spread-narrows-on-report-ftc-hasnt-indicated-it-will-block-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Thu 2:22 PM ET",
       "source": "Google News",
-      "title": "U.S. stocks are mixed after Fed keeps interest rates unchanged (COMP:IND:) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUUdFLTR1ODJlTXF6eEp0c3FoTmxOeTVvZXVqcjVLLXRrTEJmcE91eUdSVlhqN2NOWE5BM0k0UjVkU1A4OGdzd3R1WVlFNlgyd3hIMUtuM3dYNDFXamQzVGgwWVlnbHI1S1Y3em5uaGdkbko4OFphenNVRG5KUHlHUzhVNmlzRnF0WlFoVGNPczJpZw?oc=5",
-      "tag": "FED"
-    },
-    {
-      "time": "Wed 2:26 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Fed is ‘modestly hawkish,’ will hike interest rates in December – RSM US’s Brusuelas",
-      "url": "https://seekingalpha.com/news/4659402-fed-is-modestly-hawkish-will-hike-interest-rates-in-december-rsm-us-s-brusuelas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "FED"
-    },
-    {
-      "time": "Wed 2:26 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Insperity Q3 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4659408-insperity-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 2:26 PM ET",
-      "source": "Seeking Alpha",
-      "title": "NexPoint Diversified Real Estate Trust declares $0.03 dividend",
-      "url": "https://seekingalpha.com/news/4659407-nexpoint-diversified-real-estate-trust-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Why FTAI Aviation Stock Popped on Thursday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVhySzVjdzFJNWZ6NTVJcnc3U21uWHVyUTZzLTdVLXcyRWV4Z0FXWWRqcVFJZmpSSDRpWURMVkh6NGI2MFFLSEgwemtNWW5jcUY2YjFoWlRVdEV5S2VhVkc2Z0VuT1RnZm9PTGxWbHhIdXY0dXdUOUlBU3BnS2ppVXZ3ZlA5Q2lid1RDQ3FuVHVTYzJkQkREUENTZw?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 2:25 PM ET",
+      "time": "Thu 2:20 PM ET",
       "source": "Seeking Alpha",
-      "title": "Granite Construction Q3 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4659406-granite-construction-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 2:25 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Sound Financial Bancorp declares $0.21 dividend",
-      "url": "https://seekingalpha.com/news/4659405-sound-financial-bancorp-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Alerus forecasts 2026 net interest margin of 3.75% to 3.85% amid mid-single-digit loan growth",
+      "url": "https://seekingalpha.com/news/4660637-alerus-forecasts-2026-net-interest-margin-of-3_75-percent-to-3_85-percent-amid-mid-single?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 2:25 PM ET",
+      "time": "Thu 2:19 PM ET",
       "source": "Seeking Alpha",
-      "title": "Kosmos Energy cut to Hold at Jefferies after stock soars 200% YTD",
-      "url": "https://seekingalpha.com/news/4659361-kosmos-energy-cut-to-hold-at-jefferies-after-stock-soars-200-ytd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Encompass Health raises 2026 outlook to $6.45B-$6.5B revenue as it targets $20M-$24M pre-opening costs while expanding capacity",
+      "url": "https://seekingalpha.com/news/4660636-encompass-health-raises-2026-outlook-to-6_45b-6_5b-revenue-as-it-targets-20m-24m-pre-opening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 2:16 PM ET",
+      "source": "MarketWatch",
+      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 2:14 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Imerys S.A. reports Q3 results",
+      "url": "https://seekingalpha.com/news/4660634-imerys-s-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 2:13 PM ET",
+      "source": "CNBC",
+      "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+      "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
       "tag": "ENERGY"
     },
     {
-      "time": "Wed 2:24 PM ET",
-      "source": "Seeking Alpha",
-      "title": "California Water Service Q3 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4659403-california-water-service-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 2:22 PM ET",
+      "time": "Thu 2:08 PM ET",
       "source": "Google News",
-      "title": "Meet the Dividend King That's Quietly Crushing the S&P 500 in 2026. Here's Why It's a Buy in November. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWkk0V3hLVkpWMFNlN3VxSWZLU04zTk5YMFUtMVZwdE0zbDNEbHFjZTh2bU53ZmhvMUNsVFFCMk1neDNPanhSNGVGdkNfQXJfM0dSanpwbTJBb0ZCaWRrbnh1UEFWWXdHSExSc0REclpabTNrWjcxcXdnbktqTmNmQU5EbW5YRGF5SFBTbUNjNWlZR2pSU3AzUkdnYU55UQ?oc=5",
+      "title": "The IRS Is Taking Aim at a Strategy That Turns Stock Portfolios Into ETF Shares Tax-Free - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjN6TEQwNlJMblJqSTJydHVBTWZFd21TTkVjd2RkVVFtZ2ZzM3U0dzB3bERSLTE3Ujh0MDBIa0t0R0pzM3ZPMThhVzMwWUk5UWpoQ3pGOERpT2hLNUd4TjlHbVdyTmlsXzhDM0dCeERCQ1RvTDVCNUR3V3FtaWlkbDYwTWpNZFhaMGxfMFRQX21OWVY4SFh3akN3?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 2:20 PM ET",
-      "source": "Google News",
-      "title": "Should You Buy AMD Stock Before Nov. 3? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTJVU2p0N1Z6NWJoeXBST05jSmo5bVlySTMzOGtfc3lTeUxpdmJCMzJLMTNXWGNGdTZneVc4cUUwQVFxTm83Z2xZRTd5UFBjbWpSUTRFamx1aUk4bkIyckVhMTk4MFBDZFE2aWkzaXB4R01taTVrdVp3OHoza2FaeXRjWGEyTDQtN2NrdA?oc=5",
-      "tag": "MARKETS"
+      "time": "Thu 2:06 PM ET",
+      "source": "CNBC",
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "tag": "FED"
     },
     {
-      "time": "Wed 2:19 PM ET",
-      "source": "Google News",
-      "title": "American Households Own More of the Stock Market Than at Any Time Since the Dot-Com Era - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbndSNVVrOEpvcDhpWGM1ZWZNZ1BkdmI4dVFsSjZZLUFkdF9xNXBEOGVaSkFxbVlGMTlqMWJiNWx6Wk5QSEpLV2RuTnRfY0Z1amdMR2NmamMtbEtCS3FLZEhHQl9na2dyaGN2UklMVml6djJDb0VqY2gtVzR2QWFXZnhSaUc2NXNwRzV5ZjBkRXgyMUZmcDFYRTRGSWVqaXFCNlN1RnNrU3R5Z3BTVjQtZGF5Z2ZkaHo3THJ4UENmSE94bDB3dDVLVkhnSQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 2:18 PM ET",
-      "source": "Google News",
-      "title": "AMG Schedule for Third Quarter 2026 Earnings Release - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGZtVTRVUzdRVU5uTWtISWhBYmN6LWJadVZVMDU4Qkh2SXkwZkhuUHRQZGUyTFB2amVRUjZHd2hka182REsxT2EzMjl0cWNDX3dsTllEUkdkTWViLVZCck01S3NfNFJVeW1haGRMMlJzWVVZUDBrYXhMcUZqOFE2WnZDbUNDd0gwSzJqVTZCUnYxcldJdTU0QWdEejY?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 2:14 PM ET",
-      "source": "Google News",
-      "title": "3 Russell 2000 stocks that fall short - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakJGdE5qRWtZRHU4ZWF4ZUF1aDIzWDFNank5MC1uZVdmbFlKVS1Eb0ZFbGY2bmJ4V2wzX3RvMWg2NEtRTzFuS3RBLUZGbF90OEY5Z1N2UUVWOUxueWZZNllJZkZKWi1Ta1pMb045ZFlDX084OXNaYjllamhuczg1a2lrd0NoMW92c0ZTWHZBbG5nTk9QNmc?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 2:13 PM ET",
-      "source": "Google News",
-      "title": "Lennox International Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGo0eFFmb01YZ0EtTEltbHdzRW9FbXFubUFWSzllaU9MaTY5TjF6UFE4QXBzODVQNl8tUnAtZnF6YkFmWGFEY3BIMGNGNWZQQXdsNkZqcGdvbGVXdlZ3cTF0OTRGdl90eW1xMjRHVDgzNUNQemJDVnRyNlctOWM5cFNYRGU2Z2ZNcEgxMm5WNk9QUEliTU1tbmFMcndpQQ?oc=5",
-      "tag": "EARNINGS"
+      "time": "Thu 1:59 PM ET",
+      "source": "MarketWatch",
+      "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
+      "url": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
+      "tag": "FED"
     }
   ],
   "earnings": [
     {
-      "ticker": "MSFT",
+      "ticker": "AMZN",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "GOOG",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "GOOGL",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "GEV",
+      "ticker": "LLY",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "KLAC",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "APH",
+      "ticker": "MA",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "SAN",
+      "ticker": "INTC",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "MRK",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "NOW",
-      "when": "AMC",
+      "ticker": "CAT",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "SHEL",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "LIN",
+      "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 17.24, 10Y 5.03%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: ULBI +145.28% on 297,251 volume — check its news catalyst before touching it.",
-    "Reporting before the open: GEV, APH, SAN — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 17.03, 10Y 4.991%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: NCPL +45.91% on 13,246,993 volume — check its news catalyst before touching it.",
+    "Reporting before the open: LLY, MA, MRK, CAT, SHEL — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
