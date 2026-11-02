@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Oct 30, 2026 · 11:13 AM PT",
-  "tradingDate": "Fri Oct 30",
+  "generatedAtPT": "Nov 2, 2026 · 12:19 AM PT",
+  "tradingDate": "Mon Nov 2",
   "futures": [
     {
       "label": "VIX",
-      "value": "22.33",
-      "chg": "+29.83%"
+      "value": "19.07",
+      "chg": "-1.80%"
     },
     {
       "label": "US 10Y",
-      "value": "4.927%",
-      "chg": "-1.2427%"
+      "value": "4.929%",
+      "chg": "+UNCH%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "104.29",
-      "chg": "+2.25%"
-    },
-    {
-      "label": "GOLD",
-      "value": "3,887.60",
+      "value": "100.40",
       "chg": "-3.57%"
     },
     {
+      "label": "GOLD",
+      "value": "3,909.40",
+      "chg": "+0.27%"
+    },
+    {
       "label": "DXY",
-      "value": "101.934",
-      "chg": "-0.10%"
+      "value": "101.71",
+      "chg": "-0.17%"
     },
     {
       "label": "BITCOIN",
-      "value": "76,938.54",
-      "chg": "-4.74%"
+      "value": "78,019.20",
+      "chg": "+0.36%"
     }
   ],
   "movers": [
@@ -63,7 +63,7 @@ window.BRIEFING = {
         0.23,
         0.22,
         0.2,
-        0.34
+        0.31
       ]
     },
     {
@@ -79,7 +79,7 @@ window.BRIEFING = {
         3.03,
         3.02,
         3.05,
-        3.81
+        3.89
       ]
     },
     {
@@ -95,7 +95,7 @@ window.BRIEFING = {
         20.36,
         20.08,
         20.15,
-        25.3
+        25.66
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         50.93,
         50.72,
         49.35,
-        47.39
+        47.06
       ]
     },
     {
@@ -127,7 +127,7 @@ window.BRIEFING = {
         1.31,
         1.1,
         1.78,
-        2.03
+        1.59
       ]
     },
     {
@@ -143,7 +143,7 @@ window.BRIEFING = {
         1.44,
         1.54,
         1.5,
-        0.9
+        0.87
       ]
     },
     {
@@ -159,7 +159,7 @@ window.BRIEFING = {
         30.45,
         30.22,
         30.55,
-        33.03
+        35.97
       ]
     },
     {
@@ -191,163 +191,163 @@ window.BRIEFING = {
         2.56,
         2.54,
         2.55,
-        2.89
+        2.95
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Fri 2:09 PM ET",
-      "source": "MarketWatch",
-      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-      "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 2:07 PM ET",
-      "source": "CNBC",
-      "title": "Why bitcoin held up better after the record Binance hack",
-      "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-      "tag": "CRYPTO"
-    },
-    {
-      "time": "Fri 2:06 PM ET",
-      "source": "Google News",
-      "title": "IPO Stock Elmet Attempts Breakout During Market's Rough Ride - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QaV9HQ3ZqLWFpYV90bVM2andpSXZkOW9kVVhMbi0tNEtfdjI3LWdyRjN0VDhWcnRNVTNkTXA1Tm15SXdaWDY4T3dNbHhHVEVkRVJxYjJ3cFB6TXpMSmItTUhESjEwMnZOam1oMk01Zk9kbFRwOGsw?oc=5",
-      "tag": "DEALS"
-    },
-    {
-      "time": "Fri 2:04 PM ET",
-      "source": "Google News",
-      "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzZhNDBiSG10QXlBZHhLRlc0OWNfamlJM2hsUnNxamNqT0pVQ3oyMnhWSEhZUmlxYndJUGo4bzRQb200djJHcmt3ZWd0ZnpxVnRRUEo2Y2VxN0lFM0NuN1BfVVAyWFBWS0RSdDFhcmlmRm01UXBQZG1UVmtFU0N1Y0djcEZpYjIwX0NueDc2UTdFMlc1eWJGSnNYVmpySWNZVUd5NWlQLXJHVmthS2x4aTVYYjdzRUxyQVdEMnhNOW4?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:03 PM ET",
+      "time": "Mon 4:07 AM ET",
       "source": "Seeking Alpha",
-      "title": "Vail Resorts' larger holder, Baron Capital, plans to vote against Oasis nominees",
-      "url": "https://seekingalpha.com/news/4661602-vail-resorts-larger-holder-baron-capital-plans-to-vote-against-oasis-nominees?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:01 PM ET",
-      "source": "Google News",
-      "title": "Google, Reddit, and more tech stocks plummet: What’s driving market shocks - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aS21lWWl6NGRsRGNaNXJtYTRTRjNjMW9CX295WHV4Uk5UQVpJRFNtNjBuV0JEd3ZtOXNnOGRqUUNxX2NwVlpVVlZtSnMzVjNKWmVIYTV4bUM0aEsxa3Zrd1o0Mm53ZVFkc2Y4RGM2MTlNMkk?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 2:01 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Cameco signals $0.24 dividend and narrows 2026 uranium production outlook to 19.5M-20.5M lbs",
-      "url": "https://seekingalpha.com/news/4661617-cameco-signals-0_24-dividend-and-narrows-2026-uranium-production-outlook-to-19_5mminus-20_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:00 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Onemain expects full-year 2026 managed receivables growth to 9% as credit trends improve into 2027",
-      "url": "https://seekingalpha.com/news/4661616-onemain-expects-full-year-2026-managed-receivables-growth-to-9-percent-as-credit-trends?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:00 PM ET",
-      "source": "Seeking Alpha",
-      "title": "FMC forecasts 2027 adjusted EBITDA of at least $650M as it rolls out $672M channel-inventory commercial actions",
-      "url": "https://seekingalpha.com/news/4661615-fmc-forecasts-2027-adjusted-ebitda-of-at-least-650m-as-it-rolls-out-672m-channel-inventory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:00 PM ET",
-      "source": "MarketWatch",
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 2:00 PM ET",
-      "source": "Seeking Alpha",
-      "title": "ExxonMobil outlines $20B 2027 share repurchases as it raises dividend 4%",
-      "url": "https://seekingalpha.com/news/4661614-exxonmobil-outlines-20b-2027-share-repurchases-as-it-raises-dividend-4-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 1:59 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Ingersoll Rand signals 5.5%-7% 2026 revenue growth while raising adjusted EPS to $3.58-$3.70",
-      "url": "https://seekingalpha.com/news/4661613-ingersoll-rand-signals-5_5-percentminus-7-percent-2026-revenue-growth-while-raising-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "POSCO Holdings GAAP EPS of KRW 3047.00, revenue of KRW 19141B",
+      "url": "https://seekingalpha.com/news/4661959-posco-holdings-gaap-eps-of-krw-304700-revenue-of-krw-19141b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Fri 1:58 PM ET",
+      "time": "Mon 4:05 AM ET",
+      "source": "Google News",
+      "title": "Mercury General (MCY) reports Q3: everything you need to know ahead of earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFFZaWtSWmw3TXFBTGM1ZktBUEYwdDl4VklReS12Qk9qOW9FODdCUVJmUFVzNmxzaWhySTgxOTk1M2xvV3hibjZsZjg5UFFqbUZ6YUZKcTk0cmx5Y2gwSUU0N0lBWi1MNTZHTGZJbjVJVEs2N2RJRVE4RmhEdDdXbGRoemdxcTBON1U1Uk1sVU5lUUNZcGpqNGJvNA?oc=5",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 4:04 AM ET",
       "source": "Seeking Alpha",
-      "title": "No more boring cars: Ford CEO looks to boost sales 20% by 2032 with new models -- WSJ",
-      "url": "https://seekingalpha.com/news/4661600-no-more-boring-cars-ford-ceo-looks-to-boost-sales-20-by-2032-with-new-models---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Kyocera Corporation GAAP EPS of ¥56.73, revenue of ¥1078.34B; updates FY2027 outlook",
+      "url": "https://seekingalpha.com/news/4661958-kyocera-corporation-gaap-eps-of-5673-revenue-of-107834b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 4:04 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Elbit Systems wins $170M contract to build IDF artillery training center",
+      "url": "https://seekingalpha.com/news/4661938-elbit-systems-wins-170m-contract-to-build-idf-artillery-training-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 1:55 PM ET",
+      "time": "Mon 4:02 AM ET",
+      "source": "CNBC",
+      "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+      "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:01 AM ET",
       "source": "Google News",
-      "title": "META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0dMYkdpcmlmaE9QVE5RTTNKbEhSaW9OanFscW1hUlpyRjlJVF9id1V0UUtfU3MzcndVNlVqbUF1OEhpc2xRbWVSUVQxNWRFX3ZaeFhBbjlLOXo4SXU4NnhVckVyU3VfQndLLXBLN3VZT19YSzZGTlVPV3lOVjRNRm0tRUZnbUdQN2pBX1J3cUstdFc4UlE?oc=5",
+      "title": "New Oriental Education & Techno (EDU) Stock Forecasts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzlOZi1obmNVY1VuaXFrUEtwa0c1TklDT3RnTTZXcGYwTENaRTdsNHVLY0l6OXV5NzhTQWJvUjhHS0Y1Wi1XZklrQWoyM3h0SWQxZHlUTm1fZDExcGZoMk1mWmVpeUNoak1uU2lHcC1fa2FxZnhTbWdDU0c0REdmM29XNDVwVFFNY3JqWg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:01 AM ET",
+      "source": "Google News",
+      "title": "TAL Education Group (TAL) Stock Forecasts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGVNNFBEcmM1eGVCREN1QTVzTlFESU5LVC0yR25xbXdzOWx3WmJaY0l2WWJrRlBRVk4tcW5LeVhDN3laSE9oMXpYVXpYX2FHX2Q4c3NySXk4N21JYlZNX0k0ei1oNXJtTkkwZ2lMdEQ1MEkwallOY2NDZ1hjV05NaldLUUNwN1JnYWVZMg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:00 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Nuveen Ultra Short Income ETF declares monthly distribution of $0.0921",
+      "url": "https://seekingalpha.com/news/4661957-nuveen-ultra-short-income-etf-declares-monthly-distribution-of-00921?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:00 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Kyowa Kirin Non-GAAP EPS of ¥147.83, revenue of ¥384.95B; reaffirms FY2026 outlook",
+      "url": "https://seekingalpha.com/news/4661956-kyowa-kirin-non-gaap-eps-of-14783-revenue-of-38495b-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Mon 4:00 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Alphabet launches second euro bond sale of 2026 to fund AI push",
+      "url": "https://seekingalpha.com/news/4661940-alphabet-launches-second-euro-bond-sale-of-2026-to-fund-ai-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "TECH"
     },
     {
-      "time": "Fri 1:54 PM ET",
-      "source": "Google News",
-      "title": "Why AutoNation Stock Popped After Earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHJDNDNJMXJvRGFNMTBfSEpwTzFueV84QzN3cVV6VzZBZjNYUU9vQll2dlduNUp3cXpnbEhQNDdpU3ZqN093cUZYaDVZcHFJV3NRX25jazFTRzhFVXc1VnNPbFdCU1VqRk5DQkRrUVNHN2pfbDJXZ3l4RTM5X1N0a08tOUhYNFFWZXJ0WV8zazNoaXFrWThNZGhPYzdGT1RReFdB?oc=5",
+      "time": "Mon 4:00 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Nuveen Preferred and Income ETF declares monthly distribution of $0.1464",
+      "url": "https://seekingalpha.com/news/4661955-nuveen-preferred-and-income-etf-declares-monthly-distribution-of-01464?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:54 AM ET",
+      "source": "Google News",
+      "title": "Notice of the Extraordinary General Meeting of Stora Enso Oyj - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3dCX05GMm53ZVhDYVFrSnpPVFVBMngwQndyR2pxbENwMnUtVVlxOEZjQjZkUXVnNlZuZ3htODdZdkNXMlhQdnpxOHNPX2VQYklib1pNRFcza2pLSFAySi1nSUFoZVFHZUlNQ09XcER4a3NhSFdHNkpVMS1iNmYzTWpidW1LWlo3Vl9oY2g2TS1QTXN2aUlhZkRYYkFJLW55cFJELUc2Z1JXV0k?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:53 AM ET",
+      "source": "Google News",
+      "title": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmgyY01EWUs5bERkTEpNc0tnRGVwejdhdDQwQTR4bWpHVDd6RW5jTmoxZEQtRURTZEd1OEdlNUZBQVVWNzJ6M0ZwWmRkSElIaFFpZUZJSHRaMTN2bG9NanpxUXhCa2pBTTQ5VHFXU1Q1WXlHRmRRQmRpcW9fWE85a2tlMHYzYUVKblZ4RzVycHYtV0JYMXlsaTMxXzd1U012YmhSLThKZ1pVQ09uZ2FzQ0lhSnctUHB1ZGVzZktQNm92ZHZoOUhBTnlnRXdOUQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:51 AM ET",
+      "source": "Google News",
+      "title": "Bavarian Nordic – Completion of Share Buy-Back Program - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1JkUWhwc1JRc3ZrTVdhbEtyR3h5X3RSd2ZmN1BxV0pkdjdzZkJSZFZseU45RzNSRjhOcmhIbUNhSmxLYUh3NmRnaDFPbEV5dHFWUzZJYXRhOVBLb1lPWUlpM2xIbUJrN0g2SWxCQTlCYnQ4by13RFNna2JTRFEwQThjV2xGb3lqX2pBc2tKdW0tS3BIN1lEYnhnT1NXZEwyeW5J?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 3:49 AM ET",
+      "source": "Google News",
+      "title": "Kyocera: Fiscal Q2 Earnings Snapshot - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRF9qWDBFZ1hIdl93RTRqV1I5c2t0MlZidjYwam9Pem56aGNjMEhYZWhnQ1pfRlNXRkhQLUdEZ3JnYWZyR0NSdk5SQ2RZNjBEaTJWVVlnNVl3MHB4cEpVZkl1bzhIRnBXOFU4cHdsM2tUN3FaM3M4V3VQXy1MRlFTYUJqU2VmcHZHcGVHNWVjR1BrVGs4MzdEekRGVE8tYVZQWFE?oc=5",
+      "tag": "EARNINGS"
     }
   ],
   "earnings": [
     {
-      "ticker": "XOM",
+      "ticker": "AAPL",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "PLTR",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "VRTX",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "MAR",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "ABBV",
-      "when": "BMO",
+      "ticker": "WMB",
+      "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "CVX",
-      "when": "BMO",
+      "ticker": "FANG",
+      "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "AZN",
-      "when": "BMO",
+      "ticker": "O",
+      "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "BP",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "SNY",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "GD",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "REGN",
+      "ticker": "ETR",
       "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 22.33, 10Y 4.927%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Risk snapshot at sweep: VIX 19.07, 10Y 4.929%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
     "Highest-profile mover: BURU +52.65% on 202,353,733 volume — check its news catalyst before touching it.",
-    "Reporting before the open: XOM, ABBV, CVX, AZN, BP — expect gap moves and sympathy reads in their sectors."
+    "Reporting before the open: MAR, ETR — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
