@@ -1,353 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 2, 2026 · 12:19 AM PT",
-  "tradingDate": "Mon Nov 2",
+  "generatedAtPT": "Nov 3, 2026 · 11:49 AM PT",
+  "tradingDate": "Tue Nov 3",
   "futures": [
     {
       "label": "VIX",
-      "value": "19.07",
+      "value": "20.77",
       "chg": "-1.80%"
     },
     {
       "label": "US 10Y",
-      "value": "4.929%",
-      "chg": "+UNCH%"
+      "value": "4.946%",
+      "chg": "+1.0625%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "100.40",
-      "chg": "-3.57%"
+      "value": "96.23",
+      "chg": "-0.24%"
     },
     {
       "label": "GOLD",
-      "value": "3,909.40",
-      "chg": "+0.27%"
+      "value": "3,934.90",
+      "chg": "-0.87%"
     },
     {
       "label": "DXY",
-      "value": "101.71",
-      "chg": "-0.17%"
+      "value": "101.854",
+      "chg": "+0.11%"
     },
     {
       "label": "BITCOIN",
-      "value": "78,019.20",
-      "chg": "+0.36%"
+      "value": "77,515.50",
+      "chg": "+0.95%"
     }
   ],
   "movers": [
     {
-      "ticker": "BURU",
-      "price": "0.57",
-      "chg": "+52.65%",
-      "volume": "202,353,733",
-      "catalyst": "Nuburu regains compliance with NYSE American continued listing standards",
+      "ticker": "RDAC",
+      "price": "11.12",
+      "chg": "+118.04%",
+      "volume": "7,130,288",
+      "catalyst": "Why Is Penny Stock Rising Dragon Acquisition Corp. (RDAC) Up 117% Today?",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/nuburu-regains-compliance-with-nyse-american-continued-listing-standards-thefly-news",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-rising-dragon-acquisition-corp-rdac-up-117-today",
       "spark": [
-        0.23,
-        0.18,
-        0.17,
-        0.37,
-        0.29
+        5.11,
+        4.93,
+        4.96,
+        5.1,
+        11.26
       ]
     },
     {
-      "ticker": "SLGB",
-      "price": "0.31",
-      "chg": "+49.32%",
-      "volume": "44,772,935",
-      "catalyst": "Why Is Penny Stock Smart Logistics Global Limited (SLGB) Up 62% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-smart-logistics-global-limited-slgb-up-62-today",
-      "spark": [
-        0.23,
-        0.23,
-        0.22,
-        0.2,
-        0.31
-      ]
-    },
-    {
-      "ticker": "TNMG",
-      "price": "4.18",
-      "chg": "+37.05%",
-      "volume": "21,779,673",
-      "catalyst": "TNL Mediagene Completes Sale of Japanese Business in Management Buyout",
-      "source": "newsfilecorp.com",
-      "url": "https://www.newsfilecorp.com/release/321775/TNL-Mediagene-Completes-Sale-of-Japanese-Business-in-Management-Buyout",
-      "spark": [
-        3.13,
-        3.03,
-        3.02,
-        3.05,
-        3.89
-      ]
-    },
-    {
-      "ticker": "OSPN",
-      "price": "24.82",
-      "chg": "+23.18%",
-      "volume": "29,547",
-      "catalyst": "OneSpan price target raised to $32 from $22 at B. Riley",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/onespan-price-target-raised-to-32-from-22-at-b-riley-thefly-news",
-      "spark": [
-        20.6,
-        20.36,
-        20.08,
-        20.15,
-        25.66
-      ]
-    },
-    {
-      "ticker": "IFS",
-      "price": "60.68",
-      "chg": "+22.96%",
-      "volume": "547",
-      "catalyst": "RSI Alert: Intercorp Financial Services Now Oversold",
-      "source": "nasdaq.com",
-      "url": "https://www.nasdaq.com/articles/rsi-alert-intercorp-financial-services-now-oversold",
-      "spark": [
-        51.65,
-        50.93,
-        50.72,
-        49.35,
-        47.06
-      ]
-    },
-    {
-      "ticker": "NCPL",
-      "price": "2.12",
-      "chg": "+18.82%",
-      "volume": "2,314,930",
-      "catalyst": "What Does Netcapital Inc.'s 28.62% Stock Drop Mean for Investors? The Law Offices of Howard G.",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/what-does-netcapital-incs-28-62-stock-drop-mean-for-investors-the-law-offices-of-howard-g-smith-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302917638.html",
-      "spark": [
-        1.33,
-        1.31,
-        1.1,
-        1.78,
-        1.59
-      ]
-    },
-    {
-      "ticker": "VIVK",
-      "price": "1.78",
-      "chg": "+18.67%",
-      "volume": "2,740,868",
-      "catalyst": "Vivakor receives LOI to negotiate lease for 12.9 acres at Texas airport",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/vivakor-receives-loi-to-negotiate-lease-for-12-9-acres-at-texas-airport-thefly-news",
-      "spark": [
-        1.32,
-        1.44,
-        1.54,
-        1.5,
-        0.87
-      ]
-    },
-    {
-      "ticker": "CVEO",
-      "price": "36.10",
-      "chg": "+18.17%",
-      "volume": "8,347",
-      "catalyst": "Civeo reports Q3 EPS 50c vs (4c) last year",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/civeo-reports-q3-eps-50c-vs-4c-last-year-thefly-news-2",
-      "spark": [
-        28.9,
-        30.45,
-        30.22,
-        30.55,
-        35.97
-      ]
-    },
-    {
-      "ticker": "RMNI",
-      "price": "4.70",
-      "chg": "+17.79%",
-      "volume": "9,711",
-      "catalyst": "Rimini Street reports Q3 EPS 7c, two estimates 10c",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/rimini-street-reports-q3-eps-7c-two-estimates-10c-thefly-news",
-      "spark": [
-        4.04,
-        4.01,
-        4.03,
-        3.99,
-        4.96
-      ]
-    },
-    {
-      "ticker": "WKHS",
-      "price": "2.96",
-      "chg": "+16.08%",
-      "volume": "1,602,472",
-      "catalyst": "Workhorse Enters Modular AI Infrastructure Market Through Foundational TerraPodâ¢ Partnership with UK-Based RHAELM",
+      "ticker": "PARA",
+      "price": "3.59",
+      "chg": "+112.43%",
+      "volume": "18,417,859",
+      "catalyst": "Banzai Announces Name Change to Parabolic Technologies, Inc. And Announces Reverse Stock Split",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/29/3391805/0/en/workhorse-enters-modular-ai-infrastructure-market-through-foundational-terrapod-partnership-with-uk-based-rhaelm.html",
+      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386962/0/en/banzai-announces-name-change-to-parabolic-technologies-inc-and-announces-reverse-stock-split.html",
       "spark": [
-        2.54,
-        2.56,
-        2.54,
-        2.55,
-        2.95
+        3.36,
+        4.28,
+        3.17,
+        1.69,
+        3.17
+      ]
+    },
+    {
+      "ticker": "MERC",
+      "price": "0.22",
+      "chg": "+76.11%",
+      "volume": "140,791,150",
+      "catalyst": "Mercer announces recapitalization agreement",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/mercer-announces-recapitalization-agreement-thefly-news",
+      "spark": [
+        0.12,
+        0.12,
+        0.12,
+        0.13,
+        0.22
+      ]
+    },
+    {
+      "ticker": "HUBC",
+      "price": "0.11",
+      "chg": "+39.63%",
+      "volume": "192,817,214",
+      "catalyst": "HUB Cyber Security Appoints Richard Paolone and Joseph Tung to its Board of Directors",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/13/3380164/0/en/hub-cyber-security-appoints-richard-paolone-and-joseph-tung-to-its-board-of-directors.html",
+      "spark": [
+        0.13,
+        0.14,
+        0.11,
+        0.08,
+        0.1
+      ]
+    },
+    {
+      "ticker": "BLZE",
+      "price": "10.02",
+      "chg": "+35.34%",
+      "volume": "679,632",
+      "catalyst": "Backblaze reports Q3 adjusted EPS 9c, consensus (8c)",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/backblaze-reports-q3-adjusted-eps-9c-consensus-8c-thefly-news",
+      "spark": [
+        9.1,
+        8.73,
+        7.59,
+        7.4,
+        7.81
+      ]
+    },
+    {
+      "ticker": "INLF",
+      "price": "0.37",
+      "chg": "+27.60%",
+      "volume": "55,362,676",
+      "catalyst": "INLIF LIMITED Announces Closing of US$3.75 Million Registered Direct Offering",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384864/0/en/inlif-limited-announces-closing-of-us-3-75-million-registered-direct-offering.html",
+      "spark": [
+        0.18,
+        0.27,
+        0.19,
+        0.29,
+        0.28
+      ]
+    },
+    {
+      "ticker": "SGRX",
+      "price": "0.90",
+      "chg": "+21.97%",
+      "volume": "45,349,680",
+      "catalyst": "SANGRIX Announces November 2026 Delivery Schedule for 128-GPU NVIDIA Blackwell B300 Project in Malaysia",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/10/16/3382608/0/en/sangrix-announces-november-2026-delivery-schedule-for-128-gpu-nvidia-blackwell-b300-project-in-malaysia.html",
+      "spark": [
+        0.4,
+        0.4,
+        0.73,
+        0.74,
+        0.73
+      ]
+    },
+    {
+      "ticker": "CMCO",
+      "price": "19.00",
+      "chg": "+20.56%",
+      "volume": "17,902",
+      "catalyst": "Columbus McKinnon raises FY27 adjusted EPS view to $2.00-$2.15 from $1.90-$2.10",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/columbus-mckinnon-raises-fy27-adjusted-eps-view-to-2-00-2-15-from-1-90-2-10-thefly-news",
+      "spark": [
+        15.06,
+        15.25,
+        14.97,
+        15.76,
+        18.48
+      ]
+    },
+    {
+      "ticker": "EHGO",
+      "price": "2.30",
+      "chg": "+20.42%",
+      "volume": "8,246,166",
+      "catalyst": "Eshallgo Inc trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/eshallgo-inc-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        2.07,
+        2.09,
+        2.0,
+        1.91,
+        2.38
+      ]
+    },
+    {
+      "ticker": "LIFE",
+      "price": "50.00",
+      "chg": "+17.32%",
+      "volume": "177,862",
+      "catalyst": "Ethos price target raised to $60 from $40 at Deutsche Bank",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/ethos-price-target-raised-to-60-from-40-at-deutsche-bank-thefly-news",
+      "spark": [
+        42.83,
+        43.62,
+        43.39,
+        42.62,
+        41.6
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Mon 4:07 AM ET",
+      "time": "Tue 3:44 PM ET",
       "source": "Seeking Alpha",
-      "title": "POSCO Holdings GAAP EPS of KRW 3047.00, revenue of KRW 19141B",
-      "url": "https://seekingalpha.com/news/4661959-posco-holdings-gaap-eps-of-krw-304700-revenue-of-krw-19141b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Mon 4:05 AM ET",
-      "source": "Google News",
-      "title": "Mercury General (MCY) reports Q3: everything you need to know ahead of earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFFZaWtSWmw3TXFBTGM1ZktBUEYwdDl4VklReS12Qk9qOW9FODdCUVJmUFVzNmxzaWhySTgxOTk1M2xvV3hibjZsZjg5UFFqbUZ6YUZKcTk0cmx5Y2gwSUU0N0lBWi1MNTZHTGZJbjVJVEs2N2RJRVE4RmhEdDdXbGRoemdxcTBON1U1Uk1sVU5lUUNZcGpqNGJvNA?oc=5",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Mon 4:04 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Kyocera Corporation GAAP EPS of ¥56.73, revenue of ¥1078.34B; updates FY2027 outlook",
-      "url": "https://seekingalpha.com/news/4661958-kyocera-corporation-gaap-eps-of-5673-revenue-of-107834b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Mon 4:04 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Elbit Systems wins $170M contract to build IDF artillery training center",
-      "url": "https://seekingalpha.com/news/4661938-elbit-systems-wins-170m-contract-to-build-idf-artillery-training-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Freedom Broker downgrades Marriott to hold, raises PT to $439",
+      "url": "https://seekingalpha.com/news/4663951-freedom-broker-downgrades-marriott-to-hold-raises-pt-to-439?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 4:02 AM ET",
-      "source": "CNBC",
-      "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-      "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:01 AM ET",
-      "source": "Google News",
-      "title": "New Oriental Education & Techno (EDU) Stock Forecasts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzlOZi1obmNVY1VuaXFrUEtwa0c1TklDT3RnTTZXcGYwTENaRTdsNHVLY0l6OXV5NzhTQWJvUjhHS0Y1Wi1XZklrQWoyM3h0SWQxZHlUTm1fZDExcGZoMk1mWmVpeUNoak1uU2lHcC1fa2FxZnhTbWdDU0c0REdmM29XNDVwVFFNY3JqWg?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:01 AM ET",
-      "source": "Google News",
-      "title": "TAL Education Group (TAL) Stock Forecasts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGVNNFBEcmM1eGVCREN1QTVzTlFESU5LVC0yR25xbXdzOWx3WmJaY0l2WWJrRlBRVk4tcW5LeVhDN3laSE9oMXpYVXpYX2FHX2Q4c3NySXk4N21JYlZNX0k0ei1oNXJtTkkwZ2lMdEQ1MEkwallOY2NDZ1hjV05NaldLUUNwN1JnYWVZMg?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:00 AM ET",
+      "time": "Tue 3:42 PM ET",
       "source": "Seeking Alpha",
-      "title": "Nuveen Ultra Short Income ETF declares monthly distribution of $0.0921",
-      "url": "https://seekingalpha.com/news/4661957-nuveen-ultra-short-income-etf-declares-monthly-distribution-of-00921?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:00 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Kyowa Kirin Non-GAAP EPS of ¥147.83, revenue of ¥384.95B; reaffirms FY2026 outlook",
-      "url": "https://seekingalpha.com/news/4661956-kyowa-kirin-non-gaap-eps-of-14783-revenue-of-38495b-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Mon 4:00 AM ET",
-      "source": "Seeking Alpha",
-      "title": "Alphabet launches second euro bond sale of 2026 to fund AI push",
-      "url": "https://seekingalpha.com/news/4661940-alphabet-launches-second-euro-bond-sale-of-2026-to-fund-ai-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Saab unveils AI fighter agents, upgrades naval combat systems",
+      "url": "https://seekingalpha.com/news/4663959-saab-unveils-ai-fighter-agents-upgrades-naval-combat-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "TECH"
     },
     {
-      "time": "Mon 4:00 AM ET",
+      "time": "Tue 3:40 PM ET",
+      "source": "Google News",
+      "title": "Uber Technologies, Inc. (UBER) Has More Room to Grow Than Investors May Think: Here’s Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTM3S20zdlRWdDJoWGp5aEkyMmpUY1RkcTFNNE1jYlJtaWFDMVNhTG9ydFdHTlBDeUlEN1YtRzhTOHVDSEQ3elZpREdrdmQtblA5VDAzUFZ1WFB3Z3RMQXNvQkNFYWZ1WTVBQ1lUQXlmRVJ6SDlUdE1LRjNBY1JLM3VYMlJKejhUNm81VkRHaXVwTVdCS3ZuT1hURHA?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:37 PM ET",
       "source": "Seeking Alpha",
-      "title": "Nuveen Preferred and Income ETF declares monthly distribution of $0.1464",
-      "url": "https://seekingalpha.com/news/4661955-nuveen-preferred-and-income-etf-declares-monthly-distribution-of-01464?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Pricey gas, cheap tacos: How Taco Bell is getting its traffic back",
+      "url": "https://seekingalpha.com/news/4663956-pricey-gas-cheap-tacos-how-taco-bell-is-getting-its-traffic-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:54 AM ET",
-      "source": "Google News",
-      "title": "Notice of the Extraordinary General Meeting of Stora Enso Oyj - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3dCX05GMm53ZVhDYVFrSnpPVFVBMngwQndyR2pxbENwMnUtVVlxOEZjQjZkUXVnNlZuZ3htODdZdkNXMlhQdnpxOHNPX2VQYklib1pNRFcza2pLSFAySi1nSUFoZVFHZUlNQ09XcER4a3NhSFdHNkpVMS1iNmYzTWpidW1LWlo3Vl9oY2g2TS1QTXN2aUlhZkRYYkFJLW55cFJELUc2Z1JXV0k?oc=5",
+      "time": "Tue 3:36 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Liberty Global targets GBP 800M VMO2 run-rate cost savings within 36 months while planning Ziggo Group spin in Q2 2027",
+      "url": "https://seekingalpha.com/news/4663958-liberty-global-targets-gbp-800m-vmo2-run-rate-cost-savings-within-36-months-while-planning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "FED"
+    },
+    {
+      "time": "Tue 3:36 PM ET",
+      "source": "CNBC",
+      "title": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+      "url": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
       "tag": "MARKETS"
     },
     {
-      "time": "Mon 3:53 AM ET",
-      "source": "Google News",
-      "title": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmgyY01EWUs5bERkTEpNc0tnRGVwejdhdDQwQTR4bWpHVDd6RW5jTmoxZEQtRURTZEd1OEdlNUZBQVVWNzJ6M0ZwWmRkSElIaFFpZUZJSHRaMTN2bG9NanpxUXhCa2pBTTQ5VHFXU1Q1WXlHRmRRQmRpcW9fWE85a2tlMHYzYUVKblZ4RzVycHYtV0JYMXlsaTMxXzd1U012YmhSLThKZ1pVQ09uZ2FzQ0lhSnctUHB1ZGVzZktQNm92ZHZoOUhBTnlnRXdOUQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:51 AM ET",
-      "source": "Google News",
-      "title": "Bavarian Nordic – Completion of Share Buy-Back Program - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1JkUWhwc1JRc3ZrTVdhbEtyR3h5X3RSd2ZmN1BxV0pkdjdzZkJSZFZseU45RzNSRjhOcmhIbUNhSmxLYUh3NmRnaDFPbEV5dHFWUzZJYXRhOVBLb1lPWUlpM2xIbUJrN0g2SWxCQTlCYnQ4by13RFNna2JTRFEwQThjV2xGb3lqX2pBc2tKdW0tS3BIN1lEYnhnT1NXZEwyeW5J?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 3:49 AM ET",
-      "source": "Google News",
-      "title": "Kyocera: Fiscal Q2 Earnings Snapshot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRF9qWDBFZ1hIdl93RTRqV1I5c2t0MlZidjYwam9Pem56aGNjMEhYZWhnQ1pfRlNXRkhQLUdEZ3JnYWZyR0NSdk5SQ2RZNjBEaTJWVVlnNVl3MHB4cEpVZkl1bzhIRnBXOFU4cHdsM2tUN3FaM3M4V3VQXy1MRlFTYUJqU2VmcHZHcGVHNWVjR1BrVGs4MzdEekRGVE8tYVZQWFE?oc=5",
+      "time": "Tue 3:36 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Neurocrine climbs after Q3 beat, guidance hike",
+      "url": "https://seekingalpha.com/news/4663955-neurocrine-stock-rises-q3-beat-guidance-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 3:35 PM ET",
+      "source": "CNBC",
+      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:32 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Bloom Energy jumps 9% after Barclays upgrade, California power development deal",
+      "url": "https://seekingalpha.com/news/4663936-bloom-energy-jumps-9-after-barclays-upgrade-california-power-development-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Tue 3:31 PM ET",
+      "source": "Google News",
+      "title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnpaTEp4YXR0OFlnQm5mVkVVYmlWSUV4T1ZYZlJjd19uZnctMUpWQ2JNZXE0c0NCd0d4cGdvcU1wQUZManllLW9ZMGZjTllsUC1Nai1aTDdiLU5pZlpYWlhMdjFnWFVNMExIYjRQNG82SUx5ZFBvd2w3T3QzSW5Tek4xNDJqNzhxM2I4TkRDSlBpU1YxOXZueDI0Y0xSMUItYlVjSG1tRk1BaEtPV2dN?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:29 PM ET",
+      "source": "CNBC",
+      "title": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+      "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:28 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Black Rifle Coffee reaffirms 2026 outlook of ~$430M revenue and ~$29M adjusted EBITDA as Project Core targets an asset-light model",
+      "url": "https://seekingalpha.com/news/4663954-black-rifle-coffee-reaffirms-2026-outlook-of-430m-revenue-and-29m-adjusted-ebitda-as-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 3:27 PM ET",
+      "source": "Google News",
+      "title": "AppLovin Fell 60% Even With Today’s Pop. Tomorrow We Learn if Earnings Fell With It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjR5QmJ1SEI5RjM2ZzIwOFNMc3BseFY4amt6eUp4WlRUa2tPWWt2ZzNmWnVtZjNqOEdFUTZTTGdldTdITkZ1bVJNVUFHQmFkbFNZUUY1TDJzTFRlbTNkR3NUMEZpTWlmWGltaC1hR0h3dDZ3ZUo1SXRKa0lGcWZiM3NESGlzTEgzV3hJU1Y4X2pDSGRrNl9n?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:25 PM ET",
+      "source": "CNBC",
+      "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+      "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:24 PM ET",
+      "source": "Google News",
+      "title": "Morgan Stanley Warns of Stock Market Drop Amid 3 ‘Clearing Events’: ‘Much of the Damage Already Done’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJzZEFjbExIS3NiV2dOMjZtandIYkI2QmhraE9lOHo3bFM3YmFrM1JnS2tpSzQ0OHk2aUNQOUpUczRwY2FjMUtkbVQwdnFkSWdVaWZUWm43V213VUR6RDRCelRXUVI0M1hKV29EeWU3U2VQNklTWHNrRk8za3ZjMkE3QTBBWHhzaFdZNjFQcDJwWE5qYUJKMlpnQXgydFE?oc=5",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "AAPL",
+      "ticker": "AMD",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "PLTR",
+      "ticker": "AMGN",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "VRTX",
+      "ticker": "ANET",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "MAR",
+      "ticker": "SHOP",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "WMB",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "FANG",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "O",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "ETR",
+      "ticker": "PFE",
       "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "ETN",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "MPC",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "BKNG",
+      "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 19.07, 10Y 4.929%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: BURU +52.65% on 202,353,733 volume — check its news catalyst before touching it.",
-    "Reporting before the open: MAR, ETR — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 20.77, 10Y 4.946%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: RDAC +118.04% on 7,130,288 volume — check its news catalyst before touching it.",
+    "Reporting before the open: SHOP, PFE, ETN, MPC — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
