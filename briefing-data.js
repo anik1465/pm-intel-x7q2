@@ -1,353 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 4, 2026 · 12:02 PM PT",
-  "tradingDate": "Wed Nov 4",
+  "generatedAtPT": "Nov 5, 2026 · 12:16 PM PT",
+  "tradingDate": "Thu Nov 5",
   "futures": [
     {
       "label": "VIX",
-      "value": "16.80",
-      "chg": "-19.35%"
+      "value": "26.00",
+      "chg": "+56.53%"
     },
     {
       "label": "US 10Y",
-      "value": "4.89%",
-      "chg": "-1.2121%"
+      "value": "4.835%",
+      "chg": "-1.1652%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "88.45",
-      "chg": "-7.95%"
+      "value": "90.71",
+      "chg": "+2.94%"
     },
     {
       "label": "GOLD",
-      "value": "4,068.50",
-      "chg": "+3.25%"
+      "value": "4,115.70",
+      "chg": "+1.05%"
     },
     {
       "label": "DXY",
-      "value": "101.556",
-      "chg": "-0.31%"
+      "value": "101.553",
+      "chg": "-0.01%"
     },
     {
       "label": "BITCOIN",
-      "value": "79,958.76",
-      "chg": "+2.86%"
+      "value": "75,899.81",
+      "chg": "-5.22%"
     }
   ],
   "movers": [
     {
-      "ticker": "CRIS",
-      "price": "1.34",
-      "chg": "+87.70%",
-      "volume": "91,470,947",
-      "catalyst": "Curis announces $8.5M private placement",
+      "ticker": "LABT",
+      "price": "0.38",
+      "chg": "+100.10%",
+      "volume": "151,575,858",
+      "catalyst": "Why Is Penny Stock Lakewood-Amedex Biotherapeutics (LABT) Up Today?",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/curis-announces-8-5m-private-placement-thefly-news",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-lakewood-amedex-biotherapeutics-labt-up-today-2",
       "spark": [
+        0.2,
+        0.19,
+        0.2,
+        0.19,
+        0.69
+      ]
+    },
+    {
+      "ticker": "AEHL",
+      "price": "12.39",
+      "chg": "+97.61%",
+      "volume": "7,302,890",
+      "catalyst": "Antelope Enterprise Holdings Ltd trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/antelope-enterprise-holdings-ltd-trading-resumes-thefly-news-3",
+      "spark": [
+        7.31,
+        6.65,
+        6.64,
+        6.27,
+        17.3
+      ]
+    },
+    {
+      "ticker": "ZNB",
+      "price": "1.20",
+      "chg": "+92.12%",
+      "volume": "18,539,337",
+      "catalyst": "Zeta Network Group trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/zeta-network-group-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        0.44,
+        0.5,
         0.55,
-        0.6,
-        0.66,
-        0.71,
-        1.2
+        0.62,
+        1.17
       ]
     },
     {
-      "ticker": "DKI",
-      "price": "2.31",
-      "chg": "+54.00%",
-      "volume": "26,797,048",
-      "catalyst": "DarkIris Inc trading halted, news pending",
+      "ticker": "FLYE",
+      "price": "2.66",
+      "chg": "+56.46%",
+      "volume": "13,756,906",
+      "catalyst": "Fly-E Group receives noncompliance notification from Nasdaq",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/darkiris-inc-trading-halted-news-pending-thefly-news-2",
+      "url": "https://www.tipranks.com/news/the-fly/fly-e-group-receives-noncompliance-notification-from-nasdaq-thefly-news-2",
       "spark": [
-        2.14,
-        1.53,
-        1.48,
-        1.5,
-        2.11
+        1.73,
+        1.74,
+        1.72,
+        1.7,
+        2.41
       ]
     },
     {
-      "ticker": "FTCI",
-      "price": "2.06",
-      "chg": "+42.07%",
-      "volume": "33,247,906",
-      "catalyst": "FTC Solar Announces Third Quarter 2026 Financial Results",
+      "ticker": "ELPW",
+      "price": "3.66",
+      "chg": "+45.82%",
+      "volume": "34,940,632",
+      "catalyst": "Elong Power Holding Limited Enters into Approximately $3.26 Million Warrant Inducement",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395122/0/en/ftc-solar-announces-third-quarter-2026-financial-results.html",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396903/0/en/elong-power-holding-limited-enters-into-approximately-3-26-million-warrant-inducement.html",
       "spark": [
-        1.36,
-        1.38,
-        1.5,
-        1.45,
-        1.64
+        2.79,
+        2.75,
+        2.82,
+        2.51,
+        1.18
       ]
     },
     {
-      "ticker": "CMTG",
-      "price": "1.47",
-      "chg": "+32.43%",
-      "volume": "258,382",
-      "catalyst": "Claros Mortgage Trust, Inc. Reports Third Quarter 2026 Results",
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20261103464826/en/Claros-Mortgage-Trust-Inc.-Reports-Third-Quarter-2026-Results/",
+      "ticker": "AMTX",
+      "price": "1.75",
+      "chg": "+40.00%",
+      "volume": "441,489",
+      "catalyst": "Aemetis Reports Third Quarter 2026 Financial Results",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396353/0/en/aemetis-reports-third-quarter-2026-financial-results.html",
       "spark": [
-        1.18,
+        1.25,
         1.15,
-        1.14,
-        1.11,
-        1.8
+        1.15,
+        1.25,
+        1.73
       ]
     },
     {
-      "ticker": "ALIT",
-      "price": "13.17",
-      "chg": "+30.14%",
-      "volume": "137,620",
-      "catalyst": "Alight price target lowered to $11 from $13 at BofA",
+      "ticker": "ARQ",
+      "price": "2.47",
+      "chg": "+33.51%",
+      "volume": "1,460,291",
+      "catalyst": "Arq reports Q3 EPS 6c, consensus 4c",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/alight-price-target-lowered-to-11-from-13-at-bofa-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/arq-reports-q3-eps-6c-consensus-4c-thefly-news",
       "spark": [
-        9.17,
-        8.93,
-        9.88,
-        10.12,
-        13.44
+        1.77,
+        1.81,
+        1.84,
+        1.85,
+        2.35
       ]
     },
     {
-      "ticker": "HPAI",
-      "price": "0.31",
-      "chg": "+29.18%",
-      "volume": "78,095,769",
-      "catalyst": "Helport AI Advances Transition to Autonomous AI Labor in Southeast Asian Fintech Market",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394898/0/en/helport-ai-advances-transition-to-autonomous-ai-labor-in-southeast-asian-fintech-market.html",
-      "spark": [
-        0.25,
-        0.23,
-        0.24,
-        0.24,
-        0.31
-      ]
-    },
-    {
-      "ticker": "DUOL",
-      "price": "159.70",
-      "chg": "+24.77%",
-      "volume": "211,202",
-      "catalyst": "Duolingo price target raised to $140 from $120 at Scotiabank",
+      "ticker": "TBI",
+      "price": "12.92",
+      "chg": "+31.30%",
+      "volume": "42,982",
+      "catalyst": "TrueBlue price target raised to $14.50 from $9.50 at Baird",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/duolingo-price-target-raised-to-140-from-120-at-scotiabank-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/trueblue-price-target-raised-to-14-50-from-9-50-at-baird-thefly-news",
       "spark": [
-        136.39,
-        131.59,
-        135.27,
-        128.0,
-        171.66
+        9.77,
+        9.87,
+        9.59,
+        9.84,
+        12.03
       ]
     },
     {
-      "ticker": "AIOK",
-      "price": "12.17",
-      "chg": "+21.82%",
-      "volume": "3,292,257",
-      "catalyst": "AI OKTO CORP. Common Stock trading resumes",
+      "ticker": "APP",
+      "price": "349.06",
+      "chg": "+28.45%",
+      "volume": "913,477",
+      "catalyst": "AppLovin upgraded to Buy from Add at Huatai Research",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/ai-okto-corp-common-stock-trading-resumes-thefly-news-3",
+      "url": "https://www.tipranks.com/news/the-fly/applovin-upgraded-to-buy-from-add-at-huatai-research-thefly-news",
       "spark": [
-        18.89,
-        24.17,
-        12.63,
-        9.99,
-        10.75
+        228.5,
+        228.85,
+        245.51,
+        271.75,
+        354.84
       ]
     },
     {
-      "ticker": "FTK",
-      "price": "30.01",
-      "chg": "+20.81%",
-      "volume": "11,358",
-      "catalyst": "Flotek Delivers Quarterly Revenue Above $100 Million, Achieving Twelve-Year High, and Increases Guidance Again",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/flotek-delivers-quarterly-revenue-above-100-million-achieving-twelve-year-high-and-increases-guidance-again-302928398.html",
+      "ticker": "SEZL",
+      "price": "173.80",
+      "chg": "+27.15%",
+      "volume": "51,995",
+      "catalyst": "Sezzle Has the Sizzle. How the Stock Can Surge Another 61%.",
+      "source": "barrons.com",
+      "url": "https://www.barrons.com/articles/sezzle-earnings-stock-price-f900e342",
       "spark": [
-        25.68,
-        25.35,
-        23.47,
-        24.84,
-        24.93
-      ]
-    },
-    {
-      "ticker": "CPSH",
-      "price": "4.17",
-      "chg": "+19.66%",
-      "volume": "160,954",
-      "catalyst": "CPS Technologies Announces Third Quarter 2026 Financial Results",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394814/0/en/cps-technologies-announces-third-quarter-2026-financial-results.html",
-      "spark": [
-        3.77,
-        3.59,
-        3.54,
-        3.49,
-        3.89
+        134.85,
+        128.32,
+        122.43,
+        136.69,
+        156.0
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Wed 4:01 PM ET",
-      "source": "Google News",
-      "title": "Retirement funds shouldn't be seen as stock market boosters, U.S. pension expert says - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTR3SXU4dWF5dDYxOGlockFoVGZzaTFPWDZNOWk5SW45N2kxY3pOcDlETUZaS1VWR1dkN0piRDdYaktYOGs2a2Z1bXFrczBKXzNBNzB6cnhEeHlXM3hoS0dFdWtlWnFLakRkVkdNSkl4N2pEUWltLUhJRG9ubzFqd0RoRHI4OUZRWktlLURTb3BBRFdkRzJtVTl6YTgyOFVjM0VvRC1VLWRiNjJWajVhSHZlNk9lcjUwaF9RN3UxUHBDU2pEMmgtVXRLc215Yjg?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 4:00 PM ET",
+      "time": "Thu 4:13 PM ET",
       "source": "Seeking Alpha",
-      "title": "Ero Copper raised at Scotiabank as free cash flow inflection gains momentum",
-      "url": "https://seekingalpha.com/news/4665406-ero-copper-raised-at-scotiabank-as-free-cash-flow-inflection-gains-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:58 PM ET",
-      "source": "CNBC",
-      "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
-      "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:56 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Transcat shares surge to record as earnings beat estimates, outlook improves",
-      "url": "https://seekingalpha.com/news/4665421-transcat-shares-surge-to-record-as-earnings-beat-estimates-outlook-improves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:55 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Riot outlines $2.2B average annual NOI as Corsicana 910 MW lease targets full delivery by July 2028",
-      "url": "https://seekingalpha.com/news/4665442-riot-outlines-2_2b-average-annual-noi-as-corsicana-910-mw-lease-targets-full-delivery-by-july?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:55 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Shoals-ARRAY merger outlines $2.2B-$2.4B 2027 revenue outlook and targets $100M annual incremental EBITDA synergies by year 3",
-      "url": "https://seekingalpha.com/news/4665441-shoals-array-merger-outlines-2_2b-2_4b-2027-revenue-outlook-and-targets-100m-annual?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Investors Title GAAP EPS of $4.97, revenue of $81.90M",
+      "url": "https://seekingalpha.com/news/4667148-investors-title-gaap-eps-of-4_97-revenue-of-81_90m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Wed 3:55 PM ET",
-      "source": "Seeking Alpha",
-      "title": "SelectQuote reiterates $60M+ fiscal 2027 operating cash flow target while seeking approval for reverse stock split",
-      "url": "https://seekingalpha.com/news/4665440-selectquote-reiterates-60m-fiscal-2027-operating-cash-flow-target-while-seeking-approval-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:55 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Modine expects $3.1B-$3.2B fiscal 2027 sales and $470M-$500M adjusted EBITDA as data center demand drives 80%-90% segment growth",
-      "url": "https://seekingalpha.com/news/4665439-modine-expects-3_1b-3_2b-fiscal-2027-sales-and-470m-500m-adjusted-ebitda-as-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:55 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Enbridge Inc. CUM RED PFD 19 declares $0.3882 dividend",
-      "url": "https://seekingalpha.com/news/4665438-enbridge-inc-cum-red-pfd-19-declares-0_3882-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:53 PM ET",
+      "time": "Thu 4:08 PM ET",
       "source": "CNBC",
-      "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-      "url": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:51 PM ET",
-      "source": "CNBC",
-      "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:47 PM ET",
-      "source": "Google News",
-      "title": "Datadog Stock Crashes 14% Despite an Earnings Beat. Is It a Buy? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWtUakgtYmxSSDBYQm9wNEU4MzZxN0VQTU5XR0lzLVhKZVhNRW5Mb05LQkxrV1J3SW9wd3BmNWlhTkc1c2taelNNVmkteWdmMkJQX3B6am4zVGhURkJ2TDhraktCUGd1ZDRSMWpnS3FxaTRuUTYydkpnZ1c2bk1lUENYNS0tTWlLUUpaZ3liNk51U3lYdmhOYUpZV1VrUQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:47 PM ET",
-      "source": "CNBC",
-      "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:46 PM ET",
-      "source": "CNBC",
-      "title": "What Republicans' huge loss means for Trump",
-      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 3:37 PM ET",
-      "source": "CNBC",
-      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
+      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
       "tag": "TECH"
+    },
+    {
+      "time": "Thu 4:08 PM ET",
+      "source": "Seeking Alpha",
+      "title": "InPlay Oil Corp. GAAP EPS of -C$0.08, revenue of C$118.8M",
+      "url": "https://seekingalpha.com/news/4667138-inplay-oil-corp-gaap-eps-of-c008-revenue-of-c1188m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 4:07 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Sun Life targets GreenOak FRE margin of 35%+ while raising quarterly dividend to $1 per share",
+      "url": "https://seekingalpha.com/news/4667136-sun-life-targets-greenoak-fre-margin-of-35-percent-while-raising-quarterly-dividend-to-1-per?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:07 PM ET",
+      "source": "Seeking Alpha",
+      "title": "HelloFresh SE reports Q3 results",
+      "url": "https://seekingalpha.com/news/4667135-hellofresh-se-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 4:07 PM ET",
+      "source": "Google News",
+      "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2FTRHpfaEpFUjZ6Z2VTMXJPa21QaWNxZjl2b3JrUW1kb18wbDJPaWNNZnk4cWdZQm90WF9xSElxYWsyYjF4UWxhUmRjV1p2cVhOaml1a2RxZjA3aE9BaU9zT1g2QUFpdEUxV0lrckJobHlubVJpVDVKVVVQTXQ0aG53YWtkeVUxYnMtMDRqUmxoYThZdDRUNnBLNG9lbDN6WnJaOVlBcGZxbTU3V1FB?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Thu 4:06 PM ET",
+      "source": "Google News",
+      "title": "Market Selloff Hits Financial Stocks. Why Banks, Brokerages Are Caught in the Crossfire. -- Barrons.com - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2F6dktwejU2Yk0yRVppMmozWHpSZm4wbXZoSzhPSlo2VDNPZERWNy0zekt5NDlNNVlDMWNnMXM3aFNCV2lLR3dwVFdpYXNCZ0wteVA2bEcyTUV0X3FiX3hCczl1MlFiQlJURjRBU3FxYmJhS3NyQVRLLU45bGpQWGFpS29fVWFhMGZOcHlhLWcwVVFIcTE5Z09VTHJQeTFTZkoxc1BvOTh1TGlVSEtrY0x3?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:06 PM ET",
+      "source": "CNBC",
+      "title": "How Wall Street's postelection rally got obliterated — and what's next",
+      "url": "https://www.cnbc.com/investingclub/2026/11/05/how-wall-streets-postelection-rally-got-obliterated-and-whats-next.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:05 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Royal Gold outlines Kinross Great Bear buyback to 1.5% NSR for ~$43M while keeping $1.4B revolver available",
+      "url": "https://seekingalpha.com/news/4667134-royal-gold-outlines-kinross-great-bear-buyback-to-1_5-percent-nsr-for-43m-while-keeping-1_4b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Thu 4:05 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Nextdoor expects Q4 revenue of $78M-$80M with adjusted EBITDA of $10M-$11M as WAU growth flattens seasonally",
+      "url": "https://seekingalpha.com/news/4667133-nextdoor-expects-q4-revenue-of-78m-80m-with-adjusted-ebitda-of-10m-11m-as-wau-growth-flattens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 4:02 PM ET",
+      "source": "Seeking Alpha",
+      "title": "illumin Holdings GAAP EPS of -C$0.03, revenue of C$42.68M",
+      "url": "https://seekingalpha.com/news/4667132-illumin-holdings-gaap-eps-of-c003-revenue-of-c4268m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Thu 4:00 PM ET",
+      "source": "Google News",
+      "title": "Why AMD Stock Is Down Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXZ4VnRfcjRYcWczOE4wbHBNMFF5ckJKa3J4WlBnM3Q1NkxxZlVITUVld0hVRU0zMmpscTBuSHlNLW5tNm40NUduQThTT1VvRV9HaEotNnhXRnJnQ3dyOGEtSVpweXNmOXNjQlcxcktOR0h1ZWVKVGxfVjBBcE5ZTUNraDkwa0JHc0pHNHQ0cnVrU1E?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:00 PM ET",
+      "source": "Google News",
+      "title": "Your House vs. the Stock Market: Which Has Been a Better Investment? - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 3:54 PM ET",
+      "source": "CNBC",
+      "title": "IRS announces bigger estate and gift tax exemption for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 3:53 PM ET",
+      "source": "CNBC",
+      "title": "IRS announces new federal income tax brackets for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "TM",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "COP",
+      "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "ARM",
+      "ticker": "SONY",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "MNST",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "MCD",
+      "ticker": "PH",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "NVO",
+      "ticker": "SO",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "QCOM",
+      "ticker": "ABNB",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "UBER",
+      "ticker": "CNQ",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "CVS",
+      "ticker": "DUK",
       "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "MCK",
-      "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 16.80, 10Y 4.89%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: CRIS +87.70% on 91,470,947 volume — check its news catalyst before touching it.",
-    "Reporting before the open: MCD, NVO, UBER, CVS — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 26.00, 10Y 4.835%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: LABT +100.10% on 151,575,858 volume — check its news catalyst before touching it.",
+    "Reporting before the open: COP, SONY, PH, SO, CNQ — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
