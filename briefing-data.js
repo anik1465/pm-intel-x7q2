@@ -1,354 +1,354 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 9, 2026 · 12:40 AM PT",
-  "tradingDate": "Mon Nov 9",
+  "generatedAtPT": "Nov 10, 2026 · 12:01 PM PT",
+  "tradingDate": "Tue Nov 10",
   "futures": [
     {
       "label": "VIX",
-      "value": "24.31",
-      "chg": "-5.19%"
+      "value": "20.10",
+      "chg": "+0.90%"
     },
     {
       "label": "US 10Y",
-      "value": "4.855%",
-      "chg": "-0.0823%"
+      "value": "4.983%",
+      "chg": "+2.4887%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "89.87",
-      "chg": "-1.06%"
+      "value": "86.21",
+      "chg": "-0.74%"
     },
     {
       "label": "GOLD",
-      "value": "4,103.00",
-      "chg": "+0.69%"
+      "value": "4,039.50",
+      "chg": "-1.82%"
     },
     {
       "label": "DXY",
-      "value": "101.888",
-      "chg": "-0.40%"
+      "value": "102.243",
+      "chg": "+0.58%"
     },
     {
       "label": "BITCOIN",
-      "value": "74,170.61",
-      "chg": "-2.06%"
+      "value": "73,324.30",
+      "chg": "-1.89%"
     }
   ],
   "movers": [
     {
-      "ticker": "VIVK",
-      "price": "0.80",
-      "chg": "+115.54%",
-      "volume": "98,560,863",
-      "catalyst": "Vivakor Engages Energy Infrastructure Executive Bernard Brown to Advance Airport Hydrogen Project",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396539/0/en/vivakor-engages-energy-infrastructure-executive-bernard-brown-to-advance-airport-hydrogen-project.html",
-      "spark": [
-        0.68,
-        0.67,
-        0.48,
-        0.37,
-        0.5
-      ]
-    },
-    {
-      "ticker": "RCT",
-      "price": "0.05",
-      "chg": "+67.67%",
-      "volume": "478,868,600",
-      "catalyst": "RedCloud Extends RedAI to 200 Argentine Distributors Through Picking Up! Integration with New ERP Provider",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396569/0/en/redcloud-extends-redai-to-200-argentine-distributors-through-picking-up-integration-with-new-erp-provider.html",
-      "spark": [
-        0.04,
-        0.03,
-        0.03,
-        0.03,
-        0.04
-      ]
-    },
-    {
-      "ticker": "CDT",
-      "price": "1.38",
-      "chg": "+63.12%",
-      "volume": "5,026,858",
-      "catalyst": "CDT Equity Inc trading halted, news pending",
+      "ticker": "PEPG",
+      "price": "5.59",
+      "chg": "+133.68%",
+      "volume": "35,616,750",
+      "catalyst": "Why Is Penny Stock PepGen (PEPG) Up 114% Today?",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/cdt-equity-inc-trading-halted-news-pending-thefly-news-4",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-pepgen-pepg-up-114-today",
       "spark": [
+        2.45,
+        2.32,
+        2.47,
+        2.39,
+        4.77
+      ]
+    },
+    {
+      "ticker": "SMX",
+      "price": "18.29",
+      "chg": "+95.62%",
+      "volume": "14,515,244",
+      "catalyst": "SMX announces development of SMX Scientific Intelligence",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/smx-announces-development-of-smx-scientific-intelligence-thefly-news",
+      "spark": [
+        3.3,
+        3.67,
+        4.93,
+        9.35,
+        16.66
+      ]
+    },
+    {
+      "ticker": "MI",
+      "price": "0.39",
+      "chg": "+59.93%",
+      "volume": "216,542,492",
+      "catalyst": "NFT Limited (NYSE American: MI) Releases RWAIX Protocol and Open-Sources Reference Implementation on GitHub -- 90-Day Real-World Pilot Targe",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/nft-limited-nyse-american-mi-releases-rwaix-protocol-and-open-sources-reference-implementation-on-github--90-day-real-world-pilot-targeted-q1-2027-302907125.html",
+      "spark": [
+        0.33,
+        0.34,
+        0.31,
+        0.25,
+        0.37
+      ]
+    },
+    {
+      "ticker": "MNDO",
+      "price": "1.26",
+      "chg": "+44.83%",
+      "volume": "8,606,463",
+      "catalyst": "Enghouse Systems to acquire MIND C.T.I. for $1.30 per share in cash",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/enghouse-systems-to-acquire-mind-c-t-i-for-1-30-per-share-in-cash-thefly-news",
+      "spark": [
+        0.9,
+        0.87,
+        0.86,
+        0.87,
+        1.26
+      ]
+    },
+    {
+      "ticker": "BYAH",
+      "price": "3.02",
+      "chg": "+38.52%",
+      "volume": "273,590",
+      "catalyst": "PHH, BYAH Deadline: PHH, BYAH Investors with Losses in Excess of $100K Have Opportunity to Lead Park Ha Biological Technology Co., Ltd. Secu",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/phh-byah-deadline-phh-byah-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-park-ha-biological-technology-co-ltd-securities-lawsuit-302885065.html",
+      "spark": [
+        2.26,
+        2.09,
+        2.16,
+        2.18,
+        1.74
+      ]
+    },
+    {
+      "ticker": "PXLW",
+      "price": "6.73",
+      "chg": "+29.05%",
+      "volume": "10,619,487",
+      "catalyst": "Pixelworks announces multi-year partnership with Meta Platforms",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/pixelworks-announces-multi-year-partnership-with-meta-platforms-thefly-news",
+      "spark": [
+        5.02,
+        4.88,
+        5.06,
+        5.22,
+        7.09
+      ]
+    },
+    {
+      "ticker": "SECZ",
+      "price": "8.99",
+      "chg": "+28.98%",
+      "volume": "1,744,413",
+      "catalyst": "Securitize reports Q3 EPS (41c) vs. (9c) last year",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/securitize-reports-q3-eps-41c-vs-9c-last-year-thefly-news",
+      "spark": [
+        8.04,
+        7.33,
+        6.96,
+        6.97,
+        8.47
+      ]
+    },
+    {
+      "ticker": "SENS",
+      "price": "12.00",
+      "chg": "+22.45%",
+      "volume": "128,880",
+      "catalyst": "Senseonics raises FY26 revenue view to $68M-$70M from $62M-$66M",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/senseonics-raises-fy26-revenue-view-to-68m-70m-from-62m-66m-thefly-news",
+      "spark": [
+        9.02,
+        7.99,
+        8.59,
+        9.8,
+        10.65
+      ]
+    },
+    {
+      "ticker": "TTEC",
+      "price": "1.70",
+      "chg": "+21.86%",
+      "volume": "527,197",
+      "catalyst": "TTEC Holdings reports Q3 EPS 22c, consensus 20c",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/ttec-holdings-reports-q3-eps-22c-consensus-20c-thefly-news",
+      "spark": [
+        1.53,
+        1.48,
+        1.38,
         1.4,
-        1.34,
-        1.02,
-        0.85,
-        1.31
+        2.49
       ]
     },
     {
-      "ticker": "CIIT",
-      "price": "2.51",
-      "chg": "+61.94%",
-      "volume": "29,079,792",
-      "catalyst": "Tianci International launches 3 MW crypto computing project",
+      "ticker": "HROW",
+      "price": "33.41",
+      "chg": "+21.62%",
+      "volume": "111,594",
+      "catalyst": "Harrow reports Q3 EPS 25c, consensus 30c",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/tianci-international-launches-3-mw-crypto-computing-project-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/harrow-reports-q3-eps-25c-consensus-30c-thefly-news",
       "spark": [
-        1.75,
-        1.66,
-        1.71,
-        1.55,
-        2.4
-      ]
-    },
-    {
-      "ticker": "DBGI",
-      "price": "0.68",
-      "chg": "+44.68%",
-      "volume": "65,123,937",
-      "catalyst": "Digital Brands announces decision to maintain public listing",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/digital-brands-announces-decision-to-maintain-public-listing-thefly-news",
-      "spark": [
-        0.56,
-        0.7,
-        0.63,
-        0.47,
-        0.28
-      ]
-    },
-    {
-      "ticker": "SHFS",
-      "price": "0.04",
-      "chg": "+33.08%",
-      "volume": "415,177,724",
-      "catalyst": "SHF Holdings signs non-binding term sheet with Opifex Media for combination",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/shf-holdings-signs-non-binding-term-sheet-with-opifex-media-for-combination-thefly-news",
-      "spark": [
-        0.05,
-        0.04,
-        0.03,
-        0.03,
-        0.03
-      ]
-    },
-    {
-      "ticker": "FROG",
-      "price": "97.81",
-      "chg": "+31.08%",
-      "volume": "70,520",
-      "catalyst": "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver.",
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/jfrog-earnings-stock-price-ai-coding-28eef675",
-      "spark": [
-        85.11,
-        88.49,
-        86.34,
-        74.62,
-        100.98
-      ]
-    },
-    {
-      "ticker": "VSA",
-      "price": "1.97",
-      "chg": "+27.92%",
-      "volume": "21,503,591",
-      "catalyst": "FatPipe Awarded 2026 Visionary Spotlight Award for Total Security 360 by ChannelVision Magazine",
-      "source": "accessnewswire.com",
-      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/fatpipe-awarded-2026-visionary-spotlight-award-for-total-security-1178660",
-      "spark": [
-        1.62,
-        1.65,
-        1.5,
-        1.54,
-        2.35
-      ]
-    },
-    {
-      "ticker": "LASR",
-      "price": "36.80",
-      "chg": "+25.43%",
-      "volume": "22,503",
-      "catalyst": "nLight price target lowered to $70 from $100 at Raymond James",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/nlight-price-target-lowered-to-70-from-100-at-raymond-james-thefly-news",
-      "spark": [
-        35.77,
-        36.51,
-        32.99,
-        29.34,
-        38.02
-      ]
-    },
-    {
-      "ticker": "ETON",
-      "price": "58.51",
-      "chg": "+24.10%",
-      "volume": "7,978",
-      "catalyst": "Eton Pharmaceuticals price target raised to $82 from $78 at Craig-Hallum",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/eton-pharmaceuticals-price-target-raised-to-82-from-78-at-craig-hallum-thefly-news",
-      "spark": [
-        50.81,
-        50.95,
-        50.72,
-        47.15,
-        56.46
+        28.75,
+        26.04,
+        26.89,
+        27.47,
+        30.21
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Mon 4:36 AM ET",
-      "source": "Google News",
-      "title": "SAP gains after JPMorgan upgrades stock as ’AI moves from pilot to production’ - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObzZ5Q0FSYlpTMzJPdTFhYUdwVi03MVdzeEZYYms0TnJUU041N0R6dTBtMkJJZlZzeVMtNU1JRjh0SWlDRUN3aWtKRWlPand2eVNFaXdlMGxSNmdlR2pwczdPbVJzUTJ4eHR3ZG1jY3RIQkRlQlJoLXF6ajl0aWNzOHRBcXNBa0dBMkFSZm5xTkhPSXNjVHZ5akZfQ1cxcjhpaDROM2daQ2l6Zk5Ka2IyMVhsTFRTdFctRUNYc0FURERCVFNOREZJM29xdnczdw?oc=5",
+      "time": "Tue 3:55 PM ET",
+      "source": "CNBC",
+      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
       "tag": "TECH"
     },
     {
-      "time": "Mon 4:31 AM ET",
-      "source": "Google News",
-      "title": "Morgan Stanley downgrades Pinduoduo stock rating on cash return concerns - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblEzN0pMMG56dEFTci1ySy1zR3h6OU5WSm52ZDRCRTJVU09RX0s4VU5IRDI0Njl0Vm1aQ29FYk0tOW1jdG13c1RRYzhlQWlPUDhTNWxkakxqd3pOczlaZnFpY2pDcGMzakZ6TVF4MGpmaEFIcVBPX1BqVlhHZzRhSklwZzdUY2FhS2puOTg2RU05dVZBSGNINTJmeFRQYVhwZG8xSGp0enh0MmFGSmZqUGpLWkdBcXlYWUpJVmlHZGlCNVhFWnYwREdjc1k?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:29 AM ET",
-      "source": "Google News",
-      "title": "Genfit shares rise 5.3% on nangibotide clinical data - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdU1pYmVsMU9nTjZXcDNOZ2lMSzJhSW8ybXVrSWY4WkNFbDlyWDdCUkNicklSV3JWN0hDWV8xR1ltWmRzaE5fSGFONkVwMWd2cTFQOFpxaTZiTGdqSGxaa2dZSndQWFlzbi16QUQ4eFptY1otdmxfM0V2c3FjbkVfeFdJd0dhQ25OWk9YUjZGeVQ1Q1VDYjhHdDRkalRrY3A0TGZOelpTUmdUVFpzWHN5bWZn?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:28 AM ET",
-      "source": "Google News",
-      "title": "Why is Kainos stock sliding today? - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmt6eHp6R21oVzhvYXgzNjZ5RzY0SXBZVTVLMU43bEhrLWJySC1RUnVFM2VQZTRadFZOVTJTNWY3TXF1M1pESlNyN1FFRnBvT3lsZEd2dHFTX2RrS0ZrNUxteHhCRlNGUksyWVE0Y3UwdGJWTTl4UjFFSWMzMV9Sd2ZiWVM4ay05dkVvZk1WWmI5MFZWTzd5S3lfTQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:28 AM ET",
-      "source": "Google News",
-      "title": "Europe shares tread water as investors weigh AI trade; banks in focus By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzFoVEhrbDE2OGJxdWNfbElhQm5vVkN2MHFZZk5RTnNHMFBqZUtFSjFkUE1Jd0ZkWXRSRFUtaTBIWnEtMExCSWdIUDFJckdGVVBJVWNQR2g4OV96a3dfWUxGWTdDRWtHbnhiUy1uc2M5VW1WM3BxcUVwVWtZT25VWFhYb2JPTFkzM2R3dEZYMTVybXFtUTJvaV9TN3FfUk1QSDBxRHJ3a2lZR2ZVQTJEeS1Oc0ZNWWM4Vnlid1NHNmprajg?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Mon 4:28 AM ET",
-      "source": "Google News",
-      "title": "FTSE 100 today: Stocks jump as miners lead; oil falls on Iran hopes - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjV4aEsxay1sSExGZmlQLVhtWG5xT0dwOUhCWnZXa2x5RlVaV2cwVmk2X3ZqOTl3NnRibzhQeExIdHRpMld6UkwzVXFFVVNQcjZSMXNDbVN2SDdDZFJ0UFdGYTc2dmxzMFJRdmIxN3hwdmk3NEl4cXdVMTh1VEJmVVZhbURiT2lEVDl4MUpWdGpMVUtyVXNjcUFiS3RqeTVIMFY5OXRieDdQS1ZZYUJwWGhJb1UxbW11QTZ1cGtrbw?oc=5",
-      "tag": "ENERGY"
-    },
-    {
-      "time": "Mon 4:27 AM ET",
-      "source": "Google News",
-      "title": "Hochtief stock falls after ACS rules out tender offer - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHhvZG9XYWRrNGZWY1kxbGVMOUh0RDBTb1NUTk0zRlJPa2FBamtSUVVNQXJZWmdzQklPYUhQb0locmR1UjFRZmt6NDBTd3I3M0VId3R5WTVnTy1janloeTFJNVYzdmx0RTYyaTFacFk0dUswYXpUTFJaeldvZ3gtbWRFYy0wbTVvZy1MUUI2M1VneTE1ZUtJbUxkZS1pU0xVLUV4d19VdGh3RG1GT1lTaU13cDhLUQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:27 AM ET",
-      "source": "Google News",
-      "title": "Ani Pharmaceuticals CEO Lalwani sells $401,220 in common stock - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFJPdnUxVU5qQkdhQzJ3V1dQVENtZ1k3YlhENE5LUWItWkMtNjhIWlAtaHJMWG9PX1lzZnhxdExpQktHYVZIMFBMbTNEOWI2aDZCQWp3b1d1WXh5WlZDcXYwWlNLNW94UTN1Y25udUx6bE5vZWxrOGRXQmhmdl9HX0xKcVJ3N2VlblFTVWNjeDdCb3BDU1pnSXZpNUhoWEg1UndIX2RBcFJUT3l2cWhUQ0VrU0FWTHRLRWZ4dGJ4ZTI1QkE?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:21 AM ET",
-      "source": "Google News",
-      "title": "Gulf stocks gain on Trump's signal against renewed Iran strikes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTktoWW9WcXF4bTZDdDJwR2Z4Rm1SdmZvZlR3Sl9NVmxPZUhZQVBhb2k4WXJUczBkLUxOV0dWaHZHZ0tuNUlEcVU3azhUem9ib1prV0xXNWdPdVZjNFAwYTBTNFRKWEgwMmNtMUQ5dG1zTzVFY3J1RmdHMk92d2pNYkoxaTBmdE9oaV9aUFdLc0tPdVNqRmNGTlpvS3hQSE5LaDdGbzJkVFdNNXNoSlJyZE1mQQ?oc=5",
-      "tag": "GEOPOLITICS"
-    },
-    {
-      "time": "Mon 4:20 AM ET",
-      "source": "Google News",
-      "title": "India’s next growth story must be its stock market - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHZXTUVNa0Z0SGs3Yl9sTldZeFBLeko0ZExHNnJaZHZXYXhfaE1iTDFYMmhzSXNITTQ2eGlmTmF1Q0JxNVVPMGhJVkwzMXlVTWd5SEtLWWZsLVJlVWV0WlFiQlNwakg0YUF3Z2FHRG1oQ29ZRTNPeGZCMVNjMncyYkdEVkt3RF92QzBTRjZMdUJIUkZHbGQwWTdlNnk4Z9IBowFBVV95cUxPczZmZThRZ1lCU0x3X2hidzNuNWZRcW9BNEM3TXZxZmRWenJ0VXlONGd4UEdKVUdxT002MXgxUGZFSDBlOHlvOXdvN2s1em81RFYtUTF4U2VhaDUwUXM2NkFtY2FMOUhJdm5HWDhaT3AxYmlHX25fZU8xaTg0aERDNlVyUnUwSUR3NWtwbjBXRFQ3WGd6LWpCQ3ZJb2w5TWtRVThB?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:20 AM ET",
-      "source": "Google News",
-      "title": "SpaceX Stock Fell to Its Lowest Level Since August After the Midterms. Is It Time to Buy? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkZWZ25qRFNwdGpId2FtZUZRd29URjdqeG05UDVWR2ZpdUh0dlQ3NHZ0b1J4blZlSzkxRnB2SnlaYW9EMU8tSGF0WlFjZWVnQnJmNVRwdEVEcnZlTGp3NkxfZm9oTWxhd0E5WEwyU1E0Q1hrTFpPZ3RITDFIS19BMGxfMkhGeFVwaHpKamdNZ1Z0Zko0X1pJQWdRSQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:15 AM ET",
-      "source": "Google News",
-      "title": "TSLA Stock Slips Overnight As Cybertruck Makes Way For Cybercab — Terafab Reportedly Eyes 1M Wafers Monthly - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVdMa2IwLVZyVm9uNWMzdGM2VURJSXhFbUlxV1pJUVhEaVZqcmdVekZ1VllhNjBlMkNzNllJWWd4STgyQzJhaEJwX2R6Q2hHY0NWb1JMVVdxMlI5eXpibDhVREFMY2pLZFdaLUNRR2VZR3czT2R3aDJ5cU4ydWRydDhJTWlvNXptaU10U1ZXaFczY1VQZXdtOFR5SHBPZHJHak5tcA?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Mon 4:15 AM ET",
-      "source": "Google News",
-      "title": "AI rout set off market alarm signals. Here’s what traders are watching By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJkS1RQMGw5OTc0aXFmanBmZnlaa3FnVjVhMzhCZC1mTnBlRXdKZ2ZpWk5kQ1JoaV9pVjFPUHpXbVdvTVVCVElkQjFFOGFoRG9FblNhRmw5d0VNR0tJVE5TVHN4bFZMdDdtT3pjWGJxNm1sYU5XQnlId2FhZzc5S0NxQnljSElvNU1raHNaVUkyWF9VamFEdGVTYk1qLUxzUi16MUJDUHVqajRkLUFXM1FGLU5xZ21ibUloNg?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Mon 4:13 AM ET",
-      "source": "Google News",
-      "title": "WMS Q3 CY2026 deep dive: guidance reset as market adjusts to slower demand and input costs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHdBRElyR0xxbUxpT0ZqQ2gxbkwzYU83OHhhc2p2VHE2dTNsWENsNC0tN1kwQ0gybXl3My1zUldDMW1WUVYzVVdha3hTbWVrX3dieUh6SEJrUkxJbjFkbFA1NU5ZOFZOMHpHQjdxTmI1VDR5OGNueEpORU91NjlOZkR1VXRLcm9wUUVITmlXNmxBQQ?oc=5",
+      "time": "Tue 3:54 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Mobix Labs reports Preliminary Q4 results",
+      "url": "https://seekingalpha.com/news/4670064-mobix-labs-reports-preliminary-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Mon 4:12 AM ET",
+      "time": "Tue 3:52 PM ET",
+      "source": "FT",
+      "title": "Weil partners approve plan to shut down law firm",
+      "url": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:52 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Elmet outlines 2031 full run rate as Department of War-backed expansion advances",
+      "url": "https://seekingalpha.com/news/4670063-elmet-outlines-2031-full-run-rate-as-department-of-war-backed-expansion-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "FED"
+    },
+    {
+      "time": "Tue 3:52 PM ET",
+      "source": "MarketWatch",
+      "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "tag": "FED"
+    },
+    {
+      "time": "Tue 3:51 PM ET",
+      "source": "CNBC",
+      "title": "Traders bet on a pop for Anthropic's historic IPO",
+      "url": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Tue 3:51 PM ET",
+      "source": "CNBC",
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "tag": "FED"
+    },
+    {
+      "time": "Tue 3:50 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Alpha Pro Tech GAAP EPS of $0.19, revenue of $16.6M",
+      "url": "https://seekingalpha.com/news/4670061-alpha-pro-tech-gaap-eps-of-0_19-revenue-of-16_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Tue 3:50 PM ET",
       "source": "Google News",
-      "title": "Gold Chuffed, Stocks Stuffed - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiTERHVkE0OFczOGJZWGtSay1ZTDJIVE9oS3VtZHFxd3luTGJ4ODBfa2RuSlhiLXZUUHNtMnZfRW1Gc05JeVZscXVONlpaOU03TWtGSHlydmxaRjlxbGdDZE1tT0VkYl9sYU1ndkRwNTduWHNyTU12a2p3UWk?oc=5",
-      "tag": "ENERGY"
+      "title": "3 Ways to Protect Your Portfolio After the S&P 500's Worst Day Since April 2025 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUF9md0pPak1ob3lFQXUtREI3ajJBR2xpc09pbEJFZzV2ZjVxcWVTeXR6Vjd4ME9JY3dIVUdPcmxQWlJhNWY1czdkNnBuZnNySjA4Y0pSaUcxRkIyZlRicjRPdDRBXzRLOXZEQkdGdXp3dGhLaER1YnRVa3FlSk5FT0RxUmQ2eE11QWdONHNfS2d0R1Iyd3c?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:49 PM ET",
+      "source": "Google News",
+      "title": "Opinion | Wall Street is becoming the world’s stock market - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBuN0lUX2VwNHZKbGNzNml5LWY4TllER2ZNVGFERDBhNVZHS2tIRzJfaGpsSlRncFl5WEFQMERwd3d3c005YUx1NEVocExLWjFHMFcwY1JfUjFPV0dYQUtxUWhoX2NybklLbmJ5VTBhYlNyd1ZaSTEwWU5iRXlYVml0QlhDWktOQzBtUUpVaW5HQmVmWWNWWGtn?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:47 PM ET",
+      "source": "MarketWatch",
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Tue 3:46 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Syria considers Saudi pact troop deployment to guard border from Houthis - report",
+      "url": "https://seekingalpha.com/news/4670056-syria-considers-saudi-pact-troop-deployment-to-guard-border-from-houthis-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "GEOPOLITICS"
+    },
+    {
+      "time": "Tue 3:45 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Lumen rallies from 52-week low, with insider buying in focus",
+      "url": "https://seekingalpha.com/news/4670038-lumen-rallies-from-52-week-low-with-insider-buying-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Tue 3:43 PM ET",
+      "source": "CNBC",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Tue 3:42 PM ET",
+      "source": "Google News",
+      "title": "Why the stock market isn’t more rattled by higher interest rates 💪 - TKer by Sam Ro",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwaW5Rb09RRHZNUElod0FPVXItMGVwU29JTF9LLXpPNlFHMk0tQUlQbl9jbkRSbjQ2NzhuWktFWEJHVjhBOGxlQi1XTXRGdDZIdXZUS2JNbTBtT2VNMmlfd05XYjlBZGEyb2JSdQ?oc=5",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "KKR",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "CEG",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "B",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "OXY",
+      "ticker": "PBR",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "FERG",
+      "ticker": "PBR.A",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "TDG",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "SKYD",
+      "ticker": "SE",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "ALC",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "TTWO",
+      "ticker": "VOD",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "EC",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "IX",
+      "ticker": "VG",
       "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 24.31, 10Y 4.855%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: VIVK +115.54% on 98,560,863 volume — check its news catalyst before touching it.",
-    "Reporting before the open: KKR, CEG, B, FERG, IX — expect gap moves and sympathy reads in their sectors.",
-    "Overnight risk headline: Gulf stocks gain on Trump's signal against renewed Iran strikes - Reuters"
+    "Risk snapshot at sweep: VIX 20.10, 10Y 4.983%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: PEPG +133.68% on 35,616,750 volume — check its news catalyst before touching it.",
+    "Reporting before the open: TDG, SE, VOD, VG — expect gap moves and sympathy reads in their sectors.",
+    "Overnight risk headline: Syria considers Saudi pact troop deployment to guard border from Houthis - report"
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
