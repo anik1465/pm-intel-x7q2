@@ -1,354 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 12, 2026 · 12:28 PM PT",
-  "tradingDate": "Thu Nov 12",
+  "generatedAtPT": "Nov 13, 2026 · 12:03 PM PT",
+  "tradingDate": "Fri Nov 13",
   "futures": [
     {
       "label": "VIX",
-      "value": "18.72",
-      "chg": "+7.03%"
+      "value": "19.00",
+      "chg": "+1.60%"
     },
     {
       "label": "US 10Y",
-      "value": "5.109%",
-      "chg": "+2.4053%"
+      "value": "5.149%",
+      "chg": "+0.9014%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "88.92",
-      "chg": "+2.76%"
+      "value": "88.71",
+      "chg": "-0.03%"
     },
     {
       "label": "GOLD",
-      "value": "3,888.00",
-      "chg": "-2.81%"
+      "value": "3,877.00",
+      "chg": "-0.21%"
     },
     {
       "label": "DXY",
-      "value": "103.178",
-      "chg": "+0.26%"
+      "value": "103.40",
+      "chg": "+0.22%"
     },
     {
       "label": "BITCOIN",
-      "value": "71,413.42",
-      "chg": "-4.15%"
+      "value": "68,950.01",
+      "chg": "-3.46%"
     }
   ],
   "movers": [
     {
-      "ticker": "PLCE",
-      "price": "1.01",
-      "chg": "+408.82%",
-      "volume": "150,441,587",
-      "catalyst": "One reason the Children's Place is going bankrupt? Not enough children.",
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0",
-      "spark": [
-        0.32,
-        0.19,
-        0.18,
-        0.2,
-        0.47
-      ]
-    },
-    {
-      "ticker": "POAS",
-      "price": "2.71",
-      "chg": "+200.88%",
-      "volume": "41,641,683",
-      "catalyst": "Phaos Technology provides required going concern disclosure",
+      "ticker": "FCUV",
+      "price": "6.30",
+      "chg": "+110.00%",
+      "volume": "34,588,869",
+      "catalyst": "Focus Universal trading resumes",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/phaos-technology-provides-required-going-concern-disclosure-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/focus-universal-trading-resumes-thefly-news-6",
       "spark": [
-        0.73,
-        0.75,
-        0.77,
-        0.9,
-        2.81
+        2.8,
+        2.93,
+        3.05,
+        3.0,
+        6.89
       ]
     },
     {
-      "ticker": "PARA",
-      "price": "0.13",
-      "chg": "+76.88%",
-      "volume": "457,047,404",
-      "catalyst": "Parabolic Technologies, Inc. Announces $11.6 Million Debt Paydown Eliminating All Secured Debt",
+      "ticker": "ZBAO",
+      "price": "0.42",
+      "chg": "+100.62%",
+      "volume": "152,731,468",
+      "catalyst": "Zhibao Technology Inc. Reports Fiscal Year 2026 Financial Results and Files Annual Report on Form 20-F",
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/323841/Zhibao-Technology-Inc.-Reports-Fiscal-Year-2026-Financial-Results-and-Files-Annual-Report-on-Form-20F",
+      "spark": [
+        0.23,
+        0.19,
+        0.22,
+        0.21,
+        0.24
+      ]
+    },
+    {
+      "ticker": "ONFO",
+      "price": "0.59",
+      "chg": "+73.05%",
+      "volume": "16,050,938",
+      "catalyst": "Onfolio Holdings Sets Third Quarter 2026 Earnings Call for November 17, 2026, at 8:00 a.m. ET",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/10/3399524/0/en/parabolic-technologies-inc-announces-11-6-million-debt-paydown-eliminating-all-secured-debt.html",
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3400758/0/en/onfolio-holdings-sets-third-quarter-2026-earnings-call-for-november-17-2026-at-8-00-a-m-et.html",
       "spark": [
-        0.11,
-        0.09,
-        0.08,
-        0.07,
-        0.1
+        0.37,
+        0.36,
+        0.35,
+        0.34,
+        0.75
       ]
     },
     {
-      "ticker": "ICMB",
-      "price": "1.02",
-      "chg": "+65.02%",
-      "volume": "35,531,867",
-      "catalyst": "Investcorp Credit Management trading resumes",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/investcorp-credit-management-trading-resumes-thefly-news",
-      "spark": [
-        0.61,
-        0.61,
-        0.6,
-        0.62,
-        1.1
-      ]
-    },
-    {
-      "ticker": "CENN",
-      "price": "0.20",
-      "chg": "+37.32%",
-      "volume": "140,480,873",
-      "catalyst": "Cenntro Electric delivers electric trucks under government incentive programs",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/cenntro-electric-delivers-electric-trucks-under-government-incentive-programs-thefly-news",
-      "spark": [
-        0.16,
-        0.15,
-        0.12,
-        0.15,
-        0.23
-      ]
-    },
-    {
-      "ticker": "DBGI",
-      "price": "0.20",
-      "chg": "+34.77%",
-      "volume": "116,442,181",
-      "catalyst": "Digital Brands announces decision to maintain public listing",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/digital-brands-announces-decision-to-maintain-public-listing-thefly-news",
-      "spark": [
-        0.28,
-        0.19,
-        0.16,
-        0.15,
-        0.21
-      ]
-    },
-    {
-      "ticker": "MFI",
-      "price": "7.58",
-      "chg": "+22.26%",
-      "volume": "200",
-      "catalyst": "mF International Limited trading halted, volatility trading pause",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/mf-international-limited-trading-halted-volatility-trading-pause-thefly-news-11",
-      "spark": [
-        5.1,
-        5.35,
-        5.72,
-        6.2,
-        7.2
-      ]
-    },
-    {
-      "ticker": "LUNR",
-      "price": "14.58",
-      "chg": "+19.70%",
-      "volume": "3,021,341",
-      "catalyst": "Intuitive Machines rises 16.2%",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/intuitive-machines-rises-16-2-thefly-news-2",
-      "spark": [
-        10.47,
-        12.04,
-        11.81,
-        12.18,
-        13.7
-      ]
-    },
-    {
-      "ticker": "AVEX",
-      "price": "14.18",
-      "chg": "+16.86%",
-      "volume": "242,796",
-      "catalyst": "Aevex Is More Than a Play on the War in Ukraine. The Ailing Stock Sees Better Days Ahead.",
+      "ticker": "MOD",
+      "price": "141.72",
+      "chg": "+33.57%",
+      "volume": "623,320",
+      "catalyst": "Modine Stock On Pace for Best Day in 6 Years as Samsung Eyes Data-Center Cooling Provider",
       "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/aevex-earnings-stock-price-20025f46",
+      "url": "https://www.barrons.com/articles/modine-stock-samsung-ai-data-centers-d99df226",
       "spark": [
-        10.2,
-        11.56,
-        11.6,
-        12.13,
-        14.11
+        106.15,
+        103.07,
+        106.67,
+        106.1,
+        140.0
       ]
     },
     {
-      "ticker": "CURI",
-      "price": "2.74",
-      "chg": "+15.61%",
-      "volume": "303,454",
-      "catalyst": "CuriosityStream reports Q3 EPS 8c, consensus 3c",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/curiositystream-reports-q3-eps-8c-consensus-3c-thefly-news",
+      "ticker": "SHIM",
+      "price": "3.11",
+      "chg": "+32.69%",
+      "volume": "98,474",
+      "catalyst": "Shimmick Corporation Announces Third Quarter 2026 Results",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/11/12/3402185/0/en/shimmick-corporation-announces-third-quarter-2026-results.html",
+      "spark": [
+        2.33,
+        2.29,
+        2.27,
+        2.34,
+        2.93
+      ]
+    },
+    {
+      "ticker": "VTSI",
+      "price": "3.46",
+      "chg": "+32.06%",
+      "volume": "1,185,368",
+      "catalyst": "VirTra Reports Third Quarter and Nine Months 2026 Financial Results",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/11/12/3402188/34563/en/virtra-reports-third-quarter-and-nine-months-2026-financial-results.html",
       "spark": [
         2.51,
         2.5,
-        2.41,
-        2.37,
-        2.88
+        2.47,
+        2.62,
+        3.85
+      ]
+    },
+    {
+      "ticker": "MRLN",
+      "price": "1.27",
+      "chg": "+31.69%",
+      "volume": "12,366,332",
+      "catalyst": "Merlin price target lowered to $4 from $10 at Roth Capital",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/merlin-price-target-lowered-to-4-from-10-at-roth-capital-thefly-news",
+      "spark": [
+        0.99,
+        0.95,
+        1.01,
+        0.96,
+        1.26
+      ]
+    },
+    {
+      "ticker": "SHFS",
+      "price": "0.03",
+      "chg": "+27.56%",
+      "volume": "461,178,048",
+      "catalyst": "Safe Harbor CEO Issues Letter to Shareholders Addressing Capital Structure, Nasdaq Listing and Proposed Opifex Transaction",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/11/09/3398177/0/en/safe-harbor-ceo-issues-letter-to-shareholders-addressing-capital-structure-nasdaq-listing-and-proposed-opifex-transaction.html",
+      "spark": [
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.03
+      ]
+    },
+    {
+      "ticker": "LFTO",
+      "price": "23.85",
+      "chg": "+27.47%",
+      "volume": "229,217",
+      "catalyst": "Liftoff Mobile rises 25.0%",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/liftoff-mobile-rises-25-0-thefly-news",
+      "spark": [
+        18.71,
+        18.24,
+        18.55,
+        18.71,
+        24.1
+      ]
+    },
+    {
+      "ticker": "NMAX",
+      "price": "9.08",
+      "chg": "+24.49%",
+      "volume": "74,003",
+      "catalyst": "Newsmax upgraded to Buy from Hold at Freedom Capital",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/newsmax-upgraded-to-buy-from-hold-at-freedom-capital-thefly-news",
+      "spark": [
+        7.77,
+        7.55,
+        7.74,
+        7.29,
+        9.25
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Thu 4:26 PM ET",
+      "time": "Fri 4:03 PM ET",
+      "source": "Seeking Alpha",
+      "title": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M",
+      "url": "https://seekingalpha.com/news/4672608-healthwarehouse-com-gaap-eps-of-0_01-revenue-of-6_49m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Fri 4:00 PM ET",
       "source": "CNBC",
-      "title": "Trump says ‘we don’t need a deal with Iran’",
-      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-      "tag": "GEOPOLITICS"
+      "title": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+      "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+      "tag": "DEALS"
     },
     {
-      "time": "Thu 4:25 PM ET",
-      "source": "Seeking Alpha",
-      "title": "ATI targets more than double FCF by 2029; check new growth goals",
-      "url": "https://seekingalpha.com/news/4671717-ati-targets-more-than-double-fcf-by-2029-check-new-growth-goals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:22 PM ET",
-      "source": "Seeking Alpha",
-      "title": "SpaceX, Tesla are said to move toward merger as soon as December",
-      "url": "https://seekingalpha.com/news/4671718-spacex-tesla-are-said-to-move-toward-merger-as-soon-as-december?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "TECH"
-    },
-    {
-      "time": "Thu 4:17 PM ET",
+      "time": "Fri 4:00 PM ET",
       "source": "MarketWatch",
-      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 4:11 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Alvotech targets $650M-$700M revenue and $180M-$220M EBITDA as it expects Q4 to be “the strongest” in company history",
-      "url": "https://seekingalpha.com/news/4671715-alvotech-targets-650m-700m-revenue-and-180m-220m-ebitda-as-it-expects-q4-to-be-the-strongest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
+      "time": "Fri 3:59 PM ET",
+      "source": "CNBC",
+      "title": "Hassett denies report he's leaving White House: 'Not true'",
+      "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "tag": "MARKETS"
     },
     {
-      "time": "Thu 4:10 PM ET",
-      "source": "CNBC",
-      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "time": "Fri 3:58 PM ET",
+      "source": "Benzinga",
+      "title": "QUICK SPARK: Broadcom Scores Historic Win Over Nvidia as AVGO-NVDA Gap Explodes",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63264147/broadcom-stock-beating-nvidia-record-week-jensen-huang",
       "tag": "TECH"
     },
     {
-      "time": "Thu 4:08 PM ET",
-      "source": "Seeking Alpha",
-      "title": "HSBC names 11 Buy-rated stocks to scoop up after recent retreat",
-      "url": "https://seekingalpha.com/news/4671711-hsbc-names-11-buy-rated-stocks-to-scoop-up-after-recent-retreat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:07 PM ET",
-      "source": "Google News",
-      "title": "Why Broadcom Stock Rallied Thursday Morning - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFZWQmJnUkNJZ2I2SWZuR0VEZlRwMTR1dHl5N2hkSEpXSFJFMkc0QTZHOHJtSjVnMTVlNjJMY0pZbGZaaXJIajlZRGQ2RlB5eFR1VEF6RWlXX2ZPTVJxVUtveEpNR044Vm1qVm4xaXdWYkZPck85YVFJMXVGTG1nZnRFNm56cVEtcDVRVnhoa2VJcFJIMkZsaDBadEp5MU05cWc?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:05 PM ET",
-      "source": "Google News",
-      "title": "AppLovin Just Ripped 47% in a Month: Is It Too Late to Buy APP Stock Now? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGR3STN5djVjRm5BTm1JX1E3M1VIR2ZCQXFUUjZocTlWLUVWYzdjY3JDb0ZvNlBmZWlDMkRuXy13SHlsQ0dwcDYzbF9lZkgzRzJBdzNybGFIZ3JNcjk0bTBzRDZGOF9nRlZZTGFUSEhxQ1p4MzNpSm1wanhWWjBOci1ZWlFIdjNTMW41ajluUXNTbElGOHBzQTlB?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:04 PM ET",
-      "source": "Google News",
-      "title": "Oracle Is Down 34% in 2026: Is ORCL Stock Dead Money or Due for a Bounce? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1hWXk4ZmFxenFKS2d1aHV4RDJMVnhENTVSc1dPdHlCdHRZcmVwYzl1Z05xOF9jNkc5Qlc3QXplN05ZTDNZQmV5amdxaGJPUGJlRzBscVRmbHp5ZUstVm9ZWEFpNTRLM1NVVmt4WnhLSU5HTjZwc0NqVHBZOXdDRk91YW96WUZ0ckx3VjE4NHNadFU?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:03 PM ET",
+      "time": "Fri 3:54 PM ET",
       "source": "CNBC",
-      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:02 PM ET",
-      "source": "Google News",
-      "title": "NuScale Power Just Dropped 25% in a Month: Nuke Your Shares Now, or Hunker Down and Hold? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTFUNTY0SzB6U2ozUGlnMklVbzl3SWJlVXJXT01nd190NFVfeHR4cUk4Rm9PN25hRjRaTWNyaFNyeUVjSTlPVHVPQThzckhyQVprb01fODIxQndybTFRNVVmemI4UlJTYUtFOEVycGVHUDN3cnk5bTV5VkZIOTVnSWtucXFiWDg1alFBT1N5bmdWcmo1THJqZWVn?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 4:00 PM ET",
-      "source": "CNBC",
-      "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-      "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
       "tag": "TECH"
     },
     {
-      "time": "Thu 4:00 PM ET",
-      "source": "Seeking Alpha",
-      "title": "FlyExclusive expects Q4 revenue to exceed $115M while targeting a 20% utilization lift over the next 12 months",
-      "url": "https://seekingalpha.com/news/4671713-flyexclusive-expects-q4-revenue-to-exceed-115m-while-targeting-a-20-percent-utilization-lift?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Fri 3:53 PM ET",
+      "source": "CNBC",
+      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Fri 3:52 PM ET",
+      "source": "Benzinga",
+      "title": "Cerebras Stock Jumps on Q3 Cloud Revenue Up 265%, Raised Outlook (CORRECTED)",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63224006/cerebras-stock-jumps-on-q3-cloud-revenue-up-265-despite-missed-guidance",
       "tag": "EARNINGS"
     },
     {
-      "time": "Thu 4:00 PM ET",
+      "time": "Fri 3:51 PM ET",
       "source": "Seeking Alpha",
-      "title": "Sylogist targets partner certifications by February '27 while aiming to reset project services margins through 2027",
-      "url": "https://seekingalpha.com/news/4671712-sylogist-targets-partner-certifications-by-february-27-while-aiming-to-reset-project-services?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg",
+      "url": "https://seekingalpha.com/news/4672599-astrazeneca-eliminates-600-respiratory-and-immunology-sales-reps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 3:46 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M",
+      "url": "https://seekingalpha.com/news/4672605-suncrete-inc-gaap-eps-of-0_01-misses-by-0_06-revenue-of-140_96m-misses-by-5_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Fri 3:45 PM ET",
+      "source": "Google News",
+      "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE5sVlJKWVBFQ2wwcE9HbUl6R2lwSWdnTURUWGNwc2ROLXNhcndDeEkyeE9FM19GdGJwTnoxZ091aF9lVTdPODYwVzFlMW14Si1fUzRqbENaUjNWeWprZXMtS1k5Mlhpd0dFZlVUMnNRVVltR2ViVXk2YVYwUGRCZnBxN2t3Yy1Pa3p3Y2hrYWY4OEQ1OVk5SFdVYjc2LUpGSERBVjZGN08?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 3:45 PM ET",
+      "source": "CNBC",
+      "title": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
+      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Fri 3:44 PM ET",
+      "source": "Google News",
+      "title": "D.A. Davidson Just Cut Its Nebius Target From $250 to $125 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWM2Z3NPSl9zeFUweGgxN0otX1FvVkpyQjd3MExHQTdEaUhKMG9lSERKUThvVDFtajZ1VzhJQTllWGNDRlJyd1JyN01XeTM2LXYwSVZ5VWc0aFdMNTk1TjB0aXNCNVVLeHlxLWwwcEg2U1dUcEtVX2VlcWs4TUZoZmNrUHBnNmVFb1kteEQ5SU95OVVrMkE?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 3:44 PM ET",
+      "source": "Google News",
+      "title": "Modine Stock Just Soared 29% on a Report That Samsung Wants to Buy It. Is It Too Late to Buy? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGZtMVFwbTZmcVIzRW5BZnV2eC1pN3FuYXI5OWRuZG5Gc1JPOVQ5Xzg3aGlYRWhuS2JjTUxOMlpZNU1qVGtrTGJpMWNsa25kZTFkMkdlT0JyeVZpNUZfQWp3MW5vUXUzeDdZWFdvNFpxXzh5bjRPVjlZRDBueldaWTV6NDBFWGlaU0J4UXNMQjEwdFFDaXhob3JveFJienNUX3d3aGdxeXVIRF82RllQN3JuMVp3ejNUYndIQXNlaXpXVWs5RHF0MmhiQ1hoOHZnXzhtaDFZRkZBZVR2aGF3SlNHN004RXNUV01sSg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 3:42 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Ecolab upgraded at Wells Fargo, touting CoolIT and Ovivo acquisitions",
+      "url": "https://seekingalpha.com/news/4672596-ecolab-upgraded-at-wells-fargo-touting-coolit-and-ovivo-acquisitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "CSCO",
-      "when": "AMC",
+      "ticker": "MUFG",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "AMAT",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "BN",
+      "ticker": "SMFG",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "NU",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "NBIS",
+      "ticker": "MFG",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "CBRS",
-      "when": "AMC",
+      "ticker": "KB",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "ASND",
-      "when": "BMO",
+      "ticker": "WF",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "QXO",
+      "ticker": "FRHC",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "KT",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "LPL",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 18.72, 10Y 5.109%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: PLCE +408.82% on 150,441,587 volume — check its news catalyst before touching it.",
-    "Reporting before the open: BN, NBIS, ASND — expect gap moves and sympathy reads in their sectors.",
-    "Overnight risk headline: Trump says ‘we don’t need a deal with Iran’"
+    "Risk snapshot at sweep: VIX 19.00, 10Y 5.149%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: FCUV +110.00% on 34,588,869 volume — check its news catalyst before touching it.",
+    "Reporting before the open: SMFG, MFG — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
