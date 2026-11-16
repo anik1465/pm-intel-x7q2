@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 13, 2026 · 12:03 PM PT",
-  "tradingDate": "Fri Nov 13",
+  "generatedAtPT": "Nov 16, 2026 · 12:36 AM PT",
+  "tradingDate": "Mon Nov 16",
   "futures": [
     {
       "label": "VIX",
-      "value": "19.00",
-      "chg": "+1.60%"
+      "value": "20.06",
+      "chg": "+3.94%"
     },
     {
       "label": "US 10Y",
-      "value": "5.149%",
-      "chg": "+0.9014%"
+      "value": "5.139%",
+      "chg": "-0.2717%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "88.71",
-      "chg": "-0.03%"
+      "value": "89.23",
+      "chg": "+0.76%"
     },
     {
       "label": "GOLD",
-      "value": "3,877.00",
-      "chg": "-0.21%"
+      "value": "3,861.90",
+      "chg": "-0.63%"
     },
     {
       "label": "DXY",
-      "value": "103.40",
-      "chg": "+0.22%"
+      "value": "103.439",
+      "chg": "+0.03%"
     },
     {
       "label": "BITCOIN",
-      "value": "68,950.01",
-      "chg": "-3.46%"
+      "value": "64,516.89",
+      "chg": "-0.70%"
     }
   ],
   "movers": [
@@ -47,7 +47,7 @@ window.BRIEFING = {
         2.93,
         3.05,
         3.0,
-        6.89
+        7.08
       ]
     },
     {
@@ -63,7 +63,7 @@ window.BRIEFING = {
         0.19,
         0.22,
         0.21,
-        0.24
+        0.28
       ]
     },
     {
@@ -71,15 +71,15 @@ window.BRIEFING = {
       "price": "0.59",
       "chg": "+73.05%",
       "volume": "16,050,938",
-      "catalyst": "Onfolio Holdings Sets Third Quarter 2026 Earnings Call for November 17, 2026, at 8:00 a.m. ET",
+      "catalyst": "Onfolio Provides Corporate Update: Stockholders' Equity Above Nasdaq Minimum, No Convertible Notes Outstanding",
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/11/3400758/0/en/onfolio-holdings-sets-third-quarter-2026-earnings-call-for-november-17-2026-at-8-00-a-m-et.html",
+      "url": "https://www.globenewswire.com/news-release/2026/11/13/3402629/0/en/onfolio-provides-corporate-update-stockholders-equity-above-nasdaq-minimum-no-convertible-notes-outstanding.html",
       "spark": [
         0.37,
         0.36,
         0.35,
         0.34,
-        0.75
+        0.77
       ]
     },
     {
@@ -87,15 +87,15 @@ window.BRIEFING = {
       "price": "141.72",
       "chg": "+33.57%",
       "volume": "623,320",
-      "catalyst": "Modine Stock On Pace for Best Day in 6 Years as Samsung Eyes Data-Center Cooling Provider",
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/modine-stock-samsung-ai-data-centers-d99df226",
+      "catalyst": "Why Is Modine Stock (MOD) Up 30% Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/why-is-modine-stock-mod-up-30-today",
       "spark": [
         106.15,
         103.07,
         106.67,
         106.1,
-        140.0
+        135.66
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         2.29,
         2.27,
         2.34,
-        2.93
+        3.25
       ]
     },
     {
@@ -127,7 +127,7 @@ window.BRIEFING = {
         2.5,
         2.47,
         2.62,
-        3.85
+        4.24
       ]
     },
     {
@@ -143,7 +143,7 @@ window.BRIEFING = {
         0.95,
         1.01,
         0.96,
-        1.26
+        1.13
       ]
     },
     {
@@ -151,9 +151,9 @@ window.BRIEFING = {
       "price": "0.03",
       "chg": "+27.56%",
       "volume": "461,178,048",
-      "catalyst": "Safe Harbor CEO Issues Letter to Shareholders Addressing Capital Structure, Nasdaq Listing and Proposed Opifex Transaction",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/11/09/3398177/0/en/safe-harbor-ceo-issues-letter-to-shareholders-addressing-capital-structure-nasdaq-listing-and-proposed-opifex-transaction.html",
+      "catalyst": "SHF Holdings registers to sell 115.71M shares of Class A common for holders",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/shf-holdings-registers-to-sell-115-71m-shares-of-class-a-common-for-holders-thefly-news",
       "spark": [
         0.02,
         0.02,
@@ -175,7 +175,7 @@ window.BRIEFING = {
         18.24,
         18.55,
         18.71,
-        24.1
+        24.44
       ]
     },
     {
@@ -191,163 +191,164 @@ window.BRIEFING = {
         7.55,
         7.74,
         7.29,
-        9.25
+        9.58
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Fri 4:03 PM ET",
-      "source": "Seeking Alpha",
-      "title": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M",
-      "url": "https://seekingalpha.com/news/4672608-healthwarehouse-com-gaap-eps-of-0_01-revenue-of-6_49m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
+      "time": "Mon 4:33 AM ET",
+      "source": "Google News",
+      "title": "European shares hover near record highs; tech stocks lag By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE5IUm5NZ2RNdFJwTUtHUzYwWGlPdTdpZl9tMWM5Sm9ZRk5LNkRlLWQ1QzVzbVBXY2JkSGJPQ1k0UC1vSzJxRWlWZE11ZFpWRjUwY1lFczZod3BUUXpnQXptazd2UWh0UElrS18zRkJhZXE2dDlXQm5nbDlRMDkzWWM1V1EtTFc4SG42VWxzOU1iZFVodHBWNVA2aW4wSHZDYldSMVdTZ0dNdGlfM0Z2aUx3?oc=5",
+      "tag": "MARKETS"
     },
     {
-      "time": "Fri 4:00 PM ET",
-      "source": "CNBC",
-      "title": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
-      "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+      "time": "Mon 4:32 AM ET",
+      "source": "Google News",
+      "title": "Synthaverse stock surges 7.6% on recapitalisation deal - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNE5YWkRaejdwenFSU21MLWhkNExFWTd3eDJ5WmtQSmE0WnViQlpPbmlaZWZtV3JRcUdyUF91Y1BCaXlLaXhzbVlRUS1ZaVdpOTcxT1dzWFMtZF9MeHg0R2FhN3U1VnpQTFZBSndGQ1dBNlV1Z05jUVBod0o0NFFEWWtnOTd1Tnhid1VhZF9fbDVNV0tIdVJEbVdKNTFya1YtSUgwS3hETXdYTmFJSU0yRmZXT0M?oc=5",
       "tag": "DEALS"
     },
     {
-      "time": "Fri 4:00 PM ET",
-      "source": "MarketWatch",
-      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "time": "Mon 4:30 AM ET",
+      "source": "Google News",
+      "title": "Festi hf.: Transactions in relation to a share repurchase programme - week 46 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQkZiZ3JkSTBxanl0MXhhLWNjb2xCRDhyMWZYaUxLOHVrc2VVbkRQV1FOT0ZmLVpFSVFFaHk1ZmlZUk15QUNGQmpzT2hqaW5UMV9PY0NpcVpCaEFRZkxyUXN6V1JlTVhmWE01VGQ3S0Y3WFFiTDVwS2tGYlJPQ3dMcWlfb25DR2YwN1BURXc0S0N6U1RNMGtfMkFBckZBMHpJcEJaSVlDQ1dLdWQxZWtweVA3R2c5ZllCOGNvem9fYktZN1dT?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 3:59 PM ET",
-      "source": "CNBC",
-      "title": "Hassett denies report he's leaving White House: 'Not true'",
-      "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "time": "Mon 4:27 AM ET",
+      "source": "Google News",
+      "title": "European shares hover near record highs; tech stocks lag - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUV3enpSMlNnTGx5TzMtV0ZlcGR3ekRQdVFLWGYzS0IyMGtMWGFGZzRNdnp6azlmenVpeXAwZEpMU0NUZnNBZVZLWHlQM1c5TVVqSzRLdDg5WllaWUVfQklDUHNncnV5QXdNcmdYd0xIaU9rdy1ScmhieFRiM3U2TGlxUnR6SV9ZWkR3WW0tS0hlaU5SMkdGZWE2dnJraWVuQ0oybkl1XzFrQkMx?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 3:58 PM ET",
-      "source": "Benzinga",
-      "title": "QUICK SPARK: Broadcom Scores Historic Win Over Nvidia as AVGO-NVDA Gap Explodes",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63264147/broadcom-stock-beating-nvidia-record-week-jensen-huang",
+      "time": "Mon 4:26 AM ET",
+      "source": "Google News",
+      "title": "(ZWH) Stock Evaluation Report (ZWH:CA) - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOG55NkR1cU9wWlJDd1ZhSXA3VEJBQlhYYkdDSTNHVFRQRHRqdjRqNy02VkI2YldZSVphdXJmVDhHVlo2MGxDYzNEbzZpTzNYamZxcldmdUZLQlJRWlZ0dGxObmpTNTZIc1p4TmE2WXlEc2JZYmUxdFFRN0pWMHpoWW5XSFRIY3J4ZTBybzR3?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:23 AM ET",
+      "source": "Google News",
+      "title": "China stocks end near 16-month low as AI hardware selloff deepens - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFVCRTZYSkVBcHUzNmxlOEYwYXRoTXYxaVNBekpkLVU4X3dxSmVwNFZHdDNFSXUwcHZlNVI2TVgwdllqUkhzR21xckdIMlVnV1pZMUJlc2EtT2pSTzZ6OUFxcFBhUHBXc2JPb2RKQ2dQRUxsZ2I3NDRYcEtsUmxPZUFTeHZaR2tjYlQtTGpWOUhYcmJReFdWMUJqbXg3VVBMekhsRU1yb2NVLUVLbmtsWFNHbXpqV3BJOWc?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Fri 3:54 PM ET",
-      "source": "CNBC",
-      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 3:53 PM ET",
-      "source": "CNBC",
-      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 3:52 PM ET",
-      "source": "Benzinga",
-      "title": "Cerebras Stock Jumps on Q3 Cloud Revenue Up 265%, Raised Outlook (CORRECTED)",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63224006/cerebras-stock-jumps-on-q3-cloud-revenue-up-265-despite-missed-guidance",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 3:51 PM ET",
-      "source": "Seeking Alpha",
-      "title": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg",
-      "url": "https://seekingalpha.com/news/4672599-astrazeneca-eliminates-600-respiratory-and-immunology-sales-reps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 3:46 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M",
-      "url": "https://seekingalpha.com/news/4672605-suncrete-inc-gaap-eps-of-0_01-misses-by-0_06-revenue-of-140_96m-misses-by-5_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Fri 3:45 PM ET",
+      "time": "Mon 4:21 AM ET",
       "source": "Google News",
-      "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE5sVlJKWVBFQ2wwcE9HbUl6R2lwSWdnTURUWGNwc2ROLXNhcndDeEkyeE9FM19GdGJwTnoxZ091aF9lVTdPODYwVzFlMW14Si1fUzRqbENaUjNWeWprZXMtS1k5Mlhpd0dFZlVUMnNRVVltR2ViVXk2YVYwUGRCZnBxN2t3Yy1Pa3p3Y2hrYWY4OEQ1OVk5SFdVYjc2LUpGSERBVjZGN08?oc=5",
+      "title": "Novo Nordisk stock rises on CagriSema weight loss data - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTFqdkRhRjZKaVJpVFpxdjR4emk2T0huVlBTbFBSNnBHbXRqdGJQeG5WT1FhZjh2UWZ3ZFlSLU9MYzAwbmlmS2FsX2dwVVNIWGtHano3ZHdfOFRiNGZZMEU4RXRvMFhBckxfa0VfQmJUNGplOWQxR25Eb3BFOUpiYndFX3JOTl9PWTdNN2pQQk5aMlc5WmJpWFQ2VXZqRmlRcm1veVJnVGIyMTNrWXc2SWEyY1Zta28?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 3:45 PM ET",
-      "source": "CNBC",
-      "title": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "tag": "DEALS"
-    },
-    {
-      "time": "Fri 3:44 PM ET",
-      "source": "Google News",
-      "title": "D.A. Davidson Just Cut Its Nebius Target From $250 to $125 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWM2Z3NPSl9zeFUweGgxN0otX1FvVkpyQjd3MExHQTdEaUhKMG9lSERKUThvVDFtajZ1VzhJQTllWGNDRlJyd1JyN01XeTM2LXYwSVZ5VWc0aFdMNTk1TjB0aXNCNVVLeHlxLWwwcEg2U1dUcEtVX2VlcWs4TUZoZmNrUHBnNmVFb1kteEQ5SU95OVVrMkE?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 3:44 PM ET",
-      "source": "Google News",
-      "title": "Modine Stock Just Soared 29% on a Report That Samsung Wants to Buy It. Is It Too Late to Buy? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGZtMVFwbTZmcVIzRW5BZnV2eC1pN3FuYXI5OWRuZG5Gc1JPOVQ5Xzg3aGlYRWhuS2JjTUxOMlpZNU1qVGtrTGJpMWNsa25kZTFkMkdlT0JyeVZpNUZfQWp3MW5vUXUzeDdZWFdvNFpxXzh5bjRPVjlZRDBueldaWTV6NDBFWGlaU0J4UXNMQjEwdFFDaXhob3JveFJienNUX3d3aGdxeXVIRF82RllQN3JuMVp3ejNUYndIQXNlaXpXVWs5RHF0MmhiQ1hoOHZnXzhtaDFZRkZBZVR2aGF3SlNHN004RXNUV01sSg?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 3:42 PM ET",
+      "time": "Mon 4:20 AM ET",
       "source": "Seeking Alpha",
-      "title": "Ecolab upgraded at Wells Fargo, touting CoolIT and Ovivo acquisitions",
-      "url": "https://seekingalpha.com/news/4672596-ecolab-upgraded-at-wells-fargo-touting-coolit-and-ovivo-acquisitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Morgan Stanley 4.875% Prfd Stk, Series L declares $0.3047 dividend",
+      "url": "https://seekingalpha.com/news/4672847-morgan-stanley-4875-prfd-stk-series-l-declares-03047-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:18 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Morgan Stanley Prfd Series I declares $0.4073 dividend",
+      "url": "https://seekingalpha.com/news/4672846-morgan-stanley-prfd-series-i-declares-04073-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:18 AM ET",
+      "source": "Google News",
+      "title": "FTSE 100 today: Stocks edge up as Iran tensions simmer - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTE9NT3FaQ09oaXc1blh5Ti10dXM0bEtLUzBMNmMxRWNPNmd4NjhuYUdjY1hud1VJcE5DUG84TENtckp0RXRyckhSb3dlU0JVWjc5YzdIX3ozTkk2Tml2SWt3SFZDUTVpNjl3dG14ODhwTHZ2S0hwZHpDcU1NVVVYYmNCU1R4Q2xDS2JwVklrd2dRQXFwOVJIUDhqSHBvMXdubzZ2QWFWd1VRS183OGdR?oc=5",
+      "tag": "GEOPOLITICS"
+    },
+    {
+      "time": "Mon 4:18 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Morgan Stanley Dep Shs Rpstg 1/1000th Int Fxd to Flag Prfd Ser F declares $0.4392 dividend",
+      "url": "https://seekingalpha.com/news/4672845-morgan-stanley-dep-shs-rpstg-11000th-int-fxd-to-flag-prfd-ser-f-declares-04392-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:17 AM ET",
+      "source": "Google News",
+      "title": "(XMA) Market Dynamics and Trading Signals (XMA:CA) - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0tUczJabEdaREw5cDQ2NmxRMk84R1ZuRWp0dHRmY1Npb3VCc2VxMG5RTGdMNDMzZjJBLUExYnd4WkpIMFhnOUFtVlJ3aHo2OW5NYWNmUFRCN0NUV2dXUnFYeWtsZEpYY3ZETmdPTnNlM19YR1AwSkRja3RmM1JkcEE3eVdwM3JZa0tMQWUzNFk2c0FSQk9FZ2NrSFdvUQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:17 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Morgan Stanley Deposit Shs Repr 1/1000th Non-Cum Pfd Shs Series K declares $0.3656 dividend",
+      "url": "https://seekingalpha.com/news/4672844-morgan-stanley-deposit-shs-repr-11000th-non-cum-pfd-shs-series-k-declares-03656-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:17 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Morgan Stanley Dep Shs Non-Cum Pfd Registered Shs Series A declares $0.3197 dividend",
+      "url": "https://seekingalpha.com/news/4672843-morgan-stanley-dep-shs-non-cum-pfd-registered-shs-series-a-declares-03197-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 4:16 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Morgan Stanley 6.625 PFD SER Q declares $0.4141 dividend",
+      "url": "https://seekingalpha.com/news/4672842-morgan-stanley-6625-pfd-ser-q-declares-04141-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "MUFG",
+      "ticker": "TCOM",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "SMFG",
+      "ticker": "BIDU",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "MFG",
+      "ticker": "TSN",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "KB",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "BEKE",
+      "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "WF",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "HTHT",
+      "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "FRHC",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "ARMK",
+      "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "KT",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "XPEV",
+      "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "LPL",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "ACM",
+      "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 19.00, 10Y 5.149%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Risk snapshot at sweep: VIX 20.06, 10Y 5.139%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
     "Highest-profile mover: FCUV +110.00% on 34,588,869 volume — check its news catalyst before touching it.",
-    "Reporting before the open: SMFG, MFG — expect gap moves and sympathy reads in their sectors."
+    "Reporting before the open: BIDU, TSN, BEKE, HTHT, ARMK — expect gap moves and sympathy reads in their sectors.",
+    "Overnight risk headline: FTSE 100 today: Stocks edge up as Iran tensions simmer - Investing.com"
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
