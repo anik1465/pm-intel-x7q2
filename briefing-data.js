@@ -1,353 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 18, 2026 · 12:54 PM PT",
-  "tradingDate": "Wed Nov 18",
+  "generatedAtPT": "Nov 19, 2026 · 12:58 PM PT",
+  "tradingDate": "Thu Nov 19",
   "futures": [
     {
       "label": "VIX",
-      "value": "24.44",
-      "chg": "-4.01%"
+      "value": "28.50",
+      "chg": "+16.04%"
     },
     {
       "label": "US 10Y",
-      "value": "5.064%",
-      "chg": "-0.7643%"
+      "value": "5.044%",
+      "chg": "-0.4343%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "83.01",
-      "chg": "-3.49%"
+      "value": "83.90",
+      "chg": "+0.77%"
     },
     {
       "label": "GOLD",
-      "value": "3,734.40",
-      "chg": "-3.36%"
+      "value": "3,665.90",
+      "chg": "-2.03%"
     },
     {
       "label": "DXY",
-      "value": "103.775",
-      "chg": "+0.28%"
+      "value": "103.888",
+      "chg": "+0.02%"
     },
     {
       "label": "BITCOIN",
-      "value": "62,535.08",
-      "chg": "-2.10%"
+      "value": "62,000.10",
+      "chg": "-0.80%"
     }
   ],
   "movers": [
     {
-      "ticker": "SVRE",
-      "price": "0.81",
-      "chg": "+97.44%",
-      "volume": "56,974,264",
-      "catalyst": "SaverOne Unveils New Software-Only Driver Safety Product, Unlocking a Significantly Larger Global Market Opportunity",
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/10/26/3388105/0/en/saverone-unveils-new-software-only-driver-safety-product-unlocking-a-significantly-larger-global-market-opportunity.html",
+      "ticker": "SEAT",
+      "price": "2.57",
+      "chg": "+100.78%",
+      "volume": "65,148,545",
+      "catalyst": "Why Is Penny Stock Vivid Seats (SEAT) Up 92% Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-vivid-seats-seat-up-92-today",
       "spark": [
-        0.56,
-        0.45,
-        0.43,
-        0.41,
-        0.85
+        1.39,
+        1.36,
+        1.25,
+        1.28,
+        1.99
       ]
     },
     {
-      "ticker": "HIHO",
-      "price": "1.88",
-      "chg": "+52.85%",
-      "volume": "34,316,080",
-      "catalyst": "HIGHWAY HOLDINGS RETURNS TO STRONG REVENUE GROWTH AND OPERATING PROFITABILITY IN SECOND QUARTER FISCAL YEAR 2027",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/highway-holdings-returns-to-strong-revenue-growth-and-operating-profitability-in-second-quarter-fiscal-year-2027-302943712.html",
+      "ticker": "VIVS",
+      "price": "0.20",
+      "chg": "+63.33%",
+      "volume": "186,278,615",
+      "catalyst": "Why Is Penny Stock VivoSim Labs (VIVS) Up 120% Today?",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-vivosim-labs-vivs-up-120-today",
       "spark": [
-        0.81,
-        0.79,
-        1.2,
-        1.23,
-        1.64
+        0.13,
+        0.12,
+        0.12,
+        0.12,
+        0.3
       ]
     },
     {
       "ticker": "CHSN",
-      "price": "0.72",
-      "chg": "+52.55%",
-      "volume": "32,982,099",
+      "price": "0.14",
+      "chg": "+40.20%",
+      "volume": "97,426,548",
       "catalyst": "3 Penny Stocks to Watch Today, November 4",
       "source": "tipranks.com",
       "url": "https://www.tipranks.com/news/article/3-penny-stocks-to-watch-today-november-4",
       "spark": [
-        0.6,
         0.56,
         0.52,
         0.47,
-        0.53
+        0.1,
+        0.1
       ]
     },
     {
-      "ticker": "INLF",
-      "price": "0.45",
-      "chg": "+25.08%",
-      "volume": "66,089,702",
-      "catalyst": "Inlif six-axis industrial robot products enter market",
+      "ticker": "INHD",
+      "price": "3.16",
+      "chg": "+37.39%",
+      "volume": "10,561,098",
+      "catalyst": "Inno Holdings Inc trading resumes",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/inlif-six-axis-industrial-robot-products-enter-market-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/inno-holdings-inc-trading-resumes-thefly-news-5",
       "spark": [
-        0.41,
-        0.52,
-        0.39,
-        0.36,
-        0.32
+        2.65,
+        2.4,
+        2.35,
+        2.3,
+        3.12
+      ]
+    },
+    {
+      "ticker": "LGHL",
+      "price": "1.08",
+      "chg": "+25.57%",
+      "volume": "22,902,011",
+      "catalyst": "Lion Group announces reallocation of part of its digital-asset treasury",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/lion-group-announces-reallocation-of-part-of-its-digital-asset-treasury-thefly-news",
+      "spark": [
+        1.44,
+        1.6,
+        1.08,
+        0.86,
+        0.77
+      ]
+    },
+    {
+      "ticker": "IH",
+      "price": "1.00",
+      "chg": "+25.00%",
+      "volume": "385",
+      "catalyst": "iHuman reports Q2 EPS (RMB 0.34) vs. RMB 0.57 last year",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/ihuman-reports-q2-eps-rmb-0-34-vs-rmb-0-57-last-year-thefly-news",
+      "spark": [
+        0.99,
+        1.05,
+        1.0,
+        0.8,
+        0.88
+      ]
+    },
+    {
+      "ticker": "DRIO",
+      "price": "1.80",
+      "chg": "+23.29%",
+      "volume": "-",
+      "catalyst": "DarioHealth, WebMD Health Services announce strategic partnership",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/dariohealth-webmd-health-services-announce-strategic-partnership-thefly-news",
+      "spark": [
+        1.26,
+        1.15,
+        1.15,
+        1.46,
+        1.5
+      ]
+    },
+    {
+      "ticker": "GNLN",
+      "price": "0.74",
+      "chg": "+23.28%",
+      "volume": "19,904,168",
+      "catalyst": "Greenlane Reports Third Quarter 2026 Financial Results",
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/11/16/3404150/0/en/greenlane-reports-third-quarter-2026-financial-results.html",
+      "spark": [
+        0.89,
+        0.81,
+        0.69,
+        0.6,
+        0.76
       ]
     },
     {
       "ticker": "GMM",
-      "price": "1.69",
-      "chg": "+21.58%",
-      "volume": "16,350,010",
+      "price": "1.91",
+      "chg": "+23.23%",
+      "volume": "9,505,103",
       "catalyst": "Why Is Penny Stock Global Mofy (GMM) Up 65% Today?",
       "source": "tipranks.com",
       "url": "https://www.tipranks.com/news/why-is-penny-stock-global-mofy-gmm-up-65-today",
       "spark": [
-        1.08,
         1.02,
         2.01,
         1.39,
-        1.47
+        1.55,
+        1.87
       ]
     },
     {
-      "ticker": "BRBR",
-      "price": "13.01",
-      "chg": "+18.17%",
-      "volume": "315,611",
-      "catalyst": "BellRing Brands sees FY27 revenue $2.32B-$2.42B, consensus $2.38B",
+      "ticker": "YMAT",
+      "price": "1.07",
+      "chg": "+22.97%",
+      "volume": "3,866,382",
+      "catalyst": "J-Star expands strategic collaboration with Mitsubishi Chemical",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/bellring-brands-sees-fy27-revenue-2-32b-2-42b-consensus-2-38b-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/j-star-expands-strategic-collaboration-with-mitsubishi-chemical-thefly-news",
       "spark": [
-        10.24,
-        10.56,
-        10.55,
-        11.01,
-        13.39
-      ]
-    },
-    {
-      "ticker": "AKAN",
-      "price": "2.41",
-      "chg": "+17.56%",
-      "volume": "5,675,890",
-      "catalyst": "3 Penny Stocks to Watch on November 17",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/article/3-penny-stocks-to-watch-on-november-17",
-      "spark": [
-        0.67,
-        1.36,
-        2.21,
-        2.05,
-        2.89
-      ]
-    },
-    {
-      "ticker": "TGHL",
-      "price": "0.46",
-      "chg": "+17.43%",
-      "volume": "2,523,269",
-      "catalyst": "U.S. Battery Supply-Chain Shift Creates Opportunities for Non-China Suppliers; The GrowHub's Proposed EnChem Merger Positions TGHL for Growt",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/us-battery-supply-chain-shift-creates-opportunities-for-non-china-suppliers-the-growhubs-proposed-enchem-merger-positions-tghl-for-growth-302943957.html",
-      "spark": [
-        0.53,
-        0.73,
-        0.52,
-        0.39,
-        0.31
-      ]
-    },
-    {
-      "ticker": "MPU",
-      "price": "2.48",
-      "chg": "+16.98%",
-      "volume": "201,144",
-      "catalyst": "Mega Matrix to effect share consolidation",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/mega-matrix-to-effect-share-consolidation-thefly-news",
-      "spark": [
-        1.28,
-        1.28,
-        1.28,
-        2.12,
-        2.81
-      ]
-    },
-    {
-      "ticker": "DCM",
-      "price": "3.40",
-      "chg": "+16.44%",
-      "volume": "2,170",
-      "catalyst": "Broadcom signs 10-year agreement with NTT DOCOMO",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/broadcom-signs-10-year-agreement-with-ntt-docomo-thefly-news",
-      "spark": [
-        3.03,
-        3.0,
-        2.95,
-        2.92,
-        3.41
+        1.06,
+        0.89,
+        0.88,
+        0.87,
+        1.05
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Wed 4:51 PM ET",
-      "source": "Google News",
-      "title": "3 Key Takeaways From T. Rowe Price’s 2027 Market Outlook - ETF Database",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJ6ZzFqQVFKYVRudjZYdW83Z2ZLQ1pDdWFyeHZjNC1URERXc1pFSDBXRUdwRzNIV0Z6YXNrVmZSVFdGUkQ0dWo0WjZ6dFFUeWhJS2NRbHR0RWpCd1hqYVdtaThnbFBFUk5RZURXbWtSbVBjbEVwWXlCVlBUZXBUR3FicTdOVU80cHhTUmJsNmJpNlRQbEowMFRlaw?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 4:51 PM ET",
-      "source": "MarketWatch",
-      "title": "Fed minutes show growing unease about the outlook for inflation",
-      "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-      "tag": "FED"
-    },
-    {
-      "time": "Wed 4:47 PM ET",
+      "time": "Thu 4:52 PM ET",
       "source": "Seeking Alpha",
-      "title": "GTA 6 launch crash? Oddsmakers call it a toss-up",
-      "url": "https://seekingalpha.com/news/4674385-gta-6-launch-crash-oddsmakers-call-it-a-toss-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "UniFirst, Cintas executives to meet with FTC on Friday - CTFN",
+      "url": "https://seekingalpha.com/news/4674876-unifirst-cintas-executives-to-meet-with-ftc-on-friday---ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 4:40 PM ET",
-      "source": "FT",
-      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
-      "url": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+      "time": "Thu 4:50 PM ET",
+      "source": "Google News",
+      "title": "Video: Anthropic Makes Multibillion-Dollar Debut on Nasdaq - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanI4cTlqemNuWkRhNGVFbmozbmtBb25kZmRfMEJmUGJTaWRJTmVKTEhqNVZrU3A0QWJxdUhzbDFUNUd0ejZKX2lfMmVLTWp1NWdzUkNFeGVoN1lqYWh0RjBFRks2QjdHRTJOazZRN25ZZXNzT3ZRTkU0VDNCSTEwbEpOS2syS0hwSGF6Uk1FYTh1UEQzU0lobGpFdlkwbXNJbXc?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:50 PM ET",
+      "source": "MarketWatch",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "tag": "TECH"
     },
     {
-      "time": "Wed 4:39 PM ET",
-      "source": "MarketWatch",
-      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-      "url": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "time": "Thu 4:47 PM ET",
+      "source": "Google News",
+      "title": "4 Bank Stocks That Deliver Retirees Dependable Passive Income - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXdMak9ZajYwS2dkZzNUZTFPeElZRC1MV2IxX2ZLc05lWVJyZUxBb3BnakM4dF9pZF9kYW9id04tOWEzcWg0VXVKOG5yb1JZQ3BFYnhCMGVuM003dFVSSzFrOHFfX21zWDJzaFhWWTVQUU9QZkwwYXBkYW1mNDRVZUJfeGppT0lKZHJKakN0YjA1NWxVUG95OWtITQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:47 PM ET",
+      "source": "Google News",
+      "title": "Colgate Has Raised Its Dividend for 63 Years. These 3 Staples Stocks Offer Income - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTdzM1lKc1RWSWMwZHhzYW8wNEp4YVdCYzJRNFhXSnZRY2drZTkxdnV2V19qRWxYT1RDVGR4SFlXWXZCNXlvYmpDb3dnc3pGQkhTQnFJTkFwRFVFR3Zkb0doQzhUYzVpYi1EYndBWDBwWkwxTGFfUFRYZ0RiS0dIOTRyZU9ZaXlTN3doN0h5bzlhVU5LakQtYVY5R01DUQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:46 PM ET",
+      "source": "CNBC",
+      "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
       "tag": "TECH"
     },
     {
-      "time": "Wed 4:34 PM ET",
+      "time": "Thu 4:45 PM ET",
+      "source": "Google News",
+      "title": "Stock Market Today, November 19, 2026: Dow Sinks 1,084 Points, Nasdaq Drops 2.2% After Anthropic Debut - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3NlZmlxcjdiNGxiaDl6VC1NMTBsWlg3d3FfcDVJU19kZ0VFbW1CZFNLYmllcXYxOTFGbGpfTXY4emdkNUEwUDNpbmgtam9YbnJkQ21idS10eUtyYzYxVDkwNXFFTUlnb1VrdnFtTEZfVzZyQWJ5ZElINGFJSnZaYmo5MHhsVDBUclBIYVJUS1ZHR19iWjk4YVVCMmZ4dGZfajYwLVhWWC1xM3pnanBWelJxdkVDVGQ5ekhiZ24ybW9jN3N0WldLWFdTR3VodHdpdFhTRDJLTQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 4:45 PM ET",
+      "source": "Google News",
+      "title": "Anthropic IPO: ANT Stock Opens at $111.50 After Record $81.3 Billion Offering - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkhTc29YcGxwUHFBTXFTdXpGM1RoZGJCUldWOFdTbkxVcnpRLTB4SlNHaGpvLTQ0X1I3Mm5uWWx0Tkx2eXZ4ajN4SzRPRVdKUlU3d1U5dk8tbkJLd2VxRU5lWlJoeTBHbWpBWUJGMWFTVUV3bzg4RXB6UXR6Ym94VVVIVm4xUWF3TC1FZFZDXzdkYmE4TS0xUEhSZGs4SXN4dWltNmQ3TFhBTUVIR19QenFTYlVDdWFMRlE?oc=5",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Thu 4:45 PM ET",
+      "source": "CNBC",
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Thu 4:37 PM ET",
       "source": "Seeking Alpha",
-      "title": "MP Materials moves higher as Needham resumes coverage with Buy rating",
-      "url": "https://seekingalpha.com/news/4674381-mp-materials-moves-higher-as-needham-resumes-coverage-with-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "UBS mulls shifting some job roles from Europe to India in next couple of years - report",
+      "url": "https://seekingalpha.com/news/4674872-ubs-mulls-shifting-some-job-roles-from-europe-to-india-in-next-couple-of-years---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 4:33 PM ET",
-      "source": "Google News",
-      "title": "Hafnia: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTBBYmszMDFzTkpSV3RUa1Zya3pONU9JZThSYVZPSTJmQzFKRnRfbGxfTm43QUlSS08zR1ZLa2JNS0Uxcmt0ZVFzc0hwVFZubXhrNWpBU2VXcks2eHo2LXBrcWs1WTRLTXl2M0tEaWM2bTBfcHpMQ0ZxY2hPenpSeFFySl9OWnVvRHIxNy1ubXJZelRzZUdZ?oc=5",
+      "time": "Thu 4:36 PM ET",
+      "source": "CNBC",
+      "title": "Congress passes bill to protect older investors from financial fraud",
+      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 4:33 PM ET",
-      "source": "Google News",
-      "title": "IceCure: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHdQdFpwdVE3M3BCcEdTMXZuS1E5WGNObS1wUi1Uclh4R0hfSzJMU3Jqcmd6Nzd1eGhWUnQ5UlVuRTVUUGF5WTFVVHNoYjI2X0h6WW9uWmxjV01aSGZOa0gyYTB0N19TVHdKUDh1YVg3bjJTZzM3TWU4bXA2R0lxUzRhVHRBY1BYUWRWM19qX2RZRkozQlN3UQ?oc=5",
+      "time": "Thu 4:36 PM ET",
+      "source": "Seeking Alpha",
+      "title": "FERC approves Cheniere's Sabine Pass LNG expansion project",
+      "url": "https://seekingalpha.com/news/4674870-ferc-approves-chenieres-sabine-pass-lng-expansion-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 4:32 PM ET",
+      "time": "Thu 4:35 PM ET",
       "source": "Benzinga",
-      "title": "Walmart Could Swing By $60.6 Billion After Earnings",
-      "url": "https://www.benzinga.com/markets/options/26/11/63410983/walmart-could-swing-by-60-6-billion-after-earnings",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 4:30 PM ET",
-      "source": "Google News",
-      "title": "Here’s What a $1,000 Investment in Alphabet Stock Could Be Worth by 2035 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmtObzlJaW1McDlsa1ZHRzdwTUtWLWpFcXpjX1ZMc1JKcXF5eVhSekFJcEt3cE52ZDhWSnF3UDhUbGhQRlR3NnBfbmF3ZVlSMDQ4R1hkcVJBWkFPRnI5a2RFVXBYMHlnek92a2xMNWF5UXMwWUFoX1dDc3B0NllOVy1fdkVDZ2V6WDZRWFNjYXZVSnpDc3dRd3lSbGsxNmJRXy1aVXJ6UlFZUXY3djBSTEhUV2EtT3Yw?oc=5",
+      "title": "Google 2004, Nvidia 1999, Amazon 1997: What $1,000 Invested In Each IPO Would Be Worth Today",
+      "url": "https://www.benzinga.com/markets/ipos/26/11/63457090/google-nvidia-amazon-ipo-1000-invested-worth-today-anthropic",
       "tag": "TECH"
     },
     {
-      "time": "Wed 4:29 PM ET",
-      "source": "MarketWatch",
-      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
-      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 4:26 PM ET",
+      "time": "Thu 4:35 PM ET",
       "source": "Seeking Alpha",
-      "title": "Nvidia slides as interim CEO Kress speaks to employees, says, 'Let's move forward'",
-      "url": "https://seekingalpha.com/news/4674380-nvidia-slides-as-interim-ceo-kress-speaks-to-employees-says-lets-move-forward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "TECH"
-    },
-    {
-      "time": "Wed 4:25 PM ET",
-      "source": "Google News",
-      "title": "IREN, CoreWeave and Nebius Stock Prices Have Plunged More Than 60%. Here's What It Means for AI Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWxDTjgtU2JOWnlVUzVOSUpYQWRoU1VBNjNLcUNOUkJuT2EycmdXY2xodVBXQlZpVEFuMmxCTmVVM0VUQ19vdjA1NUZYY3ZZaFV1ekkxcUYxTWpEeEEyQkZNQ0dyUDd0SzVpNjhRcW1mUzBzWjZPVWJjNVhZbU5PdVZnQk5WbndHRllrNlluWEJSaUZsUkFuRHM2d2VTMkE?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Wed 4:25 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Global-e outlines 2026 revenue $1.329B-$1.353B and adjusted EBITDA $290M-$300M, driven by Managed Markets V2 and Passport integration",
-      "url": "https://seekingalpha.com/news/4674384-global-e-outlines-2026-revenue-1_329b-1_353b-and-adjusted-ebitda-290m-300m-driven-by-managed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25%",
+      "url": "https://seekingalpha.com/news/4674814-nvidia-emerges-as-biggest-intel-holder-in-q3-despite-cutting-stake-by-25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Wed 4:25 PM ET",
-      "source": "Google News",
-      "title": "Alphabet is Buying Around $10 Billion More Anthropic Shares on Day 1. Should You Follow? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmYwNjJUNnl5dkhRbnJ4XzZFbDF1TEZhZmd3LUk0WHgyVG9TV1JZUF9oVWNKcVBCcGFfX3drUEM0WUhiMDRyOTBDU2EyNW5OMkRZenNHOWV5OVJvUmpiZWtZUnRGLWJEUWRrdTdaU3NkNnFVNGViV0t4LVhhaTZXMll6Q2lvQ002Qlc5bjZqa1NZczEybGF6eU5VbUNsQQ?oc=5",
-      "tag": "TECH"
+      "time": "Thu 4:35 PM ET",
+      "source": "FT",
+      "title": "Law firms that caved to Trump brace for scrutiny from new Congress",
+      "url": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "PANW",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "TJX",
+      "ticker": "WMT",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "LOW",
+      "ticker": "BABA",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "TGT",
+      "ticker": "PDD",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "P",
+      "ticker": "INTU",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "WWD",
+      "ticker": "NTES",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "ROST",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "UGI",
+      "ticker": "KEYS",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "GLBE",
+      "ticker": "WSM",
       "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 24.44, 10Y 5.064%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: SVRE +97.44% on 56,974,264 volume — check its news catalyst before touching it.",
-    "Reporting before the open: TJX, LOW, TGT, GLBE — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 28.50, 10Y 5.044%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: SEAT +100.78% on 65,148,545 volume — check its news catalyst before touching it.",
+    "Reporting before the open: WMT, BABA, PDD, NTES, WSM — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
