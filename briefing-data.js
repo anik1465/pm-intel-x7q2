@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 20, 2026 · 12:44 PM PT",
-  "tradingDate": "Fri Nov 20",
+  "generatedAtPT": "Nov 23, 2026 · 1:47 AM PT",
+  "tradingDate": "Mon Nov 23",
   "futures": [
     {
       "label": "VIX",
-      "value": "38.19",
-      "chg": "+34.28%"
+      "value": "30.46",
+      "chg": "-15.13%"
     },
     {
       "label": "US 10Y",
-      "value": "4.924%",
-      "chg": "-2.5337%"
+      "value": "4.964%",
+      "chg": "+1.0586%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "84.09",
-      "chg": "+1.06%"
+      "value": "83.11",
+      "chg": "-0.36%"
     },
     {
       "label": "GOLD",
-      "value": "3,505.60",
-      "chg": "-4.88%"
+      "value": "3,613.10",
+      "chg": "+2.78%"
     },
     {
       "label": "DXY",
-      "value": "103.858",
-      "chg": "-0.04%"
+      "value": "103.752",
+      "chg": "-0.05%"
     },
     {
       "label": "BITCOIN",
-      "value": "58,462.01",
-      "chg": "-5.83%"
+      "value": "61,403.32",
+      "chg": "+1.24%"
     }
   ],
   "movers": [
@@ -47,7 +47,7 @@ window.BRIEFING = {
         0.31,
         0.31,
         0.22,
-        0.58
+        0.55
       ]
     },
     {
@@ -55,9 +55,9 @@ window.BRIEFING = {
       "price": "0.15",
       "chg": "+56.84%",
       "volume": "29,070,490",
-      "catalyst": "Stratum Holdings announces 1-for-9 reverse split",
+      "catalyst": "Stratum Holdings Corp trading halted, news pending",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/stratum-holdings-announces-1-for-9-reverse-split-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/stratum-holdings-corp-trading-halted-news-pending-thefly-news",
       "spark": [
         0.12,
         0.13,
@@ -79,7 +79,7 @@ window.BRIEFING = {
         2.05,
         4.03,
         3.43,
-        4.31
+        4.23
       ]
     },
     {
@@ -95,7 +95,7 @@ window.BRIEFING = {
         0.43,
         0.37,
         0.49,
-        0.51
+        0.68
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         0.64,
         0.74,
         0.73,
-        1.31
+        1.34
       ]
     },
     {
@@ -127,7 +127,7 @@ window.BRIEFING = {
         0.75,
         0.77,
         0.67,
-        0.88
+        1.1
       ]
     },
     {
@@ -143,7 +143,7 @@ window.BRIEFING = {
         0.5,
         0.78,
         0.66,
-        0.19
+        0.18
       ]
     },
     {
@@ -159,7 +159,7 @@ window.BRIEFING = {
         0.73,
         0.59,
         0.69,
-        0.89
+        0.8
       ]
     },
     {
@@ -175,7 +175,7 @@ window.BRIEFING = {
         1.83,
         1.87,
         1.55,
-        1.57
+        1.56
       ]
     },
     {
@@ -197,157 +197,157 @@ window.BRIEFING = {
   ],
   "headlines": [
     {
-      "time": "Fri 4:41 PM ET",
-      "source": "Google News",
-      "title": "What’s Happening in the Markets This Week - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZTFDNjlrZC1WMXRSamdHbnBnRThIRmlSamFLdmdLTlJVLWgzbm13MW9pMHRySHZ5aWF2Y0ZlSHNwYkItRjFXRWlvSnFxdndTYjhtSjI4eWEteW13TlAtenlxaDlmcGhMemFwUnFRZ0NOOVdlRlNURDZMdXc?oc=5",
+      "time": "Mon 5:44 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Cadeler reports nine-month results",
+      "url": "https://seekingalpha.com/news/4675474-cadeler-reports-nine-month-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 4:39 PM ET",
+      "time": "Mon 5:42 AM ET",
+      "source": "Google News",
+      "title": "UK Markets Brief: Why Supermarket Stocks Are Rising and Where Oil Prices Go Next - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTZvLV9kZlJ4dnRUcXctX3hnVmJWcDloOGxuTE56bW9jWGY0bGtQZUNoU2JpVGNMeUJRT0Q2RE4tdmdtUVdjTC1nMVAtSFg2Sm1TMjlORnE5Zm11QXlDZGJLNktUcUJLTTVwdENTTWVVUFNrdC1NaFdvMU5JeHNpVlNvU3hzck84c1hPZ0tOWGRiNDlpekF0QVliX3RZZGhNSHd0cFRlNWxDMEV5NmdHWGRCTFhHb284Tk1WWA?oc=5",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Mon 5:40 AM ET",
+      "source": "CNBC",
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "tag": "TECH"
+    },
+    {
+      "time": "Mon 5:40 AM ET",
+      "source": "MarketWatch",
+      "title": "Stocks are serving up a ‘fat pitch’ for investors right now, as Morgan Stanley’s top strategist",
+      "url": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 5:39 AM ET",
       "source": "Seeking Alpha",
-      "title": "Business development companies post hit to Q3 NAV on realized, unrealized losses",
-      "url": "https://seekingalpha.com/news/4675315-business-development-companies-post-hit-to-q3-nav-on-realized-unrealized-losses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "UK services PMI hits 5-month low, manufacturing output surges",
+      "url": "https://seekingalpha.com/news/4675472-uk-services-pmi-hits-5-month-low-manufacturing-output-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 5:38 AM ET",
+      "source": "Google News",
+      "title": "Stock Market, Week 47/26: RENIXX Loses 10.6 Percent and Falls Below 1,000 Points – Grenergy, Bloom Energy and Enphase Energy Plunge - www.renewable-energy-industry.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUE9nUUFQczFOLURkQ3BKbkc5d0Q0QzNhMm9vcG0tajdZNzNTMWx4VEM0bG14WTlKajVZRjIyc2Q0Rjdaa1VnSVN0VlZMNmxFQUVWdjRacFMzWUlTOEhXUW5ZYWprSzZ0MEFhWG02eXZpMnp6NTBTY0F6S0ExR2lJVE9ScTJuVWdLQnNzNzJKSklXYWdOUUVKbldYTVhObzdCcjZsU2p5aG1TeFl6anNmYWZCU2lmdVMyQ3FmbURkY2tBOUtCdTVMbi1kUkhxck1tcHhZSW5MZ1BtZXREZDctSnhSZ0V5TEZQaHgwcGg4U3k4ZzVRZU1felllVUJBZk16UTl4NDdWZDIxeTZxSkdCaFpJQ2FjV1RqZEE?oc=5",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Mon 5:37 AM ET",
+      "source": "Seeking Alpha",
+      "title": "Zscaler extends rally as analysts see merit in CrowdStrike deal",
+      "url": "https://seekingalpha.com/news/4675473-zscaler-extends-rally-as-analysts-see-merit-in-crowdstrike-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "DEALS"
+    },
+    {
+      "time": "Mon 5:33 AM ET",
+      "source": "Google News",
+      "title": "Why is Enphase Energy stock rallying today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmdOOS1aeXlvc3ljZlFUV3NoQWlzMXdHdXR3R3hjdVM5SUVjZHktRUJnRjJIYWJBM2NCMHlkZUlxWk5ITDZwMjhhRU9OdDVMblFpZjdkZnRTZlp6dzNmZjRpR1BZTllNRVpHa0didVZPNkxvMHppblBrMXlMa1NaWVVCZGZSWll2SllOWERzYVZIdktHZVhDLUh6OVZjcU1QV1hQSVdNbw?oc=5",
+      "tag": "ENERGY"
+    },
+    {
+      "time": "Mon 5:30 AM ET",
+      "source": "FT",
+      "title": "Ukraine blows up Russian warship in Libya’s Benghazi naval base",
+      "url": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+      "tag": "GEOPOLITICS"
+    },
+    {
+      "time": "Mon 5:30 AM ET",
+      "source": "Google News",
+      "title": "This Rare Stock Market Signal Has Only Happened 5 Other Times Since 1871. Here's What History Says Happens Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeHdYRlFwa0xwam9kR2NXTWRaeTNMYUgzNkdaa24zU1VyM1NmS2V2NUxpRnBHZDAtYTRucTVVbzFoOEkyLUk0T0VmSVZ2QkhvRDFvdmU3Y0dGaEhPY0tPSGlGRHRDYVZOM003LS1HcjMzYmRkdXh0WTVTYnlHUDhUS1llaEZtdEVqNnhfdzJKZkdFeHBKOWQzajZPLWFVeWl4SDVEUFlnSy1GRnJRWlNsMUt5cWVWaWRldmEzblNVWk93aUZueU5yYjVBM2d6eTM2czQzNXdTdkJyckFUMEo3Z2wzcnFtaDkt?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Mon 5:26 AM ET",
+      "source": "Seeking Alpha",
+      "title": "VNET Group GAAP EPADS of -$0.04, revenue of $442M",
+      "url": "https://seekingalpha.com/news/4675471-vnet-group-gaap-epads-of--004-revenue-of-442m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "tag": "EARNINGS"
     },
     {
-      "time": "Fri 4:39 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Bitcoin plunges 6%, dips under $58K",
-      "url": "https://seekingalpha.com/news/4675330-bitcoin-plunges-6-percent-dips-under-58k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "CRYPTO"
+      "time": "Mon 5:26 AM ET",
+      "source": "Google News",
+      "title": "Stock Market Sell-Off: Here's My Honest Take On What Every Long-Term Investor Should Do Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDh0dGdBNnp2d3A0VVBncVJ1bUdvQm5uVUt0VVV6cnVfeldfQmhUYUtRcmdCeVJSOGVRbHRmMGlKbGt4dVdHQktIRHRyenBhT1V4MVFTVDFlSzlVWWJodGlXRHBDY1haSHVGdXp0WU1tTjJYNTRGVklYTDB0cHhnQXpDNVAzaXJXcXpwRGpMczhpd1drLUViX1VLcmNUaG85T0t0Tm9yNDBDRDJ4N3hpb3FIb2lUWlNDREhsakRMT2tJb2hrZGJsemlGUzFCRk9Ndl9wRw?oc=5",
+      "tag": "MARKETS"
     },
     {
-      "time": "Fri 4:38 PM ET",
-      "source": "Benzinga",
-      "title": "QUICK SPARK: Semiconductor Stocks Head for Worst 2-Month Slump Since 2001",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63508639/semiconductor-stocks-worst-two-month-slump-since-2001",
+      "time": "Mon 5:25 AM ET",
+      "source": "Google News",
+      "title": "As the AI trade stumbles, what can stop the stock market sell-off? - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONC1VQkRnN3dMMWJJelhqZFRJRkJON2JBZ3hxUjAxMkhMRU5ZTmc5TUhoVEJMRWI1Tml0Mk1zMGhZUEx4Mk8wQ3R6dDFaN2dCcU9fRW9ndWkwYVU1ZThiUVBXTGk2Z2FOYWg3bjJDYzlZV3BnQkt6eTNoRFBSeFlRdi1JaXRZM1lJMVY1dFBCdzBkTXBNWVpId1cyaXJIU0RiX01iajJHWEE5QWlfaHJHN0ZkZTlfYXRJSmc?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Fri 4:32 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Fastenal, Grainger cut at Baird, as outlook for industrial distributors turns negative",
-      "url": "https://seekingalpha.com/news/4675313-fastenal-grainger-cut-at-baird-as-outlook-for-industrial-distributors-turns-negative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:32 PM ET",
-      "source": "MarketWatch",
-      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
-      "url": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:31 PM ET",
-      "source": "MarketWatch",
-      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:30 PM ET",
-      "source": "Benzinga",
-      "title": "Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63507856/bitcoin-poised-for-great-2027-as-fed-eyes-aggressive-rate-cuts-expert-says",
-      "tag": "FED"
-    },
-    {
-      "time": "Fri 4:30 PM ET",
-      "source": "MarketWatch",
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:30 PM ET",
-      "source": "MarketWatch",
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:28 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Snap falls 10% as tech selloff drags down social media stocks",
-      "url": "https://seekingalpha.com/news/4675320-snap-falls-10-as-tech-selloff-drags-down-social-media-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:25 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Corning drops 11% amid technology-led market slide",
-      "url": "https://seekingalpha.com/news/4675318-corning-drops-11-percent-amid-technology-led-market-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Fri 4:25 PM ET",
+      "time": "Mon 5:25 AM ET",
       "source": "Google News",
-      "title": "AI tech rout prompts US investors to rush into value stocks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Fri 4:21 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Dell Technologies sinks 12% amid tech slide",
-      "url": "https://seekingalpha.com/news/4675319-dell-technologies-sinks-12-amid-tech-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Fri 4:21 PM ET",
+      "time": "Mon 5:24 AM ET",
       "source": "Google News",
-      "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5",
+      "title": "As the AI trade stumbles, what can stop the stock market sell-off? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95aS1DSVdGbDNvaEhjVkp3dU1Fdk15QjJpbnBfQ3ktYjVBR3FHZVh1d2JlaEEyOXF3RFNYX2VFWXFwY3dDMFlGSUVLRV9BdDJpQlZaTGhQZnV4cl9YNFpISjZaWk5kcnc?oc=5",
       "tag": "TECH"
     }
   ],
   "earnings": [
     {
-      "ticker": "BJ",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "MOG.A",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "KT",
-      "when": "TIME-NOT-SUPPLIED",
-      "note": ""
-    },
-    {
-      "ticker": "WRD",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "DLNG",
+      "ticker": "HPE",
       "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "AREC",
+      "ticker": "A",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "TCOM",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "SOWG",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "ZM",
+      "when": "AMC",
       "note": ""
     },
     {
-      "ticker": "SIDU",
-      "when": "TIME-NOT-SUPPLIED",
+      "ticker": "SYM",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "J",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "SMTC",
+      "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "AMTM",
+      "when": "AMC",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 38.19, 10Y 4.924%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Risk snapshot at sweep: VIX 30.46, 10Y 4.964%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
     "Highest-profile mover: NXAT +165.27% on 169,193,688 volume — check its news catalyst before touching it.",
-    "Reporting before the open: BJ, MOG.A, WRD — expect gap moves and sympathy reads in their sectors."
+    "Overnight risk headline: Ukraine blows up Russian warship in Libya’s Benghazi naval base"
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
