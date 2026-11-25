@@ -1,353 +1,353 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 24, 2026 · 2:46 PM PT",
-  "tradingDate": "Tue Nov 24",
+  "generatedAtPT": "Nov 25, 2026 · 1:59 PM PT",
+  "tradingDate": "Wed Nov 25",
   "futures": [
     {
       "label": "VIX",
-      "value": "26.36",
-      "chg": "-0.98%"
+      "value": "28.29",
+      "chg": "+7.32%"
     },
     {
       "label": "US 10Y",
-      "value": "4.928%",
-      "chg": "+0.1626%"
+      "value": "4.858%",
+      "chg": "-0.8976%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "81.69",
-      "chg": "+1.90%"
+      "value": "84.08",
+      "chg": "+2.47%"
     },
     {
       "label": "GOLD",
-      "value": "3,555.10",
-      "chg": "-2.64%"
+      "value": "3,580.00",
+      "chg": "+0.51%"
     },
     {
       "label": "DXY",
-      "value": "103.827",
-      "chg": "-0.47%"
+      "value": "103.698",
+      "chg": "-0.11%"
     },
     {
       "label": "BITCOIN",
-      "value": "59,983.54",
-      "chg": "-1.87%"
+      "value": "60,183.16",
+      "chg": "+0.98%"
     }
   ],
   "movers": [
     {
-      "ticker": "FGL",
-      "price": "0.68",
-      "chg": "+54.97%",
-      "volume": "71,162,045",
-      "catalyst": "Why Is Penny Stock Founder (FGL) Volatile Today?",
+      "ticker": "NRSN",
+      "price": "2.19",
+      "chg": "+98.64%",
+      "volume": "34,051,282",
+      "catalyst": "Why Is Penny Stock Neurosense Therapeutics (NRSN) Up 125% Today?",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-founder-fgl-volatile-today",
+      "url": "https://www.tipranks.com/news/why-is-penny-stock-neurosense-therapeutics-nrsn-up-125-today",
       "spark": [
-        0.64,
-        0.61,
-        0.46,
-        0.44,
-        0.63
-      ]
-    },
-    {
-      "ticker": "BENF",
-      "price": "0.68",
-      "chg": "+48.95%",
-      "volume": "109,998,641",
-      "catalyst": "Why Is Penny Stock Beneficient (BENF) Up 35% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-beneficient-benf-up-35-today",
-      "spark": [
-        0.52,
-        0.48,
-        0.41,
-        0.46,
-        0.99
-      ]
-    },
-    {
-      "ticker": "LGHL",
-      "price": "0.92",
-      "chg": "+41.06%",
-      "volume": "16,639,211",
-      "catalyst": "Lion Group announces reallocation of part of its digital-asset treasury",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/lion-group-announces-reallocation-of-part-of-its-digital-asset-treasury-thefly-news",
-      "spark": [
-        0.86,
-        0.86,
-        0.71,
-        0.65,
-        0.95
-      ]
-    },
-    {
-      "ticker": "YFOR",
-      "price": "1.23",
-      "chg": "+40.92%",
-      "volume": "39,292,974",
-      "catalyst": "YYForce launches trained humanoid robot for hotel concierge service",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/yyforce-launches-trained-humanoid-robot-for-hotel-concierge-service-thefly-news",
-      "spark": [
+        1.26,
+        1.28,
+        1.13,
         1.1,
+        1.76
+      ]
+    },
+    {
+      "ticker": "RAYA",
+      "price": "0.79",
+      "chg": "+84.84%",
+      "volume": "39,110,469",
+      "catalyst": "ERAYAK Advances Hybrid Power Strategy as Ruike Facility Enters Final Acceptance Phase",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/erayak-advances-hybrid-power-strategy-as-ruike-facility-enters-final-acceptance-phase-302931939.html",
+      "spark": [
+        0.49,
+        0.68,
+        0.6,
+        0.42,
+        0.66
+      ]
+    },
+    {
+      "ticker": "NIVF",
+      "price": "0.03",
+      "chg": "+49.41%",
+      "volume": "695,260,184",
+      "catalyst": "NewGenIvf Group completes 6% stake in K25.ai, expects $7.3M unrealized gain",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/newgenivf-group-completes-6-stake-in-k25-ai-expects-7-3m-unrealized-gain-thefly-news",
+      "spark": [
+        0.04,
+        0.03,
+        0.02,
+        0.02,
+        0.02
+      ]
+    },
+    {
+      "ticker": "WHLR",
+      "price": "0.42",
+      "chg": "+29.13%",
+      "volume": "40,710,608",
+      "catalyst": "Wheeler Real Estate Investment Trust trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/wheeler-real-estate-investment-trust-trading-halted-news-pending-thefly-news-6",
+      "spark": [
+        0.36,
+        0.32,
+        0.32,
+        0.33,
+        0.35
+      ]
+    },
+    {
+      "ticker": "SVRE",
+      "price": "1.45",
+      "chg": "+28.32%",
+      "volume": "10,128,753",
+      "catalyst": "SaverOne 2014 signs non-binding LOI to acquire Drew Therapeutics",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/saverone-2014-signs-non-binding-loi-to-acquire-drew-therapeutics-thefly-news",
+      "spark": [
+        1.12,
+        0.98,
+        0.92,
         1.13,
-        1.13,
-        0.87,
-        0.98
+        1.46
+      ]
+    },
+    {
+      "ticker": "CHSN",
+      "price": "0.07",
+      "chg": "+25.00%",
+      "volume": "184,315,007",
+      "catalyst": "3 Penny Stocks to Watch Today, November 4",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/article/3-penny-stocks-to-watch-today-november-4",
+      "spark": [
+        0.1,
+        0.07,
+        0.06,
+        0.06,
+        0.06
+      ]
+    },
+    {
+      "ticker": "DKI",
+      "price": "1.14",
+      "chg": "+24.93%",
+      "volume": "12,345,589",
+      "catalyst": "DarkIris Inc trading halted, news pending",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/darkiris-inc-trading-halted-news-pending-thefly-news-2",
+      "spark": [
+        1.01,
+        0.9,
+        0.92,
+        0.91,
+        1.24
+      ]
+    },
+    {
+      "ticker": "BNAI",
+      "price": "8.15",
+      "chg": "+22.56%",
+      "volume": "4,871,570",
+      "catalyst": "Brand Engagement Network Inc trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/brand-engagement-network-inc-trading-resumes-thefly-news-3",
+      "spark": [
+        2.57,
+        3.36,
+        7.32,
+        6.65,
+        8.8
+      ]
+    },
+    {
+      "ticker": "OMH",
+      "price": "4.54",
+      "chg": "+21.72%",
+      "volume": "9,557,133",
+      "catalyst": "Ohmyhome Ltd trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/ohmyhome-ltd-trading-resumes-thefly-news-7",
+      "spark": [
+        4.22,
+        3.6,
+        4.36,
+        3.73,
+        3.98
       ]
     },
     {
       "ticker": "APUS",
-      "price": "2.00",
-      "chg": "+33.33%",
-      "volume": "6,752,154",
+      "price": "2.80",
+      "chg": "+21.21%",
+      "volume": "1,865,587",
       "catalyst": "Why Is Apimeds Pharmaceuticals US Stock (APUS) Up Today?",
       "source": "tipranks.com",
       "url": "https://www.tipranks.com/news/why-is-apimeds-pharmaceuticals-us-stock-apus-up-today",
       "spark": [
-        1.89,
         1.74,
         1.6,
         1.5,
-        2.13
-      ]
-    },
-    {
-      "ticker": "PLAG",
-      "price": "0.44",
-      "chg": "+30.22%",
-      "volume": "55,837,746",
-      "catalyst": "Planet Green Holdings CEO Bin Zhou converts $1M of shareholder loans into stock",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/planet-green-holdings-ceo-bin-zhou-converts-1m-of-shareholder-loans-into-stock-thefly-news",
-      "spark": [
-        0.38,
-        0.37,
-        0.33,
-        0.34,
-        0.47
-      ]
-    },
-    {
-      "ticker": "AKAN",
-      "price": "3.26",
-      "chg": "+26.36%",
-      "volume": "3,578,257",
-      "catalyst": "Which 3 Penny Stocks Are on Investorsâ Radar Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/article/which-3-penny-stocks-are-on-investors-radar-today",
-      "spark": [
-        4.03,
-        3.43,
-        4.23,
-        2.58,
-        4.77
-      ]
-    },
-    {
-      "ticker": "IFS",
-      "price": "60.84",
-      "chg": "+23.64%",
-      "volume": "610",
-      "catalyst": "Intercorp Financial Services Inc. Announces S&P Global Ratings Affirmed Ratings",
-      "source": "nasdaq.com",
-      "url": "https://www.nasdaq.com/articles/intercorp-financial-services-inc-announces-sp-global-ratings-affirmed-ratings",
-      "spark": [
-        49.67,
-        47.99,
-        47.3,
-        49.21,
-        47.97
-      ]
-    },
-    {
-      "ticker": "CLIK",
-      "price": "0.79",
-      "chg": "+19.16%",
-      "volume": "5,159,752",
-      "catalyst": "Click Holdings announces $1.5M share repurchase program",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/click-holdings-announces-1-5m-share-repurchase-program-thefly-news",
-      "spark": [
-        0.71,
-        0.71,
-        0.67,
-        0.66,
-        0.65
-      ]
-    },
-    {
-      "ticker": "NTRB",
-      "price": "5.55",
-      "chg": "+17.76%",
-      "volume": "1,042",
-      "catalyst": "Nutriband gets notice of allowance for fentanyl transdermal system from USPTO",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/nutriband-gets-notice-of-allowance-for-fentanyl-transdermal-system-from-uspto-thefly-news",
-      "spark": [
-        4.82,
-        5.0,
-        4.92,
-        4.71,
-        4.71
+        2.31,
+        2.9
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Tue 6:44 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Centuri Holdings to join S&P SmallCap 600, replacing DoubleVerify",
-      "url": "https://seekingalpha.com/news/4676416-centuri-holdings-to-join-s-and-p-smallcap-600-replacing-doubleverify?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:43 PM ET",
-      "source": "MarketWatch",
-      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:41 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Mayfair Gold launches overnight marketed offering",
-      "url": "https://seekingalpha.com/news/4676415-mayfair-gold-launches-overnight-marketed-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "ENERGY"
-    },
-    {
-      "time": "Tue 6:36 PM ET",
-      "source": "FT",
-      "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
-      "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:36 PM ET",
-      "source": "Google News",
-      "title": "Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGw5LVdvY2VVNVp5cUg2eUVlaVhyTGFwMlJHM1FVU2x5SnJrQUgtNFQwbHBUWWZOemhCaFk2bVpfUmZJR2I3Qm1weEU3WlY5OS1mT3NYSjl2OTNOcFlRZ2RCLS1ROW0xWmhXN3ROcVZzSkItN1ZkRDB0SzZZWG96WEgtRGxlaU1VS0VtUG1NLXVxQVVZTUtmNVU1c1dkWXQ2QV9OSkg3cGhjRE5qNENoS2k0UFZLRFRhZ1VyMUFnMTcwZ3E5dnNhcHB3?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:30 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Ford explores Pentagon opportunities as automakers pursue defense business",
-      "url": "https://seekingalpha.com/news/4676414-ford-explores-pentagon-opportunities-as-automakers-pursue-defense-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:30 PM ET",
-      "source": "Google News",
-      "title": "Zoom Communications Inc. stock rises Tuesday, outperforms market - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHZoSzRHbTVFMkF4eGFNM2F2MVREUVdOenV5cDFaRThESHhZWkxKU3Azb3pxMWQzZU1IVlo4ODZybUhxY0pkSzJLVG9EeGRjczJjamQ5VG50eDhZNVlVeFhKdG9kam0ybXZ0MWpFQXFPVGJDZDd5aVgyQjJGRU9tR09pd3ZRUjNMTUtIOVE0MUk3bG5JWEIwRmd5S25Eamw5bVRqNHhuTDZZMnhfcTJfdkRxMHhOeWtoMWpqN1hoZHNKVmt5UzByYklIWmZYWDZLMHJRalp4QQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:24 PM ET",
-      "source": "Google News",
-      "title": "Jensen Huang Isn’t Worried. But You Should Be. - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFlvR2k2X0JCbUtGazJuVTFCekNTU3p5OEdndnNmOEVCREozaGZ5NFAyc1lBeU41ZFBHTThHdGpnUXdBRkhQeExaaFF0ZTRPUUNZZzhYLWg4Ym41UzVmVGt4eWFfbmNnak9sdnI2Z3FyZ3lsVmZheEJLaGhob2VaZUV3?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:24 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Kutcho Copper announces C$1M private placement",
-      "url": "https://seekingalpha.com/news/4676410-kutcho-copper-announces-c-1m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Tue 6:21 PM ET",
-      "source": "Seeking Alpha",
-      "title": "The Western Investment GAAP EPS of -C$0.007, revenue of C$11.1M",
-      "url": "https://seekingalpha.com/news/4676412-the-western-investment-gaap-eps-of-c0007-revenue-of-c111m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Tue 6:20 PM ET",
-      "source": "Google News",
-      "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3RjcmgzaktFaFBfbzRReFRUOUlzUEVrYlhnb04yVUx4bFBHRjZiRUhnbV9JeWxHdlYydkdRUEZCRlRhVHRTbDV6UHBNdDFuUTFaZ2FUMEREZXZqekY0Q0pVLWltdm5WekNULWxpeThjSWxBd1V2WkRpLVdBT2NrSTI3cS1aU0tGa0x6aVdXMUtQUzhI?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Tue 6:19 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Fountain Asset reports Q3 results",
-      "url": "https://seekingalpha.com/news/4676411-fountain-asset-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Tue 6:19 PM ET",
-      "source": "Google News",
-      "title": "Stock Market Today, Nov. 24: AMD Plunges 9% as 337 Million-Share Resale Filing Adds to AI Sell-Off - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRUx4RWxhelhBZDUyZldpdS1zQ2hPZjRoZkh0LTFwR3diUEhTRnlIVVVhWE5nUWNNV2gtNi16WkhfaldwT1VaT0xKWXliblowNWpBMDBPRHJzYWRfbGgzeUxYV1VyZWJkWUtYTTA1YUNFT1ZUZU5MLTdpYWVBaHVFeXZYTzZvazhLSy1hU3dOQjJnREctQ2N5MWJnUURicjBnaEZ1N0p4bVVja1ZGZUVIZFFVUzE4WWc5VTJDLWhDRUpCUnFvWWF3amJpWS1hS1dsemt6cXc0NXpoT0dLUFdtUWhXOFRtMU9Ia0ZZ?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Tue 6:18 PM ET",
+      "time": "Wed 5:55 PM ET",
       "source": "CNBC",
-      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:55 PM ET",
+      "source": "Benzinga",
+      "title": "Palo Alto Networks Stock Slides After the Close: What's Happening?",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63657926/palo-alto-networks-stock-slides-after-the-close-whats-happening",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:55 PM ET",
+      "source": "Google News",
+      "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Wed 5:53 PM ET",
+      "source": "Seeking Alpha",
+      "title": "IMPACT Silver GAAP EPS of -C$0.01, revenue of C$18.5M",
+      "url": "https://seekingalpha.com/news/4676712-impact-silver-gaap-eps-of-c001-revenue-of-c185m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Wed 5:51 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Banco Macro reports Q3 results",
+      "url": "https://seekingalpha.com/news/4676711-banco-macro-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "EARNINGS"
+    },
+    {
+      "time": "Wed 5:50 PM ET",
+      "source": "Seeking Alpha",
+      "title": "Blue Owl Credit Income announces tender offer to repurchase up to 5% of shares outstanding",
+      "url": "https://seekingalpha.com/news/4676705-blue-owl-credit-income-announces-tender-offer-to-repurchase-up-to-5-of-shares-outstanding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:50 PM ET",
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "tag": "TECH"
+    },
+    {
+      "time": "Wed 5:50 PM ET",
+      "source": "MarketWatch",
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:49 PM ET",
+      "source": "Google News",
+      "title": "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:48 PM ET",
+      "source": "Google News",
+      "title": "Fastenal Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVNtYnJfZG9ERDIyalc0RXVEVGRaSHV3OGhLYU1zYTlMUXg4M0x3UFctVFB2T1luaFA3emZLckRPS2V6RFB3YzFWdEJEUDJsVWNYNnJZX0dRVGswRzExbno4R3FuRkZqMS1WRXA4dVprck1ZdGpjSWZfUTc4M2lpcnN1RWxZbW5zY1QzTUpfTFV4dmdub2txaDRpRnpfeGwzeGYxNmV5aGt2NDh2YWhuTkNOdVZ2V3FsTV95VnNfM0pUTThoOFU2bVRSYmNvMEswLTFGVlpKNTQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:48 PM ET",
+      "source": "Google News",
+      "title": "TE Connectivity PLC stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa0daOFhXZGlQUmpRZnFFdTlpZjJYbTBLSVlMYkM1bkJIelZPNHRkVzM0ZndmcTlPT3c4RmhuV2RYYVlUU3BaZTdEZWJyUzlRUVBQWXVnUHkzVm1vblgzUU52VFJlLTduMDhxN251VV9zMmFvVVRqc1E2ZUJZZ1FOaldOUEExbzBQUm5uX3hwd3JFcnlGQ1l0SWtaem5abUNRUUxseU8yTjBvUFN2eWViR19vcDVDdWxpTWdVVFJzaTdNQjBkYUZMR19kUFNwZnkwSEdpLXpjOGdnZHYtNDNjbjBwQUhvcG9LeWZZNHFzQmZHeWViWXZoV194VnY2dERjaGdDWDZnUQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:46 PM ET",
+      "source": "Google News",
+      "title": "Wall Street rebounds as AI stock sell-off eases - thebusinessjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkM4Z2hicU5OYm93enRMTTJ6cUhSV2lRMzBVY1Y1cWJNMXJhZnZRekZiVy1mUmlqZHhQUEdRTjFia0NLZ3FCUW44VFJUYWNVUlc2Q3pxSVhfUzhtUzdiUGpMOXEwYzJaMFhlQnZzZUxreVJFcHFLTURqX21haHpJVGRGbmJNdw?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Wed 5:46 PM ET",
+      "source": "Google News",
+      "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSGtneWgzSmNKTlh1VUJPczN0LUdkak1Db2hCdktyLUhBbkRmVG5kRVV1eURkdFlqazE3MmlkZHZnSFhJWFUyMjFRWDVSU0xCX0R3c1BTMzFPNTFjMVVDeU5CYW1vT29JQS1tN2VJeGlNOVAteWkzNm1oQlA2cXE5OFA4MWV1c2R3d3NWdTFuNklMQjViZUszVm1MMGs2TWZicnpjQnNORmhrTmh5VWJmZVNIUVU0ejZPSEJMM3JRajNQc2VxWFdiZFZqZTFiS0RKaktBYy1xUURwb2o2cEdmSllBQl8xcnRKLW1JeWhhTHdXTUhkVHhfdUhidl84TmZVd0taVkFXQQ?oc=5",
       "tag": "FED"
     },
     {
-      "time": "Tue 6:17 PM ET",
+      "time": "Wed 5:46 PM ET",
       "source": "Seeking Alpha",
-      "title": "Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates",
-      "url": "https://seekingalpha.com/news/4676404-ambarella-collapses-40-percent-as-q4-guidance-falls-shockingly-short-of-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
+      "title": "Atacama Resources International COO steps down",
+      "url": "https://seekingalpha.com/news/4676710-atacama-resources-international-coo-steps-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Wed 5:45 PM ET",
+      "source": "Google News",
+      "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGdRVGZOYmxMSm43dF95Rk5PYTk3SDBzSzlwTmh4YjQwN1NTb1h1LUhlT01FVVktZnRPeEFhQjhTNERtcVpiQ2lwWGU4Y1lrcTlYU2RaVG9qRkVvSExSOG5JWnNMRnhqc0lLWEhtNnJONEk2MVdtT0hCT0RYQ1RhWVlSdnhSaFJzXy1nRVVQLUNiU0JIMzUtZm5YM3JSMTJKVGphN2hROTdZaWR2RFM5VWJkd1BjNlZBanU4VmNHN1hMc2hYdnV6N3JjSVpGREg1ejZlYV9WM2JCZjhuZUdoR0dQY2lxSE15NlV0RThWUnVtcGxiSlFTZy1VXzZjdXNwekl2TTFkWQ?oc=5",
+      "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "DELL",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "ADI",
+      "ticker": "LI",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "BHP",
+      "ticker": "BZ",
+      "when": "BMO",
+      "note": ""
+    },
+    {
+      "ticker": "BMA",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "MDT",
+      "ticker": "GDS",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "ADSK",
-      "when": "AMC",
+      "ticker": "NWCL",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "WDAY",
-      "when": "AMC",
-      "note": ""
-    },
-    {
-      "ticker": "DLTR",
+      "ticker": "HDL",
       "when": "BMO",
       "note": ""
     },
     {
-      "ticker": "HPQ",
+      "ticker": "FINV",
       "when": "AMC",
+      "note": ""
+    },
+    {
+      "ticker": "PSNY",
+      "when": "BMO",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 26.36, 10Y 4.928%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: FGL +54.97% on 71,162,045 volume — check its news catalyst before touching it.",
-    "Reporting before the open: ADI, MDT, DLTR — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 28.29, 10Y 4.858%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: NRSN +98.64% on 34,051,282 volume — check its news catalyst before touching it.",
+    "Reporting before the open: LI, BZ, GDS, HDL, PSNY — expect gap moves and sympathy reads in their sectors."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
