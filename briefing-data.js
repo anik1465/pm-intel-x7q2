@@ -1,36 +1,36 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 25, 2026 · 1:59 PM PT",
-  "tradingDate": "Wed Nov 25",
+  "generatedAtPT": "Nov 26, 2026 · 1:56 PM PT",
+  "tradingDate": "Thu Nov 26",
   "futures": [
     {
       "label": "VIX",
-      "value": "28.29",
-      "chg": "+7.32%"
+      "value": "26.80",
+      "chg": "-5.27%"
     },
     {
       "label": "US 10Y",
-      "value": "4.858%",
-      "chg": "-0.8976%"
+      "value": "4.864%",
+      "chg": "-0.7752%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "84.08",
-      "chg": "+2.47%"
+      "value": "84.91",
+      "chg": "+1.47%"
     },
     {
       "label": "GOLD",
-      "value": "3,580.00",
-      "chg": "+0.51%"
+      "value": "3,566.20",
+      "chg": "+0.86%"
     },
     {
       "label": "DXY",
-      "value": "103.698",
-      "chg": "-0.11%"
+      "value": "103.784",
+      "chg": "+0.11%"
     },
     {
       "label": "BITCOIN",
-      "value": "60,183.16",
-      "chg": "+0.98%"
+      "value": "60,778.30",
+      "chg": "+1.30%"
     }
   ],
   "movers": [
@@ -95,7 +95,7 @@ window.BRIEFING = {
         0.32,
         0.32,
         0.33,
-        0.35
+        0.41
       ]
     },
     {
@@ -111,7 +111,7 @@ window.BRIEFING = {
         0.98,
         0.92,
         1.13,
-        1.46
+        1.47
       ]
     },
     {
@@ -143,7 +143,7 @@ window.BRIEFING = {
         0.9,
         0.92,
         0.91,
-        1.24
+        1.28
       ]
     },
     {
@@ -159,7 +159,7 @@ window.BRIEFING = {
         3.36,
         7.32,
         6.65,
-        8.8
+        8.15
       ]
     },
     {
@@ -175,7 +175,7 @@ window.BRIEFING = {
         3.6,
         4.36,
         3.73,
-        3.98
+        4.05
       ]
     },
     {
@@ -191,163 +191,162 @@ window.BRIEFING = {
         1.6,
         1.5,
         2.31,
-        2.9
+        2.76
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Wed 5:55 PM ET",
+      "time": "Thu 5:45 PM ET",
+      "source": "MarketWatch",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:33 PM ET",
+      "source": "Google News",
+      "title": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZxM0NXdzJCNTJPamZxS0M1UHpVY2QtX0hvckJ5YVZfSmZwWm5uUHZ6RUo3Z2VvOS1ZOHAtSTljTWFrdTRzOEJPdlpSZU5uZm5jRGQ2QTBtZjUzZ3hVVmRsZk5oWWlJVUFNMzVPd1RGUlZFTzFxTndHVUpnY0RnM3Y4WmVMSDZkcU1MOEk0azRwQ05VUnJzY01GUi1sN040Z1UyZ3JR?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:30 PM ET",
+      "source": "MarketWatch",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "tag": "TECH"
+    },
+    {
+      "time": "Thu 5:22 PM ET",
+      "source": "Google News",
+      "title": "Disney Stock Just Closed at Its Highest Level Since April 2022 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmJNb3d5Y2VmTzZFRzg0MHZVeng5bDFFSExPQ1Fwdm15OHpVUGd6RWJGVDh0a0loejVNNVNEemRoWW8xTzN3QmIxVG9TN19nQlZOWkJkZWZELV96S2ZXX196M1ZUMWJjejZuM0pYSlhidHBORy1xNVFIN2FIY2tZQnpxQ0dseWNzbXY4UGpTTFRRUmZ2N1k5aHFaWVBTQQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:22 PM ET",
+      "source": "Google News",
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndtT1dTZXdiYWpqTXRoMktMU3pTZ3U0d1lMTURLenJTa1BpdkE5c0IwNnVPTFJYX2NidVRlb2FuT3BNZFptMDBvQ3ZPdTVEbGowUlRvbVlpNXpZRFlTQUkyd0VMTmtmUUZfWjlnWWJYbVJYY0VGa3BDVEU2clpGR18zbmlaV0xOTWRDb2xWYnBhWE5iZUdJ?oc=5",
+      "tag": "TECH"
+    },
+    {
+      "time": "Thu 5:14 PM ET",
+      "source": "Google News",
+      "title": "Compass (COMP) Jumped, But What Is Driving Attention Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFBHeW9mblR3QWdHMG9kTVJwUlJydkRLWWt5b3JfLTlveDh6Tkk0LXdHSU9DM3Z4SlhvdUpTY1pIclhZZ2FZNHg3czlReUNvdkxsTHp4b2x0OHZTSjZMZzNYLVdZX1EyV3VydVFNR05MeUk4dlFDSkVkN0lrQzd4dWo1SGphZnpGcEcwSno0TjBCdC1tdkFnZ3VkX2NleHdkMFFRNg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:13 PM ET",
+      "source": "Google News",
+      "title": "Does Ipsos (ENXTPA:IPS) Sit Below Fair Value On Cash Flow? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1BOTE9fMkdnS0piZ0NacHlOT3E5ZkpOclprS0JlOEV4Z0Q1ZE42UGRJZWkzZGNzSmNLUXMyc2JOdVE3S2xJMlpjU2hsYXZYLWZETTcxN1gtamU2ZGpHX2JobHhBWjc3Q1Z1aUdvc18tMHVDU1BKSGxJaXVYNjg4Yk9lQ0swSzdvaW5HSWxEcWg5WFBV?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:13 PM ET",
       "source": "CNBC",
-      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 5:55 PM ET",
-      "source": "Benzinga",
-      "title": "Palo Alto Networks Stock Slides After the Close: What's Happening?",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63657926/palo-alto-networks-stock-slides-after-the-close-whats-happening",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 5:55 PM ET",
+      "time": "Thu 5:12 PM ET",
       "source": "Google News",
-      "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+      "title": "Is Exmar (ENXTBR:EXM) Priced About Right On Cash Flow? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnVSQWpzUGU5Sk1EdjhzYUJKSzJMOFYwLUs3ZmZxaDhZUkZUOTdwNzdtVzF2LVlnSEhVT28wU1FQb2p5V3Ayb3UzVXQ3MnBSQlVLeEFidDFvQ3hHX2hjQTloZlpPMHpfSmlZbWwxeGN4SXpvWVRiOThvNXVJRGdBNloxZDZlLU1vclhWVTVpZ04wM1RHTEx2Yg?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Thu 5:12 PM ET",
+      "source": "Google News",
+      "title": "Advantest (TSE:6857) Stock Could Trade At A Premium On New AI Test Head - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDdIaFdqNDVYUXV5bEo5UnRlQ3IxdmowRk9oZ3VwTExZUXFZcGpQRDN6bzl6RkRnX2pxcFBxZXhlWXcxV2E2Z2JONUoweXA5TmZoMm1CLTNvTEZUU09UdnV3TzV1MXpoSzlfeWRDeHFWSGV4TG5WQUZBTjFlc3F0ZGl4V01HWnhxZVQzVy1uMHdFYnBrRHdCbGRSaw?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Wed 5:53 PM ET",
-      "source": "Seeking Alpha",
-      "title": "IMPACT Silver GAAP EPS of -C$0.01, revenue of C$18.5M",
-      "url": "https://seekingalpha.com/news/4676712-impact-silver-gaap-eps-of-c001-revenue-of-c185m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 5:51 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Banco Macro reports Q3 results",
-      "url": "https://seekingalpha.com/news/4676711-banco-macro-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "EARNINGS"
-    },
-    {
-      "time": "Wed 5:50 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Blue Owl Credit Income announces tender offer to repurchase up to 5% of shares outstanding",
-      "url": "https://seekingalpha.com/news/4676705-blue-owl-credit-income-announces-tender-offer-to-repurchase-up-to-5-of-shares-outstanding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "time": "Thu 5:12 PM ET",
+      "source": "Google News",
+      "title": "ConocoPhillips (COP) Stock Could Be A Bargain After A 133% Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT3RjMDN3azluaVB1QktzNktoT1duRnh3R1ZRNlNtd3p3eVVOU1Z3Q05SQkthZFlManVyOU80bG52Z3FWZXBLWUtrOEtZNnpIQkw4SXB1eWJNNms1dXU1aFItVUI3a1hsWDJFcENOcFFLV3IxTnZUU29FdGFSSFYxX0RvY3dtV2xlRERWc3JvTmYzcWZXVE51R05XYTZDSXlJUmk1YU5R?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 5:50 PM ET",
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "time": "Thu 5:10 PM ET",
+      "source": "Google News",
+      "title": "Arista Networks (ANET) Could Be 4% Undervalued On Etherlink R4 And AI Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRl81ZWVsZlpzaEJ1bUVNVlF6cWpkZmFVOWdxQ0Y3WTFFcG9USGpqNWd1Y0ZfZkhPT1EwUG5kaGxRNXRSdWk0Q1l6aGtSUGlEQVZoWWxOMmRFTHNNMTVKbzFlY2x5ck1VNFcwdll6WXg0ZFJwQVhkeEVvaTEwbHJlVG91bUd3WkhSVTFEZzZmVE1MU0hsTW9nQw?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Wed 5:50 PM ET",
-      "source": "MarketWatch",
-      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "time": "Thu 5:10 PM ET",
+      "source": "Google News",
+      "title": "Victrex (LSE:VCT) Stock Looks Reasonable On Cash Flow Value - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmdETzN1bEVCbFhKMk1UYUhEQkdEOVRwZkdOczl3T1FPdm5VcklSaVRuT1E0MDBLeE9ZQnRxd3A0X21UT29JWUlOckFOUmFvM3ljVTdWNFE3MTcwX3d3QjZTTkZlWnIwZkhnZHM4d2xSNW1iUnBpYjB2UTZIdXFrWEE3RkNaZlphbTk4XzBZX3RlTWkzSzdz?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Wed 5:49 PM ET",
+      "time": "Thu 5:10 PM ET",
       "source": "Google News",
-      "title": "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5",
-      "tag": "MARKETS"
+      "title": "Shell Stock And European Energy Peers With LNG Exposure Investors Are Watching - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXNQRFd2ZDRMenpBeFczRkNpQ1JCZERuaVBMWjR3RmFsbVBhVXZSa281ZXVxZTZ3QUZsdGZTbk93VE1ibDJSMkhtVUt6LWVpV0JlTkpUa3JNZDRXMVpHTklRZ2RMaEVZR1J3M19XWWQtTVhWZ2RRVWVGdVZuaFRzNWJYMDJHdWhkcHRoZy1leGlnbGsz?oc=5",
+      "tag": "ENERGY"
     },
     {
-      "time": "Wed 5:48 PM ET",
+      "time": "Thu 5:09 PM ET",
       "source": "Google News",
-      "title": "Fastenal Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVNtYnJfZG9ERDIyalc0RXVEVGRaSHV3OGhLYU1zYTlMUXg4M0x3UFctVFB2T1luaFA3emZLckRPS2V6RFB3YzFWdEJEUDJsVWNYNnJZX0dRVGswRzExbno4R3FuRkZqMS1WRXA4dVprck1ZdGpjSWZfUTc4M2lpcnN1RWxZbW5zY1QzTUpfTFV4dmdub2txaDRpRnpfeGwzeGYxNmV5aGt2NDh2YWhuTkNOdVZ2V3FsTV95VnNfM0pUTThoOFU2bVRSYmNvMEswLTFGVlpKNTQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 5:48 PM ET",
-      "source": "Google News",
-      "title": "TE Connectivity PLC stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa0daOFhXZGlQUmpRZnFFdTlpZjJYbTBLSVlMYkM1bkJIelZPNHRkVzM0ZndmcTlPT3c4RmhuV2RYYVlUU3BaZTdEZWJyUzlRUVBQWXVnUHkzVm1vblgzUU52VFJlLTduMDhxN251VV9zMmFvVVRqc1E2ZUJZZ1FOaldOUEExbzBQUm5uX3hwd3JFcnlGQ1l0SWtaem5abUNRUUxseU8yTjBvUFN2eWViR19vcDVDdWxpTWdVVFJzaTdNQjBkYUZMR19kUFNwZnkwSEdpLXpjOGdnZHYtNDNjbjBwQUhvcG9LeWZZNHFzQmZHeWViWXZoV194VnY2dERjaGdDWDZnUQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 5:46 PM ET",
-      "source": "Google News",
-      "title": "Wall Street rebounds as AI stock sell-off eases - thebusinessjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkM4Z2hicU5OYm93enRMTTJ6cUhSV2lRMzBVY1Y1cWJNMXJhZnZRekZiVy1mUmlqZHhQUEdRTjFia0NLZ3FCUW44VFJUYWNVUlc2Q3pxSVhfUzhtUzdiUGpMOXEwYzJaMFhlQnZzZUxreVJFcHFLTURqX21haHpJVGRGbmJNdw?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Wed 5:46 PM ET",
-      "source": "Google News",
-      "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSGtneWgzSmNKTlh1VUJPczN0LUdkak1Db2hCdktyLUhBbkRmVG5kRVV1eURkdFlqazE3MmlkZHZnSFhJWFUyMjFRWDVSU0xCX0R3c1BTMzFPNTFjMVVDeU5CYW1vT29JQS1tN2VJeGlNOVAteWkzNm1oQlA2cXE5OFA4MWV1c2R3d3NWdTFuNklMQjViZUszVm1MMGs2TWZicnpjQnNORmhrTmh5VWJmZVNIUVU0ejZPSEJMM3JRajNQc2VxWFdiZFZqZTFiS0RKaktBYy1xUURwb2o2cEdmSllBQl8xcnRKLW1JeWhhTHdXTUhkVHhfdUhidl84TmZVd0taVkFXQQ?oc=5",
-      "tag": "FED"
-    },
-    {
-      "time": "Wed 5:46 PM ET",
-      "source": "Seeking Alpha",
-      "title": "Atacama Resources International COO steps down",
-      "url": "https://seekingalpha.com/news/4676710-atacama-resources-international-coo-steps-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Wed 5:45 PM ET",
-      "source": "Google News",
-      "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGdRVGZOYmxMSm43dF95Rk5PYTk3SDBzSzlwTmh4YjQwN1NTb1h1LUhlT01FVVktZnRPeEFhQjhTNERtcVpiQ2lwWGU4Y1lrcTlYU2RaVG9qRkVvSExSOG5JWnNMRnhqc0lLWEhtNnJONEk2MVdtT0hCT0RYQ1RhWVlSdnhSaFJzXy1nRVVQLUNiU0JIMzUtZm5YM3JSMTJKVGphN2hROTdZaWR2RFM5VWJkd1BjNlZBanU4VmNHN1hMc2hYdnV6N3JjSVpGREg1ejZlYV9WM2JCZjhuZUdoR0dQY2lxSE15NlV0RThWUnVtcGxiSlFTZy1VXzZjdXNwekl2TTFkWQ?oc=5",
+      "title": "What Cytek Biosciences Buyers Were Betting On - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYW1vbmhLQl90V3ZGdGR6aWNkT0Q0cFVIcTRlSy1sdHNvR3ZZR0xsejZZTllSRVhQblNuamxfN2JQN0VBLU5QMzZGRE1YMVVtT1BCTFhSa2lDNmJ4MDBiZUk2VGpyN0ljdFJHWHhUVmVJZDJ2R3BSTnJ6OUx5WHRDRlY0Z1loQldCM29sLWQ2X1dPVHBrRk9QR3ZwQ2I1V0pUdU9nZw?oc=5",
       "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "LI",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "BZ",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "BMA",
+      "ticker": "HUBG",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "GDS",
-      "when": "BMO",
-      "note": ""
-    },
-    {
-      "ticker": "NWCL",
+      "ticker": "QUIT",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "HDL",
-      "when": "BMO",
+      "ticker": "ICG",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "FINV",
-      "when": "AMC",
+      "ticker": "BNR",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "PSNY",
-      "when": "BMO",
+      "ticker": "DOYU",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "TPCS",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "BZAI",
+      "when": "TIME-NOT-SUPPLIED",
+      "note": ""
+    },
+    {
+      "ticker": "SHPH",
+      "when": "TIME-NOT-SUPPLIED",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 28.29, 10Y 4.858%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: NRSN +98.64% on 34,051,282 volume — check its news catalyst before touching it.",
-    "Reporting before the open: LI, BZ, GDS, HDL, PSNY — expect gap moves and sympathy reads in their sectors."
+    "Risk snapshot at sweep: VIX 26.80, 10Y 4.864%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: NRSN +98.64% on 34,051,282 volume — check its news catalyst before touching it."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
