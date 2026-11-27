@@ -1,352 +1,352 @@
 window.BRIEFING = {
-  "generatedAtPT": "Nov 26, 2026 · 1:56 PM PT",
-  "tradingDate": "Thu Nov 26",
+  "generatedAtPT": "Nov 27, 2026 · 1:38 PM PT",
+  "tradingDate": "Fri Nov 27",
   "futures": [
     {
       "label": "VIX",
-      "value": "26.80",
-      "chg": "-5.27%"
+      "value": "23.81",
+      "chg": "-11.16%"
     },
     {
       "label": "US 10Y",
-      "value": "4.864%",
-      "chg": "-0.7752%"
+      "value": "4.936%",
+      "chg": "+1.8152%"
     },
     {
       "label": "WTI CRUDE",
-      "value": "84.91",
-      "chg": "+1.47%"
+      "value": "83.33",
+      "chg": "-0.42%"
     },
     {
       "label": "GOLD",
-      "value": "3,566.20",
-      "chg": "+0.86%"
+      "value": "3,650.00",
+      "chg": "+3.23%"
     },
     {
       "label": "DXY",
-      "value": "103.784",
-      "chg": "+0.11%"
+      "value": "104.055",
+      "chg": "+0.38%"
     },
     {
       "label": "BITCOIN",
-      "value": "60,778.30",
-      "chg": "+1.30%"
+      "value": "59,789.64",
+      "chg": "-1.46%"
     }
   ],
   "movers": [
     {
-      "ticker": "NRSN",
-      "price": "2.19",
-      "chg": "+98.64%",
-      "volume": "34,051,282",
-      "catalyst": "Why Is Penny Stock Neurosense Therapeutics (NRSN) Up 125% Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-penny-stock-neurosense-therapeutics-nrsn-up-125-today",
-      "spark": [
-        1.26,
-        1.28,
-        1.13,
-        1.1,
-        1.76
-      ]
-    },
-    {
-      "ticker": "RAYA",
-      "price": "0.79",
-      "chg": "+84.84%",
-      "volume": "39,110,469",
-      "catalyst": "ERAYAK Advances Hybrid Power Strategy as Ruike Facility Enters Final Acceptance Phase",
+      "ticker": "POM",
+      "price": "2.99",
+      "chg": "+85.71%",
+      "volume": "31,173,707",
+      "catalyst": "POMDOCTOR LIMITED Highlights Real-World Data as a Strategic Foundation for AI-Enabled Healthcare Solutions",
       "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/erayak-advances-hybrid-power-strategy-as-ruike-facility-enters-final-acceptance-phase-302931939.html",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-highlights-real-world-data-as-a-strategic-foundation-for-ai-enabled-healthcare-solutions-302934447.html",
       "spark": [
-        0.49,
-        0.68,
-        0.6,
-        0.42,
-        0.66
+        1.7,
+        1.7,
+        1.65,
+        1.61,
+        3.12
       ]
     },
     {
-      "ticker": "NIVF",
-      "price": "0.03",
-      "chg": "+49.41%",
-      "volume": "695,260,184",
-      "catalyst": "NewGenIvf Group completes 6% stake in K25.ai, expects $7.3M unrealized gain",
+      "ticker": "UFG",
+      "price": "3.19",
+      "chg": "+85.47%",
+      "volume": "25,925,125",
+      "catalyst": "Uni-Fuels reports 9M revenue $307.8M vs $190.5M last year",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/newgenivf-group-completes-6-stake-in-k25-ai-expects-7-3m-unrealized-gain-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/uni-fuels-reports-9m-revenue-307-8m-vs-190-5m-last-year-thefly-news",
       "spark": [
-        0.04,
-        0.03,
-        0.02,
-        0.02,
-        0.02
+        2.1,
+        1.97,
+        1.79,
+        1.72,
+        2.41
       ]
     },
     {
-      "ticker": "WHLR",
-      "price": "0.42",
-      "chg": "+29.13%",
-      "volume": "40,710,608",
-      "catalyst": "Wheeler Real Estate Investment Trust trading halted, news pending",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/wheeler-real-estate-investment-trust-trading-halted-news-pending-thefly-news-6",
+      "ticker": "MNDR",
+      "price": "0.81",
+      "chg": "+61.39%",
+      "volume": "28,750,193",
+      "catalyst": "Mobile-health Network Solutions Launches MaNaDr Health Operating Ecosystem Connecting AI-Powered Virtual and In-Person Care",
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/321779/Mobilehealth-Network-Solutions-Launches-MaNaDr-Health-Operating-Ecosystem-Connecting-AIPowered-Virtual-and-InPerson-Care",
       "spark": [
-        0.36,
-        0.32,
-        0.32,
-        0.33,
-        0.41
+        0.95,
+        1.02,
+        0.63,
+        0.5,
+        0.92
       ]
     },
     {
-      "ticker": "SVRE",
-      "price": "1.45",
-      "chg": "+28.32%",
-      "volume": "10,128,753",
-      "catalyst": "SaverOne 2014 signs non-binding LOI to acquire Drew Therapeutics",
+      "ticker": "RETO",
+      "price": "5.12",
+      "chg": "+34.03%",
+      "volume": "6,078,642",
+      "catalyst": "ReTo Eco-Solutions trading resumes",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/saverone-2014-signs-non-binding-loi-to-acquire-drew-therapeutics-thefly-news",
+      "url": "https://www.tipranks.com/news/the-fly/reto-eco-solutions-trading-resumes-thefly-news",
       "spark": [
-        1.12,
-        0.98,
-        0.92,
-        1.13,
-        1.47
+        4.03,
+        4.41,
+        3.79,
+        3.82,
+        5.48
       ]
     },
     {
-      "ticker": "CHSN",
-      "price": "0.07",
-      "chg": "+25.00%",
-      "volume": "184,315,007",
-      "catalyst": "3 Penny Stocks to Watch Today, November 4",
+      "ticker": "XCUR",
+      "price": "1.26",
+      "chg": "+29.91%",
+      "volume": "417,465",
+      "catalyst": "Exicure enters business expansion, investment agreement with NeuroQ, Laonz",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/article/3-penny-stocks-to-watch-today-november-4",
+      "url": "https://www.tipranks.com/news/the-fly/exicure-enters-business-expansion-investment-agreement-with-neuroq-laonz-thefly-news",
       "spark": [
-        0.1,
-        0.07,
-        0.06,
-        0.06,
-        0.06
-      ]
-    },
-    {
-      "ticker": "DKI",
-      "price": "1.14",
-      "chg": "+24.93%",
-      "volume": "12,345,589",
-      "catalyst": "DarkIris Inc trading halted, news pending",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/darkiris-inc-trading-halted-news-pending-thefly-news-2",
-      "spark": [
-        1.01,
         0.9,
-        0.92,
+        0.93,
         0.91,
-        1.28
+        0.97,
+        1.4
       ]
     },
     {
-      "ticker": "BNAI",
-      "price": "8.15",
-      "chg": "+22.56%",
-      "volume": "4,871,570",
-      "catalyst": "Brand Engagement Network Inc trading resumes",
+      "ticker": "NXAT",
+      "price": "0.84",
+      "chg": "+29.79%",
+      "volume": "12,663,398",
+      "catalyst": "Nexus Advanced Technologies appoints Cheng Sin Yi as co-CEO",
       "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/brand-engagement-network-inc-trading-resumes-thefly-news-3",
+      "url": "https://www.tipranks.com/news/the-fly/nexus-advanced-technologies-appoints-cheng-sin-yi-as-co-ceo-thefly-news",
       "spark": [
-        2.57,
-        3.36,
-        7.32,
-        6.65,
-        8.15
+        0.55,
+        0.35,
+        0.42,
+        0.64,
+        0.9
       ]
     },
     {
-      "ticker": "OMH",
-      "price": "4.54",
-      "chg": "+21.72%",
-      "volume": "9,557,133",
-      "catalyst": "Ohmyhome Ltd trading resumes",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/the-fly/ohmyhome-ltd-trading-resumes-thefly-news-7",
+      "ticker": "NCPL",
+      "price": "2.36",
+      "chg": "+26.20%",
+      "volume": "1,000,769",
+      "catalyst": "What Does Netcapital Inc.'s 28.62% Stock Drop Mean for Investors? The Law Offices of Howard G.",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/what-does-netcapital-incs-28-62-stock-drop-mean-for-investors-the-law-offices-of-howard-g-smith-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302946395.html",
       "spark": [
-        4.22,
-        3.6,
-        4.36,
-        3.73,
-        4.05
+        2.74,
+        2.43,
+        2.17,
+        1.87,
+        2.03
       ]
     },
     {
-      "ticker": "APUS",
-      "price": "2.80",
+      "ticker": "SID",
+      "price": "0.68",
+      "chg": "+25.69%",
+      "volume": "807,259",
+      "catalyst": "Companhia Siderurgica Nacional Elects New Chief Financial Officer and Investor Relations Executive Officer",
+      "source": "nasdaq.com",
+      "url": "https://www.nasdaq.com/articles/companhia-siderurgica-nacional-elects-new-chief-financial-officer-and-investor-relations",
+      "spark": [
+        0.51,
+        0.54,
+        0.51,
+        0.54,
+        0.63
+      ]
+    },
+    {
+      "ticker": "AREC",
+      "price": "0.90",
       "chg": "+21.21%",
-      "volume": "1,865,587",
-      "catalyst": "Why Is Apimeds Pharmaceuticals US Stock (APUS) Up Today?",
-      "source": "tipranks.com",
-      "url": "https://www.tipranks.com/news/why-is-apimeds-pharmaceuticals-us-stock-apus-up-today",
+      "volume": "332,919",
+      "catalyst": "Lost Money on American Resources Corporation Shares? The Law Offices of Frank R.",
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20261127240640/en/Lost-Money-on-American-Resources-Corporation-Shares-The-Law-Offices-of-Frank-R.-Cruz-Investigates-Potential-Securities-Fraud-After-29.81-Stock-Decline/",
       "spark": [
-        1.74,
-        1.6,
-        1.5,
-        2.31,
-        2.76
+        0.91,
+        1.04,
+        1.07,
+        0.74,
+        0.94
+      ]
+    },
+    {
+      "ticker": "WETO",
+      "price": "0.64",
+      "chg": "+20.96%",
+      "volume": "54,036,679",
+      "catalyst": "Wetour Robotics Ltd trading resumes",
+      "source": "tipranks.com",
+      "url": "https://www.tipranks.com/news/the-fly/wetour-robotics-ltd-trading-resumes-thefly-news-7",
+      "spark": [
+        0.16,
+        0.54,
+        0.61,
+        0.53,
+        0.69
       ]
     }
   ],
   "headlines": [
     {
-      "time": "Thu 5:45 PM ET",
-      "source": "MarketWatch",
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 5:33 PM ET",
+      "time": "Fri 5:31 PM ET",
       "source": "Google News",
-      "title": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZxM0NXdzJCNTJPamZxS0M1UHpVY2QtX0hvckJ5YVZfSmZwWm5uUHZ6RUo3Z2VvOS1ZOHAtSTljTWFrdTRzOEJPdlpSZU5uZm5jRGQ2QTBtZjUzZ3hVVmRsZk5oWWlJVUFNMzVPd1RGUlZFTzFxTndHVUpnY0RnM3Y4WmVMSDZkcU1MOEk0azRwQ05VUnJzY01GUi1sN040Z1UyZ3JR?oc=5",
+      "title": "Generac Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNHg3dWQxLUc3Vm9xZmFsYWxWeXMyUXZweEcyMW5CRTF0RjUzQlRmYU1wZ0JocFYyVmIzSE1RbVplUTBYV1VPbkJqaEhJQzh4SlNOWGQzYUhIenhCT0U4aHZFZDA1ZHRMSWhEMWt3RUd2Q0cwdTNtX2k2bC15ekQ1WnNHTTVHSnBWbUZmMldDWW9EX3pWYlNsWHYwUTA5cXJ4eENOZ0c0cTQwZWtkSFBoeU9RYUN5M1dYd0tmenFUVHVYMmhyWFh3Qjl4Wk8?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:30 PM ET",
-      "source": "MarketWatch",
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "time": "Fri 5:31 PM ET",
+      "source": "Google News",
+      "title": "ON Semiconductor Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmJ4cW9aVUNsX2FlbmNPT3pmWWZ5RGk2NDJ5X1IzY0FJdWlUcWFtWXIxWmNKakIxUHRiVXJDM1MyRGlDWGxuSGlsX3R1cTlVWm5kXy1SQ2wzQlFjOUtoX3N5NTQ1c0pQSXFzT2R0aXhmLW56c28yd3BrNW9UQzZXX1dHXzFBSWN1amUtWFhMbmVrYjVDb1JGamZIc3U5Xzd3UGFfTUthTmVHNU1CVmVYVkJOdHZ2NkE2NUVVZFo5Q0V1bEFCMlRLNVRrQVJ3Zw?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Thu 5:22 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Disney Stock Just Closed at Its Highest Level Since April 2022 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmJNb3d5Y2VmTzZFRzg0MHZVeng5bDFFSExPQ1Fwdm15OHpVUGd6RWJGVDh0a0loejVNNVNEemRoWW8xTzN3QmIxVG9TN19nQlZOWkJkZWZELV96S2ZXX196M1ZUMWJjejZuM0pYSlhidHBORy1xNVFIN2FIY2tZQnpxQ0dseWNzbXY4UGpTTFRRUmZ2N1k5aHFaWVBTQQ?oc=5",
-      "tag": "MARKETS"
-    },
-    {
-      "time": "Thu 5:22 PM ET",
-      "source": "Google News",
-      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndtT1dTZXdiYWpqTXRoMktMU3pTZ3U0d1lMTURLenJTa1BpdkE5c0IwNnVPTFJYX2NidVRlb2FuT3BNZFptMDBvQ3ZPdTVEbGowUlRvbVlpNXpZRFlTQUkyd0VMTmtmUUZfWjlnWWJYbVJYY0VGa3BDVEU2clpGR18zbmlaV0xOTWRDb2xWYnBhWE5iZUdJ?oc=5",
+      "title": "Stock Market Today, Nov. 27: S&P 500 Posts Best Week in 19 Months as AI Stocks Rebound - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2lOTVBlRXZFWDg2SUQ0MDVYejFLUUxDQUNXSEx4b2EwU2ppMThRMHpEbE4xejFXeDUwcGp5eWVrd3NtVl95NV84STE5d3hfTGt5N0dSNWFQR1pSbmVKRjNHekhwZ3lSZ2hrUG56YkpIRlNvMThPMV96VDVMZ1BhMlpFX2kzVjBISW00ZEIyZnY3R1BIVFpnYlpxZTZwZmVUY3k0aWZfVkx2Y1haVzBvTzl2ZGtMWGdlS1dkdlNJX0pVUnlPWVF6bFZOQTFvRDRFN2toWjZ2eWtNcWNMdTBSVDd3?oc=5",
       "tag": "TECH"
     },
     {
-      "time": "Thu 5:14 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Compass (COMP) Jumped, But What Is Driving Attention Now? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFBHeW9mblR3QWdHMG9kTVJwUlJydkRLWWt5b3JfLTlveDh6Tkk0LXdHSU9DM3Z4SlhvdUpTY1pIclhZZ2FZNHg3czlReUNvdkxsTHp4b2x0OHZTSjZMZzNYLVdZX1EyV3VydVFNR05MeUk4dlFDSkVkN0lrQzd4dWo1SGphZnpGcEcwSno0TjBCdC1tdkFnZ3VkX2NleHdkMFFRNg?oc=5",
+      "title": "Teradyne Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDJIQU1tNGNvOXRRRFdRWVRMNko3WlZIUE5zeHIzemZ2SUgxS0VoQ2JiM2NNSVZ1VXVFUWRidnhCbXRIUHBSZmNWUkVPalFfYWt0V0NRNTZwTERCOUItX2R4dzZvZFBnTTdXdWpzTVA0Rl9KdTVsY2RLbmZvMEJwSExiVzNUYjZGU1RQQkxNZXRjdk54dzNhd3J1Q1ZvZEFQMTRoZnhUd3JSYTlHVUtwUDlEZ3g5X1k5SVlYWk40SUdYZw?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:13 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Does Ipsos (ENXTPA:IPS) Sit Below Fair Value On Cash Flow? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1BOTE9fMkdnS0piZ0NacHlOT3E5ZkpOclprS0JlOEV4Z0Q1ZE42UGRJZWkzZGNzSmNLUXMyc2JOdVE3S2xJMlpjU2hsYXZYLWZETTcxN1gtamU2ZGpHX2JobHhBWjc3Q1Z1aUdvc18tMHVDU1BKSGxJaXVYNjg4Yk9lQ0swSzdvaW5HSWxEcWg5WFBV?oc=5",
+      "title": "Arista Networks Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDNpNW8xZnI0aC1fZmt0bExhMlJiOS1lcGw1VUFPUU1kTkE5a1gxcGxPbkRnYWRNWXJTM2NsSl9KX28wWTRIU3ZLLWxtY0FrTUtSZDlFWEJrU04xdmZoSXVYcFNKLVQ3OGYzalVYUDRPckZENGotby0zcTZKTGszWGJqcHR6QmUxNXAzc2NjS2h0RGVaOUM2MmhsZ2RqMFpIc1dvN1Z4bXp6SjBuUk9LampVTFMxdjRnLTFIbm5ZTWwzN3RyX2JLbnlkNA?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:13 PM ET",
-      "source": "CNBC",
-      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "time": "Fri 5:30 PM ET",
+      "source": "Google News",
+      "title": "Newmont Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXItajFsU2F6bUdTdGV3MFA4LUNIMmxweXR5RFBuZVpVZENfbU5zc2lPaF92alYzWjgxSEM3M1Y1UlpmT05BSzM1THhWaHFnVXZMT1BPVEFpa2dnWkg1VVFXZGU2VE8xRmRzdG9IQWdEMGJORUNrMnU4bHd1QUozQkF4c2tPcEVZY0NGWlR0RDdqamdMOGhNZXBBVW1oLTl4WFFudnQweTM4WUpjVGc2WjlHY1hJUFk5eHZkQ1VCeFBrQQ?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:12 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Is Exmar (ENXTBR:EXM) Priced About Right On Cash Flow? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnVSQWpzUGU5Sk1EdjhzYUJKSzJMOFYwLUs3ZmZxaDhZUkZUOTdwNzdtVzF2LVlnSEhVT28wU1FQb2p5V3Ayb3UzVXQ3MnBSQlVLeEFidDFvQ3hHX2hjQTloZlpPMHpfSmlZbWwxeGN4SXpvWVRiOThvNXVJRGdBNloxZDZlLU1vclhWVTVpZ04wM1RHTEx2Yg?oc=5",
+      "title": "Western Digital Corp. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb254Q1NGdG9LTlV3V256QUp6aTc4N2UyVDc1NHZTbDBCQ3NsOUxSMGZDcktQZl94dTZqdFA5cjYwTnBiYWNRSHlKVGQ1MnY4MkZqSnFqNWxIM0VqNTc3cFJ6UHFmUzJVQlpjc2U2amRrXzVidlJidFA1a0g2V21xMmxMU0F2UXZWa3dhZW1IdlE5dEdZVlpOQURobTFpbjVuZlRVN2FfeXdHYUFaZmJzZTMxRXlfaVFDLVJQclVJWk5kLTVNTVpabTdiaC1SZWZ1UGFZZnFTTVNoSG1GaWZZNDQ4NmRQdVBkNjF2Yg?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:12 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Advantest (TSE:6857) Stock Could Trade At A Premium On New AI Test Head - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDdIaFdqNDVYUXV5bEo5UnRlQ3IxdmowRk9oZ3VwTExZUXFZcGpQRDN6bzl6RkRnX2pxcFBxZXhlWXcxV2E2Z2JONUoweXA5TmZoMm1CLTNvTEZUU09UdnV3TzV1MXpoSzlfeWRDeHFWSGV4TG5WQUZBTjFlc3F0ZGl4V01HWnhxZVQzVy1uMHdFYnBrRHdCbGRSaw?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Thu 5:12 PM ET",
-      "source": "Google News",
-      "title": "ConocoPhillips (COP) Stock Could Be A Bargain After A 133% Run - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT3RjMDN3azluaVB1QktzNktoT1duRnh3R1ZRNlNtd3p3eVVOU1Z3Q05SQkthZFlManVyOU80bG52Z3FWZXBLWUtrOEtZNnpIQkw4SXB1eWJNNms1dXU1aFItVUI3a1hsWDJFcENOcFFLV3IxTnZUU29FdGFSSFYxX0RvY3dtV2xlRERWc3JvTmYzcWZXVE51R05XYTZDSXlJUmk1YU5R?oc=5",
+      "title": "Skyworks Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGJIT1hwajVqSmNGQmYtbUU2a1dGclg3TUFnMHc5QTFtUDZzR1dTM1dpS3hzZEVMWmMxaHgwOFpCS3gyWkwyZF9IZjE4R01EOHI2UnpvZGc0bldwdFR6OHV1UUlkQUkyZ2FmWjQyNE1IbGxZZmtLbk5LYTE0VVdkTmdRM1QxUk43WDJva2F5WmxsNDgzejUyMDZNRmZLMDZUZTZQYmFDUDlLaURiS0VKampjS1diaWY0VklLYlJFMWhsSDBDSXdOVi1xNXloUDQ?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:10 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Arista Networks (ANET) Could Be 4% Undervalued On Etherlink R4 And AI Growth - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRl81ZWVsZlpzaEJ1bUVNVlF6cWpkZmFVOWdxQ0Y3WTFFcG9USGpqNWd1Y0ZfZkhPT1EwUG5kaGxRNXRSdWk0Q1l6aGtSUGlEQVZoWWxOMmRFTHNNMTVKbzFlY2x5ck1VNFcwdll6WXg0ZFJwQVhkeEVvaTEwbHJlVG91bUd3WkhSVTFEZzZmVE1MU0hsTW9nQw?oc=5",
-      "tag": "TECH"
-    },
-    {
-      "time": "Thu 5:10 PM ET",
-      "source": "Google News",
-      "title": "Victrex (LSE:VCT) Stock Looks Reasonable On Cash Flow Value - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmdETzN1bEVCbFhKMk1UYUhEQkdEOVRwZkdOczl3T1FPdm5VcklSaVRuT1E0MDBLeE9ZQnRxd3A0X21UT29JWUlOckFOUmFvM3ljVTdWNFE3MTcwX3d3QjZTTkZlWnIwZkhnZHM4d2xSNW1iUnBpYjB2UTZIdXFrWEE3RkNaZlphbTk4XzBZX3RlTWkzSzdz?oc=5",
+      "title": "Monolithic Power Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHVmamJVLXk1Y0dPR19pSGZXWHlDZ1BVazlqX1drYS13V2Vvc2JmejdlaFhWcl9sUmFmc2dDUWFTT2xJbzVjZzRXY1lzMFpSNThrMVYzZ1MyYWprQUJVM1ZqRkc0YkpBSUNuSkdJclJkZkVNZ3lFRHVBakFBcDFNTmR4WldTd2F4SWFqcS1iZGR5VE9lcDlVVkVkcmJRbVI2QWx3dTNVclNuSFNiY1dFNGdGdTdfMlFYLThqMU9Xd0lfc25sdmlTcUJTYXFHV2hrRm5HSElicw?oc=5",
       "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:10 PM ET",
+      "time": "Fri 5:30 PM ET",
       "source": "Google News",
-      "title": "Shell Stock And European Energy Peers With LNG Exposure Investors Are Watching - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXNQRFd2ZDRMenpBeFczRkNpQ1JCZERuaVBMWjR3RmFsbVBhVXZSa281ZXVxZTZ3QUZsdGZTbk93VE1ibDJSMkhtVUt6LWVpV0JlTkpUa3JNZDRXMVpHTklRZ2RMaEVZR1J3M19XWWQtTVhWZ2RRVWVGdVZuaFRzNWJYMDJHdWhkcHRoZy1leGlnbGsz?oc=5",
-      "tag": "ENERGY"
+      "title": "Vertex Pharmaceuticals Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHFMbWhjcVh3N1ZGWHdFSVFGRTNINUc5aUhWZTZ4SkRJQnV0Si1wUDZERUlfbEY0YXd2UXhqRjRzUnREUklXZkp4ZVlJMVFqVXdPeGhfMWRlR3dHd3RoZE1DZUh5dEFXRUM2LUZEMjBXWENnMWc1cTFPM3cyZDdKcDlxV2l3SzVXaEJCQXlObFJmYUJidTg0bEtzM21nVWZsWXg2MGR3U21kYzBpRWxYeVRHYlp6c3dlVnMxaUdOczB2REtpbVpxcVhCVlpkMEJmek5qT2NMRWpIQQ?oc=5",
+      "tag": "MARKETS"
     },
     {
-      "time": "Thu 5:09 PM ET",
+      "time": "Fri 5:27 PM ET",
+      "source": "Seeking Alpha",
+      "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
+      "url": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 5:24 PM ET",
+      "source": "Seeking Alpha",
+      "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+      "url": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 5:09 PM ET",
       "source": "Google News",
-      "title": "What Cytek Biosciences Buyers Were Betting On - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYW1vbmhLQl90V3ZGdGR6aWNkT0Q0cFVIcTRlSy1sdHNvR3ZZR0xsejZZTllSRVhQblNuamxfN2JQN0VBLU5QMzZGRE1YMVVtT1BCTFhSa2lDNmJ4MDBiZUk2VGpyN0ljdFJHWHhUVmVJZDJ2R3BSTnJ6OUx5WHRDRlY0Z1loQldCM29sLWQ2X1dPVHBrRk9QR3ZwQ2I1V0pUdU9nZw?oc=5",
+      "title": "Take This Quick Test to See How Much You Could Lose if the Stock Market Returns to 'Normal' - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUURxQTNVSVUxOXkxR25ieGlkU284QmlIU3pZdFZJUXBVelphX1ZTRHZfajk4MzZ3bWg5bnNMOUQyN2hNcWYtd0sxTVh5TEpMa0ZrdDFSek1fWmlFVFNqZlQzZW10MEFJRDJrenpSck1PX21mcEhaYUVnU01vMlBUV0F0V3R3aVUzVW9BVUI3bzdaTkxCc1dnWjNteTBlb2hfRnBxM3lvNUlwZEFzYlNTQ0dla0d2c1d0NXh5SURER3hRQnBNU1hSUWRYRmtxdw?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 5:01 PM ET",
+      "source": "Google News",
+      "title": "Natuzzi Ordinary and Extraordinary Shareholders’ Meeting - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOC1Oc29mMVJvckZNTDFsY25EbHlDSkQ4Wko0LXNqVlJ3dXB3NUdPU3FfYU5KOVNpRW40MHI2WFBidDRsdFc0OU1jMEFDZ0tEU3RQN2ROTG5hUFpnVE1ySnlNV28xVklnMDRBR0swM01ZU3ViMXJ6dEp5YWVoMzFJWHRlaC1TM0gyUXpQMnhZRzBfZUJSWFNnSS11Qm5MR1JnYnlRX1pzdExpRjBXOTJuSi1jSWtNdjQ?oc=5",
+      "tag": "MARKETS"
+    },
+    {
+      "time": "Fri 4:47 PM ET",
+      "source": "Google News",
+      "title": "Why Shares in SpaceX Popped Higher Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFpscnZYRURfcHg0QXVuVDFwRDhGbkJpbGJQd3RVMXg3OXdVd01JQ1NCWUxJTmRsTDBjVFJqcDQ3Q0otaHREU21od1FQWmJjcHlfdTdqcHhJdmtXWFg0eklNdUdVNTdhQ1JtSWpsTWYyaWRCWkpKb2VRYTZfcnRIcW8weGpackphRjE5UjgtVHFUR1ZiNG1mMWJycHI?oc=5",
       "tag": "MARKETS"
     }
   ],
   "earnings": [
     {
-      "ticker": "HUBG",
+      "ticker": "KT",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "QUIT",
+      "ticker": "NAT",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "ICG",
+      "ticker": "SIDU",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "BNR",
+      "ticker": "AREC",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "DOYU",
+      "ticker": "PVL",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "TPCS",
+      "ticker": "NORD",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "BZAI",
+      "ticker": "AAME",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     },
     {
-      "ticker": "SHPH",
+      "ticker": "CELU",
       "when": "TIME-NOT-SUPPLIED",
       "note": ""
     }
   ],
   "watch": [
-    "Risk snapshot at sweep: VIX 26.80, 10Y 4.864%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
-    "Highest-profile mover: NRSN +98.64% on 34,051,282 volume — check its news catalyst before touching it."
+    "Risk snapshot at sweep: VIX 23.81, 10Y 4.936%. Index futures feed unavailable — verify direction on your broker screen at 6:15.",
+    "Highest-profile mover: POM +85.71% on 31,173,707 volume — check its news catalyst before touching it."
   ],
   "notes": "Cloud sweep (deterministic — no AI analysis this run). index futures quotes unavailable from the cloud feed this run feed failed (Yahoo Finance): HTTPError"
 };
